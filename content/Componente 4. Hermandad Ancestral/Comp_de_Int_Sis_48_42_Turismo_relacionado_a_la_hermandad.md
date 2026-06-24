@@ -1,0 +1,33 @@
+## 4.2 Turismo relacionado a la hermandad
+
+<!-- Páginas: 237–239 -->
+
+237
+
+4.2 Turismo relacionado a la hermandad
+
+La costa caribe colombiana, es un gran ejemplo de hermandad ancestral. Cada lector encontrará su propio ejemplo de una región que sea ejemplo de convivencia entre diversas culturas. La relación entre diferentes grupos sociales que trabajan en armonía, promoviendo un equilibrio cultural y comercial, como una relación simbiótica  de  intercambio  cultural  y  sus  capacidades  económicas,  desde  la perspectiva de biodiversidad, son una experiencia que junta diferentes sectores con la naturaleza y crea una respuesta inolvidable para los sentidos.
+
+Tomando distancia del panorama de la colonización y los conflictos entre partidos políticos que formaron nuestra identidad social en los territorios, hoy en día podemos adquirir gran capacidad de entendimiento en lo que corresponde al componente de la hermandad que se formó en las costas colombianas y en otros territorios. Tomaremos para el ejemplo las características de convivencia social desarrolladas en lugares paradisíacos como lo son las playas de acceso turístico.
+
+Aun cuando existen límites bien marcados por la brecha social entre ricos y pobres, se puede encontrar una empatía que se destaca en la oferta cultural y en apoyo a las iniciativas de los individuos, sin importar su origen en las clases sociales. Una alegría compartida se mezcla entre las actividades comerciales al rededor del turismo. Desde las altas cumbres del conocimiento ancestral en los cabildos de resguardo indígena en la Sierra Nevada de Santa Marta, hasta las poblaciones más afectadas por la falta de recursos financieros, se puede advertir unidad en la forma de respeto y aceptación de la persona, incluyendo individuos de todas las clases del tejido social en una reunión festiva a las orillas del mar.
+
+La  aplicación  de  este  contexto  de  convivencia  se  refleja  en  su  oferta gastronómica y su actividad comercial, su atención al público, sus técnicas de ventas con las que ofrecen al turismo una amplia gama de productos que se articulan para el bienestar del usuario y en la participación de todos los servicios y sectores sociales, comerciales y culturales. Es el mejor ejemplo porque su actividad está impulsada por el turismo internacional, por lo cual desarrollan continuamente una forma de adaptarse a los requerimientos estándar globales. Esto  ha  enriquecido  la  región  desde  las  prácticas  sanas  del  comercio,  el intercambio cultural y el conocimiento global.
+
+Al nombrar las cumbres de conocimiento ancestral, valoramos la forma en que los cabildos han resguardado el conocimiento de diferentes culturas antiguas en los confines de sus territorios, posterior a la colonización de nuestra civilización
+
+238
+
+actual. Allí convergen saberes de antiguas etnias que se entrelazan entre diversas corrientes de pensamiento, como pueden ser afro descendientes y/o raizales indígenas interactuando con mestizos y con razas extranjeras, perpetuando la sabiduría milenaria en el conocimiento de las tradiciones, costumbres y lenguas que permiten convivir en armonía con la naturaleza y el cosmos universal, se recomienda visitar Minca en Santa Marta.
+
+Los  llamados  hermanos  mayores  que  son  maestros  de  conocimiento intercambian saberes de manera recíproca con los llamados hermanos menores (arijuna), ayudando en la organización del estado y sus poblaciones menos favorecidas pese a la economía global. El visitante se siente atraído tanto por la belleza y el atractivo que ofrece la vista de la naturaleza y las playas, como de sus habitantes nativos y la civilización del caribe en su idiosincrasia autóctona.
+
+En  plena  contemplación  de  la  cultura  riquísima  que  ofrece  el  caribe colombiano, el visitante puede resultar fácilmente enamorado y elegir como estadía de por vida sus asentamientos. Así es como el visitante también ofrece una mirada de retroalimentación y respeto por los saberes de la cultura caribeña, como por su cosmogonía espiritual. Esta es una pequeña muestra de cómo se refleja una articulación alrededor de la cultura  y la  educación  con  la oferta turística, responsable en el buen sentido de la administración de los recursos, proteger los espacios  culturales  y  los  territorios  ancestrales  como  su  implicación  en  la inclusión social. La convivencia respectiva de los pueblos con la naturaleza da como resultado la hermandad ancestral entre diferentes comunidades.
+
+Desde luego, no se da esta hermandad en el cien por ciento de la población y aunque siempre en cada territorio hay personas que hacen quedar mal el nombre de la totalidad, en un contexto de intercambio cultural y articulación comercial esta hermandad existe en un amplio porcentaje. Como puede entenderse, este tipo de organización comercial, alrededor del turismo sería envidiado en lugares tan fríos y sin playas, como lo es la ciudad de Bogotá. Sin embargo, en la amada ciudad de Bogotá, la actividad turística, también recurre en buena medida a los misterios de las antiguas civilizaciones que tenían como estancia su localización y por supuesto a las raíces históricas.
+
+La articulación de mercado en la capital, con todo su ajetreo diario y su movimiento comercial alrededor de todo lo que puede ofrecer, también se nutre del intercambio cultural que dispone del legado ancestral. Es un indicio muy claro de que en todos los territorios nos une un valor potencial que es la memoria de pueblos remotos perdidos en el tiempo, pero que dejaron sus huellas grabadas de alguna forma artística y a veces también fúnebre.
+
+239
+
+A parte de la belleza que pueden ofrecer los territorios y su convergencia en la organización del comercio o su correspondiente oferta turística, los problemas no faltan, ya que se generan de alguna manera que puede estar definida por la falta de aplicación de principios fundamentales de convivencia social o por falta de una educación más completa y objetiva, como la que puede lograrse al trabajar dentro del marco de estos componentes. Aun practicándolos con individuos que desbordan pensamientos pesimistas y negativos acerca de la economía, puede dejarse un espacio a largo plazo para la restauración de la misión individual, lo cual nos capacita y nos permite hacer un diagnóstico de la situación poblacional para tratar con propuestas las diferentes alternativas de conciliación a través de la educación y la cultura.

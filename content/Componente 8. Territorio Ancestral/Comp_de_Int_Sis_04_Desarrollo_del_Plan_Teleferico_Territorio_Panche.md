@@ -1,0 +1,59 @@
+# Desarrollo del Plan Teleférico Territorio Panche
+
+<!-- Páginas: 22–25 -->
+
+22
+
+Tabla de respuestas.
+
+Desarrollo del Plan Teleférico Territorio Panche
+
+1. ¿Para  qué  implementar  un  proyecto  y llamarlo Territorio Panche?
+
+No es necesario “crear una necesidad” o establecer la oferta y demanda, para implementar un proyecto que sirva y proporcione beneficios, para un territorio o población. En palabras de Mr. David E Lilienthal, de quien he robado como concepto, y poniéndole algunos matices estéticos, la etiqueta ‘administración humanística’  para  hablar  más  adelante  de  los  emprendimientos  sociales,  a propósito de la implementación de proyectos, en un territorio para generar impacto y desarrollo, cito: “…lo que realizó una especie de milagro material en nuestra tierra: la creación del nervio industrial de los Estados Unidos. Y así como el grupo administrador de la antigua Mesopotamia, hizo posible la elevación del nivel de vida, el cultivo de las artes y la defensa contra los enemigos, así también esa temprana época de nuestra historia fue la que nos permitió convertirnos en el país desarrollado y no en pleno desarrollo que somos hoy y continuaremos siendo.” En contexto sobre esta cita de Lilienthal, podemos resaltar el hecho de estar hablando de una región que antes parecía un desierto, sin nada que aportar, y luego pasó a convertirse en el nervio central de los Estados Unidos.
+
+Continuando con el primer punto, crear valor tampoco es una respuesta suficiente. La respuesta más directa y corta es devolver valor. Veamos en todo caso porqué crear valor no es una respuesta adecuada; y es porque el verdadero valor de algo jamás se pierde realmente, ni ha sido posible ocultarlo o negarlo por tanto tiempo. El valor del agua (simple ejemplo), no es posible negarlo. En cuanto a la productividad de la tierra, en alguna coordenada específica, se puede ocultar el hecho de que sea fértil, pero no se puede ocultar de la tierra el hecho que sea infértil, pues si no produce nada, ni da buena cosecha, el resultado no se puede ocultar, saltaría a la vista.
+
+El valor del ser humano se puede ocultar por un tiempo, pero, las cualidades espirituales al final son liberadas en la solidaridad o las capacidades de trabajo en equipo, en la participación en proyectos que aportan desarrollo y construcción de objetivos complejos como puede reflejarse en las pirámides de Egipto, Guatemala o México. Este tipo de valor que nace del espíritu, está y seguirá estando, en el
+
+23
+
+corazón y en la mente de quienes permanecen en la fe de todos y cada uno, hacia lo más sagrado de sí mismos y hacia los demás, en el respeto mutuo y en la sana convivencia productiva.
+
+Devolver el valor a algo que jamás ha perdido tal valor, significa que tendremos que transparentar nuestra actitud referente al verdadero valor de las cosas. Dedicarnos con atención, el tiempo que sea necesario, para limpiar las impurezas y dejar de falsificar las ideas alrededor del auténtico valor; que ha sido descuidado por explotación desleal, auto engaño y de la manera más peligrosa y violenta, por la ignorancia.
+
+De manera que podemos ver ahora reluciente el espíritu de las cosas tal cual son, en una realidad universal dentro del ambiente natural, que sostiene nuestro propio planeta.
+
+Al ingresar dentro del consciente personal y colectivo, la respuesta del verdadero valor, que es eterno, no vamos a ver los aspectos que han pretendido mantener distracciones sobre la mente de los individuos para que estos pierdan de vista el verdadero valor de ellos mismos. Lo que sí vamos a mantener enfocado en la atención, es el inmutable valor que siempre hemos tenido, creciendo y desarrollándose internamente, esperando el mejor momento para emerger y alumbrar como un faro, que ilumine la ruta de las naves que surcan aguas en la noche, para que encuentren fácilmente el puerto.
+
+Para no caer en el error de simplificar demasiado la magnanimidad del valor, reduciéndolo a nada tangible, o a un título técnico o académico, o a un perfil profesional o de ocupación, y poder obtener una respuesta clara, tratamos de dirigirnos directamente y en el diagnóstico, sobre el estado del valor humano, hacia las raíces de nuestros antepasados y a su propia humanidad (no solo genética), resaltando los aspectos históricos sin recurrir en absoluto a señalizar culpables por los hechos que deforman la realidad actual, resaltando lo mejor de nuestras raíces culturales, como prioridad e identidad propia.
+
+El primer destello de valor incuestionable yace oculto en el territorio en la forma de herencia ancestral.
+
+El precio tan alto de lograr nuestra civilización actual, a base de enterrar a capa y espada el legado de pueblos pretéritos, que disputaron y dieron oposición a la colonización, llamada por esos pueblos, invasión. Si vemos las cosas desde esta perspectiva, hoy por hoy, nuestra conciencia, sí o sí, debería sentir lo mismo que los actuales miembros de la iglesia, al pensar en las atrocidades cometidas por inquisidores en su tiempo.
+
+24
+
+Tanto  católicos,  como  protestantes,  al  reconocer  el  abuso  por  sus conocimientos, poder y autoridad, se pueden permitir un atisbo mínimo de desdén a ese cruel proceder y dado el caso que pudieran sentir pena o vergüenza, sería más legítimo, que pretender recurrir a una postura ideológica y fanática que se justifique para purgar al mundo por el concepto de pecado, llevando otra vez a los individuos a la hoguera y dejándolos arder hasta su muerte.
+
+Dentro de esta misma perspectiva, los alemanes, para continuar con el mismo ejemplo, actualmente no se sentirían orgullosos de las atrocidades perpetradas por los nazis contra el pueblo judío.
+
+Así nosotros hoy, nos permitimos ver la grandeza y hacer homenaje al verdadero valor y con respeto, para limpiar nuestra conciencia ancestral, hacia los grupos que fueron despojados de sus tierras y obligados a vivir sin dignidad, antes, durante y en la transición del establecimiento de la civilización actual, en los territorios de América Latina; sin que esto signifique declarar la guerra y reclamar el territorio, abriendo de nuevo heridas que están cicatrizando, pero teniendo en cuenta que recordar para no repetir, es mejor que olvidar y caer en el mismo error.
+
+El primero destello del valor, desprende de nuestra conducta, al hacer uso de nuestra humanidad y reconocer, que si no era posible en otras épocas, un tratado de paz con tribus guerreras, porque se negaron a despojarse de sus pertenencias para pagar nuestras encomiendas, por lo menos hoy, que somos conscientes del mundo global, podemos ayudar a reconciliar las diferencias en el ámbito de armonizar las cosmogonías antes irreconciliables; en el contexto actual, se pueden llevar de la mano, a una mesa de abundantes conocimientos (culturalmente hablando), donde todos podamos comer y beber, en estado de convivencia, aun cuando no podamos saciarnos definitivamente, podremos hallar cierto alivio.
+
+El punto claro es reconocer nuestras raíces mestizas (aun cuando no se hubieran  mestizado  en  la  sangre,  son  raíces  sociales),  y  todo  ese  proceso mayormente doloroso por el hicimos pasar o pudimos pasar nosotros, como pueblos en pugna, donde algunos fueron reducidos a una expresión mínima y que fueron tragados o adheridos a nuestra civilización actual y global.
+
+Si reconocemos una extinción completa a una población nativa ancestral dentro de un territorio, y somos conscientes de que no podemos “repararlos”, por lo menos, culturalmente sí podemos salvaguardar la memoria de ellos como antepasados, que lograron mantener armonía con la naturaleza dentro de los términos de su propia cosmogonía, ya que es un legado que trasciende nuestras generaciones.
+
+25
+
+Entonces tenemos la respuesta a la pregunta: ¿Para qué implementar un proyecto y llamarlo Territorio Panche? Y la respuesta sin dilación es: porque panches eran quienes habitaron el territorio, antes, durante y posterior a la colonización, y como resultado a su oposición, recibieron la casi completa extinción.
+
+Y como ya se escribió aquí, si no podemos repararlos, por lo menos podemos lograr que la memoria del mundo los recuerde o los redescubra. Jean-Francois Champollion, redescubrió Egipto y posteriormente, gracias a la egiptología se les devolvió la grandeza a los faraones; así también nosotros podemos ubicar en la memoria global la resistencia y el valor del pueblo Panche, entre el legado de conocimientos de la humanidad que les corresponde, no porque hubieran dejado a la posteridad construcciones semejantes a las pirámides, sino porque estaban en relación de armonía con la naturaleza y dejaron un entorno de abundancia y fertilidad paradisíaca.
+
+Nuestro territorio es el asentamiento de los Dioses Panche. Y si en la población actual no hay todavía desbordamiento de signos de adoración hacia sus dioses, en la abundancia y fertilidad de la tierra y su magnífica belleza, también en pictogramas y grabados en piedra, sí podemos encontrar el rastro de su espíritu.
+
+¡QUE VIVA EL TERRITORIO PANCHE! Añadido a esto, no sobra aclarar de manera relevante que ningún costo de implementación  será  suficiente  para  saldar  una  conciencia  que  busca transparencia y revivir el verdadero valor de un pueblo milenario. Sin embargo esta deuda es cultural, no en especie. No significa que se va devolver el pasado o el territorio a las culturas sobrevivientes. De hecho hay que usar este compendio para que las culturas no piensen ni por un segundo en tomar medidas de desorden social y ataque a la civilización, se tiene que encontrar el equilibrio.
+
+Tarea: Ver significado de la palabra UBUNTÚ

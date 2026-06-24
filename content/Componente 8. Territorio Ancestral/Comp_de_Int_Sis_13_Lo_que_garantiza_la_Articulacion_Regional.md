@@ -1,0 +1,111 @@
+# Lo que garantiza la Articulación Regional
+
+<!-- Páginas: 60–70 -->
+
+60
+
+Lo que garantiza la Articulación Regional
+
+10. ¿Por qué un teleférico y no cualquier otro medio de movilidad?
+
+La  vinculación  de  un  medio  electromecánico  de  elevado  coste  con infraestructura, a un programa que tiene como objetivo impulsar a mayores niveles la responsabilidad social, responde a la continua divagación sobre las alternativas  para  solucionar  diferentes  problemáticas  sociales  que  siguen perpetuándose en los territorios.
+
+En un diagnóstico profundo y consciente podemos admitir que la mayor parte de los problemas actuales surgen por falta de responsabilidad, por parte de los individuos, y como consecuencia de esta inadmisión o falta de compromiso, se da por sentado que es el estado o los entes administrativos y autoridades territoriales, los que deben solucionar todos los problemas de la población, con el pretexto de que quienes administran los impuestos deben encargarse de todos los males y carencias de la sociedad.
+
+Hasta cierto punto esto puede ser verdad, aunque en la práctica, los países desarrollados alcanzan mayores niveles de desarrollo por la continua inmersión de las personas en la responsabilidad social, no desde un punto de vista retórico o de simple arenga ideológica populista (que cree en la fuerza metafísica de los argumentos), sino desde la acción en los campos de los proyectos, con las manos en la labor y con los resultados del trabajo consciente, de involucrarse en las problemáticas sociales, no con las quejas y reclamos de las víctimas, sino con el impulso espiritual del que crea las soluciones y las realiza.
+
+Si los problemas vigentes pudieran ser resueltos únicamente por los programas y proyectos que ofrece el estado, ninguna necesidad habría en ponerse a pensar soluciones alternativas. La realidad confirma que los programas de estado al cerrar el avance de un problema en algún sector, abre la puerta a otros problemas a nivel general, lo que significa trasladar las problemáticas de un sector al siguiente, como en el caso de las pensiones, las futuras generaciones tendrán que trabajar duro para pagar el gasto actual.
+
+Las observaciones de este texto, postulan la participación de cada individuo, directamente en la creación de sus propias oportunidades para el desarrollo de su potencial, que aporte beneficios al resto de la población y para la posteridad,
+
+61
+
+asegurando a las generaciones venideras un mejor porvenir, del que prometen los organismos políticos de todas las banderas.
+
+El contenido de estas reflexiones está diseñado para que los entes territoriales administrativos y toda figura de autoridad, en todos los sectores, puedan mejorar sus relaciones con la población y sean cada vez más transparentes en el uso de los recursos  disponibles,  así  como  un  mejoramiento  y  fortalecimiento  en  la planeación y prestación de servicios turísticos. Pero todavía más importante: que las personas aprendan a leer entre letras y puedan ver a través de los discursos sensacionalistas para comparar las palabras con los resultados; es decir, que aprendan a discernir entre el marketing político y la realidad.
+
+Avanzando en la respuesta, las vías dentro del territorio sufren continuas pérdidas de banca a causa de torrenciales lluvias y deslizamientos, obstaculizando el acceso de suministros a través del territorio. Aunque esto es recurrente, no debemos dejar de conservar las vías e invertir en su mantenimiento, ya que son corredores vitales para el desplazamiento de los pobladores.
+
+Aún sin abandonar el uso y el mantenimiento de las vías, aprovechar las vistas panorámicas que ofrecen los relieves montañosos en el valle que circunda los ríos de territorio, resulta en la creación de valor. Las carreteras son completamente necesarias, pero también complementarias a otros medios de movilidad.
+
+Cabe señalar que cada propietario y cada unidad administrativa territorial, se repliega hacia su propio trabajo y hacia los intereses de su propia percepción. Los accesos a miradores disponibles en el casco urbano, dentro del territorio señalado para esta simulación, son escasos. Es de extrañarse que las autoridades y la población  no  se  hayan  puesto  de  acuerdo  en  el  valor  que  ofrece  la  vista panorámica, a la altura de un mirador, siendo un recurso de expansión espiritual, por lo menos en lo que respecta al público en general. Esta condición de falta de interés hacia el entorno, ocurre en la mente de los individuos por un ritmo de vida que solo se preocupa por su trabajo en el día a día y que está atrapado en la rueda del hámster.
+
+La capacidad de obtener resultados, propias del cuerpo humano, requieren introspección y extra inspección (a falta de un término más adecuado que la simple contemplación), con sus respectivas pausas y lagunas, como parangón a la geografía que contiene altibajos y todo tipo de contexturas y relieves. Esto se traduce de manera sencilla en que el trabajador y la persona eficiente, siempre requiere un momento de desconexión.
+
+La región contemplada en este ejercicio, está muy lejos del mar y a distancias considerables de las grandes ciudades del país. Se entiende bien que la propuesta
+
+62
+
+de oferta turística, esté reflejada en las vistas panorámicas que ofrecen las alturas inmensurables a simple vista, que sirven para resguardar un valle que permanece casi intacto. Es la primera riqueza verificable que descubre el visitante, una maravilla natural para el sentido de la vista.
+
+Un mecanismo de transporte por cable aéreo, fortifica la relación con el paisaje, la contemplación del territorio desde una perspectiva de altura, además de  un  vértigo  voluntario  y  responsable,  ofrece  identidad  regional,  como apropiación de la riqueza que ofrece oportunidades dentro del territorio. Desde diferentes escenarios que han especulado los habitantes a propósito de un medio de transporte alternativo que pueda servir de mecanismo de articulación de los municipios mencionados, se han presentado ideas que responden desde diversas perspectivas.
+
+Hay personas que sugieren volver al uso del tren, ya que en el siglo pasado funcionó bastante bien en la región y ponen de ejemplo actual algunas ciudades del  mundo  que  poseen  proyectos  altamente  eficientes;  aunque  esto  es suficientemente atractivo en la propuesta, en el análisis de impacto no ofrece los resultados en cuanto a la articulación regional y la expresión cultural, incluso va en contravía de la protección ambiental del territorio, al instalar de nuevo las vías férreas que se convierten en una cicatriz permanente al ecosistema.
+
+Esta declaración no se pronuncia en sentido general acerca de un proyecto que lleve la velocidad de un tren a un territorio más extenso, debidamente estudiado y planificado, que pueda implementarse en un contexto nacional, es inadecuado para un territorio de menos de treinta kilómetros con una población apenas en crecimiento y desde todas las ventanas de los componentes, sería descalificado.
+
+Esta descalificación se resuelve muy bien desde la perspectiva menos hostil, para un espacio corto, de intervenciones que requieren fundamentos base para las pilonas del transporte por cable aéreo. Este tipo de mecanismo, salvaguarda la condensación de la cultura del territorio. Eleva la admiración por la geografía de su área y mantiene ligados los principios de cultura y turismo con la protección ambiental.
+
+También permanece a distancia estratégica de las influencias negativas de las ciudades más cercanas, Bogotá y Girardot, manteniendo al territorio fuera de las problemáticas y del desorden social, que se presenta a gran escala en las grandes ciudades, protegiendo las costumbres de los habitantes de la región. Como articulación regional de los cuatro municipios, dentro de su ubicación específica, se encuentra justo antes y después de los peajes relacionados a las vías de acceso por carretera.
+
+63
+
+Lo que se pretende desde los fundamentos de la anterior simulación, como manual de convivencia, es relacionar la cultura al territorio, como mecanismo de cohesión común y como principio básico de organización de una oferta auténtica de turismo, para llevarlo a gran escala. El impacto de este proyecto está diseñado para la articulación regional, la cual no se consigue simplemente con una carretera, ni con aviones, ni con trenes de alta velocidad.
+
+Esta apropiación cultural vinculada al proyecto, es lo que da un sentido de pertenencia, que abarca las raíces históricas dentro de la región determinada y que converge en los conocimientos desde la colonización, las consecuencias del intercambio cultural, la expresión artística en las costumbres y tradiciones, que ofrecen un panorama actual de hermandad ancestral en un sentido global, lo que forja el espíritu de nuestra civilización actual y procura el establecimiento de valores comunes y naturales, los cuales arraigamos desde la infancia y desde la familia.
+
+A continuación, presentaremos el compendio reflexivo, que es el sistema articulado de los componentes.
+
+64
+
+65
+
+LOS COMPONENTES DE INTEGRACIÓN
+
+SISTÉMICA
+
+66
+
+67
+
+LOS COMPONENTES
+
+Las líneas de los componentes están estructuradas en base a reflexiones sobre el tema  que  relacionan,  viendo  diferentes  perspectivas  y  llenando  vacíos  de situaciones que no se han visto claramente alrededor de las problemáticas en los diferentes campos de desarrollo, apuntamos a que los estudiantes aprenderán y sabrán leer entre líneas y sacarán en sus conclusiones el verdadero potencial de estos componentes, desde el fondo de su comprensión aprenderán a ver más allá de lo que expresan los medios de comunicación, los programas académicos, los discursos políticos y religiosos, los activistas de partidos o programas globalistas que batallan dividiendo al ser humano.
+
+Llamamos a este texto, compendio de reflexiones y esto enfatiza que el trabajo del lector o estudiante, se organiza en el campo de la toma de decisiones, en el ejercicio del pensamiento que pasa a la acción, porque ha probado los resultados de lo que falla, aprendiendo de los errores, tanto personales como colectivos, tanto del presente, como de las lecciones de la historia.
+
+Este es un trabajo que también llamamos administración humanística y que cala en el campo de la organización empresarial, aunque está diseñado en la materia de humanidades, fomenta el espíritu del emprendimiento y fortalecerá el liderazgo personal y grupal. Personal, en cuanto a descubrir las capacidades latentes y desarrollarlas, para ofrecer y aplicar el máxime de su potencial en las soluciones que se requieren, a propósito de las diferentes problemáticas en la vida real, dentro o fuera del campus académico, como también dentro o fuera de cada individuo. Grupal en cuanto a dominarlas y ayudar a despertarlas en los seres humanos de su entorno para trabajar conjuntamente.
+
+El corazón de estas reflexiones, mantiene un pulso constante que da vida a una fuerza de cohesión entre los individuos, para protegerse de los ataques constantes, aunque invisibles, de las ideas que permanentemente se filtran en las poblaciones para dividirlas y a propósito de que se reduzcan entre sí, debilitando a los seres humanos y haciendo más fácil la tarea de los organismos de élite oculta de subyugar y controlar la población dormida. Dormida porque se deja utilizar y porque sigue ciegamente las tendencias temporales, por influencia desde una masa crítica que se mueve como rebaño. Cuyo movimiento no actúa en beneficio para la totalidad, sino que contribuye a su auto destrucción.
+
+Cada componente yace oculto como una mina de oro en el corazón de estas reflexiones y será encontrado por cada estudiante que se de a la tarea y en el reto
+
+68
+
+de encontrarlo. Si se sintiera perdido en su andar por las indagaciones, debe volver a  centrarse  desde  la  cultura  en  los  territorios  y  como  norte,  mantener  la protección ambiental, que no solamente se refiere al cuidado del planeta, sino a la naturaleza de nuestra propia mente y la de los individuos, como al espíritu de cada ser viviente y cada cosa puesta en el planeta, como representación del cosmos interno que está ligado al exterior.
+
+Estas reflexiones nacen desde el compromiso, con los pies bien puestos en la realidad, la proyección visionaria de madurar y participar en las soluciones, sin esperar que los demás lo hagan o de que el gobierno se haga cargo, ya que compete a nuestra propia calidad de vida, mejorar por nosotros mismos y encender esta actitud en cada persona de la población.
+
+Reducir las brechas de la pobreza, comienza por nuestra actitud, en consolidar y recibir una verdadera educación y superar las barreras del entorno social, como la procedencia de nuestra mentalidad arraigada desde la infancia. En cuanto a la educación, se requiere de un plan de estudio desarrollado y puesto en práctica por el  mismo  individuo,  movido  por  su  propia  voluntad  y  aprovechando  las herramientas disponibles en la actualidad. En cuanto a la superación, no puede culpar a su entorno por tener que someterse a una vida desagradable, que recaiga en niveles inferiores de calidad de vida del que hayan proporcionado en su infancia o en el círculo familiar, ni tampoco por condiciones donde haya tenido una situación vulnerable o de victimización.
+
+Existen  actualmente  suficientes  ejemplos  de  personas  que  nacieron  en entornos complicados y hostiles, aun así, lograron llegar a una posición de alto valor, los cuales contribuyen hoy a la generación de empleos y disrupción en nuevos mercados, que crearon la tecnología actual. También personas que han sufrido situaciones desagradables, como la guerra, han dejado su pasado atrás y hoy en día aportan alto valor a la sociedad.
+
+El tiempo de las excusas se ha ido y los individuos que siguen esperando que los partidos políticos del mundo arreglen las cosas, están negando los principios del texto bíblico que apunta: “dura cosa te es dar coces contra el aguijón”; pues siguen esperando que las cosas vuelvan a un estado donde se sentían cómodos, pero mientras esperan, lo más importante es que están perdiendo de vista su verdadero potencial, para hacer frente a las adversidades actuales y a las que vendrán.
+
+A  lo  largo  del  tiempo,  diversas  escuelas  de  pensamiento  cerrado,  han adoctrinado generaciones completas de personas ciegas que se atacan a sí mismas (auto sabotaje), esperando que alguien más se encargue de ellas en los momentos
+
+69
+
+de crisis. Aunque siempre nos necesitaremos mutuamente, en situaciones críticas, es preferible estar preparado y en el lado de quienes pueden ayudar a resolver y no en el lado de quienes son aplastados por las circunstancias.
+
+El verdadero motivo de la creación de soluciones, recae en el hecho de aceptar la responsabilidad como un reto. Crear una vida de abundancia en medio de un entorno aparentemente hostil es la opción correcta. La segunda opción es dejarse arrastrar por la depresión y vivir entre quejas y reclamos, a cada gobierno de turno o a la providencia divina, perdiendo nuestra verdadera identidad universal de creadores, y dejando un vacío para las generaciones que esperan un héroe o una heroína fuera de ellos mismos, eso significa pasarle la responsabilidad a otros.
+
+El texto que viene a continuación posee las claves llamadas componentes. Se requiere algo más que aptitud de lectura crítica. Se requiere un espíritu iniciado que comprende los símbolos y que sabe ordenarlos para leerlos bien. Pero sobre todo se requiere sentido común, una mente abierta a veces cae en el error de irse demasiado lejos o de aceptar demasiadas cosas que pueden convertir algo simple en un caos. Una mente cerrada a veces invalida cualquier comprensión, sin estudiarla a fondo, y se pierde de otros conocimientos. Es necesario establecer un balance que permanezca en la línea del filo crítico, intelectual y pragmático, no por medio de la duda, sino por medio de la concentración y la atención reflexiva.
+
+Es natural entonces que después de aceptar nuestras equivocaciones, podamos observar como una obvia consecuencia, que quienes alguna vez quemaron las bibliotecas de Alejandría, sean ahora guardianes de todo tipo de conocimientos. Una vez la mente cerrada determina arrasar con lo que censura, más adelante va filtrando los conocimientos que le permiten aceptar y establecer un razonamiento por sentido común.
+
+Luego se convierte en un estudiante que aplica los principios y que los puede utilizar diestramente con habilidad práctica como herramientas de comprensión y de inspiración a los demás. En cuanto a lo descartable: si alguna vez aceptó algo erróneo  como  una  conducta  habitual,  pero  después  confirma  que  esto  es perjudicial, lo desecha inmediatamente y así genera una conducta integral.
+
+Los estudiantes encontrarán la forma de desechar los materiales tóxicos o que son nocivos para su propia mente y alimentarán mejor sus pensamientos a partir de ahora y en adelante.
+
+70

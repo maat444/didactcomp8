@@ -1,0 +1,47 @@
+## 1.1 Interrelación Cultural
+
+<!-- Páginas: 73–76 -->
+
+73
+
+1.1 Interrelación Cultural
+
+El primer componente, hace énfasis en una educación al servicio de la totalidad de la especie humana, los seres vivos, y la protección de los ecosistemas en nuestro planeta, con fundamento en los valores culturales y de la familia, desde el legado histórico  y  la  biodiversidad,  sin  fanatismos  ideológicos,  ni  partidistas,  ni doctrinarios. Promueve una correlación entre sectores educativos o académicos, profesionales, técnicos, científicos, empresariales, con la cultura organizada en torno a los territorios, que permite el intercambio de conocimientos en la expansión y expresión de la sabiduría humana. Esta interrelación de saberes se fortalece y converge en una oferta auténtica de turismo responsable, que se mantiene en continuo desarrollo como una unidad productiva.
+
+La cultura, en el marco de las postulaciones de estos componentes, está estructurada de manera integral y se articula en armonía con la cosmogonía de cada pueblo, de manera que se produzca un circuito cerrado para que trabajen de manera funcional y sistémica. Está conformada por los conocimientos de todas las civilizaciones que han existido en nuestro mundo y que actualmente son parte de nuestro inconsciente y subconsciente colectivo, permeando a veces a nuestro coeficiente intelectual, para ayudarnos a desarrollar nuestro potencial latente, que espera ser liberado a la atmósfera del presente. El cual lamentablemente, a veces muere con el sujeto, cuando no realiza un trabajo consciente de despertar y dejar que su legado fluya para las siguientes generaciones, ocasionando una perdida que frustra o ralentiza los avances y el desarrollo de oportunidades entre sus pares y como seres vivientes.
+
+Cada civilización tiene su edad de oro, plata, y bronce. La nuestra es apenas una civilización emergente, desprende de la tecnología y nuestro trabajo es evitar estar amenazados de extinción o dominados por élites que trabajan en secreto. Como seres humanos de carne y hueso, nos proponemos dejar constancia, en defensa a nuestro propio bienestar, como garantía de que las generaciones futuras heredarán un entorno natural, adecuado para su felicidad y sin esclavitud, ni fanatismos hacia líderes que los manipulen, contando con que los estudiantes sabrán forjarse a sí mismos, más por las acciones y los resultados, que por simples idealismos sensacionalistas.
+
+Si se necesita o no, un estatuto que regule o que sancione los parámetros de las actividades humanas, serán las autoridades quienes lo determinen. En cambio, el sentido común, como un conjunto de valores inherentes al núcleo social que es la
+
+74
+
+familia y la convivencia en armonía con la naturaleza, dan por sentado una conducta ejemplar, que pasará de generación a generación.
+
+Dando  los  primeros  pasos,  hacia  la  consolidación  de  los  primeros componentes, podemos ir construyendo la base de la convivencia y el trabajo con las  comunidades,  desde  la  cuna  de  la  civilización  actual  en  el  continente americano.  Como  entidades  de  reconciliación  y  apelando  a  una  auténtica capacidad de racionalidad, podemos comprender que sea la iglesia católica (de occidente), quien ponga la primera piedra y sea ejemplo para las posteriores reflexiones, por ser quien ha tomado el papel fundamental de subsanar sus antiguas rivalidades con otras órdenes, por mantener el control de las poblaciones del mundo, y por introducir la aplicación de disciplinas referentes al estudio en el continente americano.
+
+Ya que ha conseguido a partir de bondadosas prácticas de humanismo, pero también a capa y espada establecer en el nuevo mundo, su modelo de entorno moral,  es  un  buen  principio,  que  la  iglesia  siga  tomando  la  iniciativa  de reconstrucción  de  los  verdaderos  valores  inherentes  al  ser  humano  y  los principios de la familia. Sin abandonar su voluntad de hacer el bien al prójimo, ha reconocido sus errores y excesos históricos en su autoridad, sin volver a recaer en patrones de violencia.
+
+Es a la iglesia a quien ha correspondido, por virtud de su posición privilegiada desde el estado, dar los pasos de conciliación hacia los pueblos arrasados tras siglos de conquista. No es desconocido el hecho de que, en las pugnas por las coronas europeas se definió muy bien el papel de opresor, por lo menos en lo que respecta al nuevo continente: aunque la realeza en los países europeos no habría sacado suficiente provecho con la opresión en sí o la guerra directa, sino con la doctrina de reducción de las cosmogonías arbitrarias al libro de fundamento para imponer el cristianismo a las poblaciones de indios, esta interpretación está lejos de desconocer los aportes de los europeos al nuevo mundo y como expresión, subraya la importancia de tener un punto de vista como punto de partida.
+
+Al incursionar en este viaje por los departamentos reflexivos o la ruta de los componentes,  encontramos  diferentes  perspectivas  que  se  entretejen,  en  la concepción de la moralidad moderna de occidente. Podemos estar de acuerdo o no, en que fuera innecesario enviar gente a la hoguera por sus creencias y para mantener el respaldo a las instituciones como la inquisición. Podemos admitir que la ignorancia de la gente es un pretexto que la iglesia usaba para iluminar, en un contexto de conocimiento bíblico, aunque en este tiempo de información a un clic, no es tan fácil sacar provecho de la ignorancia de las personas, todavía hay
+
+75
+
+mentes que podrían sufrir de oscurantismo. El papel de la iglesia ha dejado de ser solamente  el  de  educadores,  doctrineros,  dominicales  o  cualquier  otra denominación, a menos que sea la voluntad personal de individuos que se enclaustran en sus órdenes, pero actualmente la iglesia ha tomado un papel más relevante de acompañamiento.
+
+En el contexto que se amplía desde este componente, la cultura es holista y trata a todos los pueblos como semillas del mundo, cada cual, con sus creencias, costumbres religiosas, tradiciones culturales, expresiones sociales y artísticas, al igual que acepta los conocimientos que cada población enmarca desde el núcleo de sus regiones, sobre las especies de sus territorios y su biodiversidad. La educación como hija de la cultura, no puede ser fragmentada a los intereses de un colectivo o era temporal, ni enfrascada en una tendencia por influencia o por moda. La educación es una extensión de la cultura, es atemporal y siempre sigue y deberá perseguir, los hilos de la historia.
+
+El papel de la iglesia como ente responsable de convivencia y reconciliación social, debe establecer lazos entre la comunidad (como ya lo hace), por las vías de la hermandad ancestral, entre diferentes cosmogonías y entre pensamientos arbitrarios, aun en contra de su doctrina unificante o monoteísta, sin que esto desmorone su integridad como autoridad religiosa. Dado su carácter antaño imperialista, que protegía los intereses de roma, luego los intereses de las coronas europeas,  ahora  su  vinculación  a  la  política,  se  refleja  en  una  profunda transformación de su ego en funcionalidad para el mundo actual. Su poder presencial conlleva una responsabilidad en la educación del mundo moderno, actuando en los parámetros de inclusión social sin fragmentación, facilitando el acceso a la hermandad ancestral entre los pueblos.
+
+En retrospectiva, sin el nuevo mundo descubierto, pese al Edicto de Nantes en 1598, es muy probable que, en Europa, se mataran entre cristianos, católicos contra luteranos (hugonotes) y que fueran a la postre caldo de las civilizaciones aledañas, como árabes o posteriores hordas de hunos. Al abrir las puertas de las tierras  descubiertas  en  el  nuevo  continente,  se  facilitó  la  expansión  a  los horizontes de la iglesia en las dos facciones. Podemos convivir actualmente entre diversas ramas de las creencias cristianas y damos por hecho que no se repetirá una guerra como la que produjo la matanza en el día de San Bartolomé, en Francia, año 1572.
+
+El papel de responsabilidad de la iglesia, no significa que deben abrir las reservas de conocimiento que albergan en el vaticano para que las devore el mundo profano; el papel de la iglesia actual es defender la libertad de los pueblos
+
+76
+
+y mantener intactas sus cosmogonías y sus culturas, despojándolas de las cadenas de antaño y los ataques de vejación y sus campañas de desprestigio.
+
+Las iglesias actuales aportan un alto valor cultural y social, tanto como defensores de los derechos de las personas, como entes de reconciliación y convivencia, ejerciendo actividades lúdicas y de ayudas a la población en tiempos de crisis, y en algunos espacios, como sostén de organizaciones o fundaciones sin ánimo de lucro.
+
+Al continuar con las reflexiones en cada componente veremos la extrapolación de términos equivalentes a la medicina, ya que es correlativo el estado de salud holista de cualquier cuerpo sano o ser vivo, comparándolo con el bienestar en su totalidad del cuerpo planetario. Cada ecosistema, también el cuerpo estatal de cada nación, cada entidad o institución, como también cada familia, hasta llegar al ser humano como individuo, es un sistema múltiple que requiere sincronía armónica de bienestar para que pueda funcionar saludablemente.

@@ -1,0 +1,47 @@
+## 1.6 Requisitos de derecho al grado
+
+<!-- Páginas: 105–107 -->
+
+105
+
+1.6 Requisitos de derecho al grado
+
+Ustedes qué pensarían si las exigencias del sistema educativo para los estudiantes de últimos grados y universitarios, postulara una lista como la siguiente: que cada estudiante tenga que apadrinar a un mínimo de tres familias en condiciones de extrema pobreza. Que aporten a la respectiva alimentación de esas familias. Que hayan creado, puesto en marcha y estén en operación, mínimo tres empresas y marcas que generen empleos para el país. Que aporten soluciones con programas para la problemática social que se vive al interior de cárceles. Que desarrollen programas que contribuyan a la protección ambiental. Que sean tutores de la infancia de mínimo tres niños en inicio de vida escolar. Que hagan seguimiento a mínimo tres familias de clase media emergente, con el objetivo de fortalecerlas para que crezcan en la escala social.
+
+Qué pensarían si este requerimiento se postula igualmente para las iglesias de todas  las  denominaciones,  para  todas  las  instituciones,  para  todas  las organizaciones y también para las entidades sin ánimo de lucro.
+
+A simple vista pueden notar que estas cuestiones o actividades debe ejercerlas el aparato estatal, es decir, no son responsabilidades de los individuos comunes. La pregunta sería si los individuos realmente no deberían estar capacitados para ofrecer  alternativas  a  los  programas  impulsados  desde  el  estado,  ya  que obviamente las decisiones del estado sobre los asuntos sociales, afectan a las personas comunes, indirectamente también a los familiares y amigos de estas.
+
+Las  propuestas  postuladas  en  el  listado  anterior  son  completamente desproporcionadas y sería absurdo intentar implementarlas en la realidad. Sin embargo,  como  punto  de  partida,  sirve  para  comprobar  el  peso  de  las responsabilidades de los estudiantes que abandonan la concentración en sus estudios, con la pretensión de solucionar problemáticas sociales, las cuales no pueden solucionar con marchas o protestas, y en cambio generan otros problemas para ellos mismos y para la sociedad a la que pertenecen. Como parte de este reflexivo, iniciamos esta disertación haciendo que la cabeza del estudiante explote de presión por pretender triplicar su responsabilidad por fuera de las aulas de clase y expandirla al nivel de la implementación de soluciones a problemas reales.
+
+La idea detrás de esto es crear una conciencia de claridad sobre el papel del estado, para que los estudiantes puedan generar una posición de auto crítica y sepan que tener una larga lista de problemas no ayuda a resolver nada. También pueden sentir en carne propia que no es fácil sugerir posibilidades de resolver
+
+106
+
+conflictos sociales, cuando tienen que hacerlo bajo su propia responsabilidad. Es fácil salir en conglomerados estudiantiles a reclamarle al gobierno de turno que resuelva cuanta cosa va mal, esperando que sea alguien más quien se encargue de resolverlo.
+
+Cambia la situación y se extingue el sabotaje cuando el individuo se siente comprometido en desarrollar una posición de responsabilidad, en cuanto a prestar atención a los requerimientos de las poblaciones que cree son vulneradas, no solo para llenar las calles de manifestantes, sino para ampliar la gama de posibilidades de crear soluciones específicas, en el campo de las acciones concretas. Este enfoque trae a la mente de los estudiantes, las herramientas para que se preparen adecuadamente, si en realidad aspiran a participar de las soluciones, y sean capaces de generar bienestar social, con proyectos o programas que actúen directamente sobre las poblaciones.
+
+En el contexto supuesto de estas actividades, como parte de un paquete curricular académico, las instituciones educativas estarían al nivel de ONG’s o fundaciones sin ánimo de lucro, que promueven programas de apoyo a las poblaciones en desarrollo, al igual que lo hacen algunas universidades, iglesias y batallones de la fuerza pública.
+
+Tal compromiso, activa la mente de los estudiantes en una dirección que le convierte en activista, pero también debería impulsar al individuo en la dirección del desarrollo empresarial, cuya finalidad sea convertir sus esfuerzos en una estructura que genere empleos y oportunidades de crecimiento económico.
+
+Este imaginario teórico, trabaja desde la consolidación de la cultura a través de los Componentes de Integración Sistémica, como una aportación a la moralidad sana del sentido común, que puede traducirse como la ética natural de los individuos y que ha funcionado bien a lo largo de la historia.
+
+Recordemos  que  la  educación  en  gran  parte  del  mundo  antiguo  y  las actividades comerciales o los oficios, se impartían a través de la experiencia del conocedor, haciendo el papel de tutor, de maestro al alumno o principiante, se trabajaba a la par y secuencialmente, la teoría con la práctica. Actualmente los alumnos  destacados  de  grados  superiores  pueden  impartir  instrucciones  de refuerzo  en  los  alumnos  de  niveles  inferiores  o  en  partes  específicas  de poblaciones  que  no  han  desarrollado  un  acceso  suficiente  a  la  educación presencial. Aunque disponemos ahora de innovadoras herramientas y tecnología, todavía se puede pensar en formas de mejorar y aprovechar el uso de la tutoría.
+
+Dentro del entorno de la cultura empresarial, los equipos estudiantiles se verán involucrados en iniciativas de carácter social, sin participar todavía en asuntos
+
+107
+
+políticos, su actividad se enfocará en generar bienestar a nivel de su localidad, usando las herramientas y habilidades del emprendimiento como canales para enfocarse en la práctica.
+
+Como mencionamos anteriormente, al participar de un trabajo, se hace bajo la premisa de lograr experiencia y obtener conocimiento sobre lo que implica el funcionamiento o la operación de un sector específico. El objetivo estratégico debe enmarcarse con la visión de obtener el conocimiento sobre los movimientos del mercado: el cómo las disposiciones del mercado global afectan a los negocios, pequeños, medianos o a las grandes empresas y cómo la política mundial afecta tanto a los negocios y comerciantes, como a los puestos de trabajo particulares. Cómo la economía mundial cambia constantemente las reglas del juego para los negocios locales. Pero lo más importante, cuáles pueden ser las posibilidades de innovación y las mejores oportunidades donde el individuo puede aportar su talento.
+
+La misión que se está desarrollando en los principios de estas reflexiones es fácil de prever. Se trata de que los individuos asuman desde sus clases un compromiso con ellos mismos, de generar un cambio en su calidad de vida, que no necesite demasiado o que dependa en absoluto de las ayudas del gobierno.
+
+Como ejercicio de humanización, se propone un ejercicio a los estudiantes que desbocan por combatir la desigualdad social: Organicen, gestionen logísticamente y realicen la operación de brindar un almuerzo comunitario, para individuos en condiciones de indigencia. Este ejercicio de humanística, como lección de ética y valores, será un programa de reconocimiento a los estados del ser humano, víctimas  de  la  brecha  social  en  la  civilización,  causada  por  rupturas  del pensamiento superior y la mala gestión en el manejo de las emociones extremas.
+
+Los errores y aciertos de esta actividad, pasarían como puntaje a una planilla de resultados que servirá para organizar cada vez mejor la actividad del comedor comunitario, en un lapso de tres meses o tres veces por año. Tanto el personal de docentes y directivos, como los padres de familia deberán participar de la actividad programada. Los estudiantes preferirán, a largo plazo, estas actividades, en la búsqueda de resultados que impacten directo a la sociedad, que participar de marchas donde se pueden divertir, pero que en realidad no aportan nada a la sociedad en general.
+
+En este punto, los estudiantes redactarán en la mente, un listado con todos los beneficios que han surgido de las marchas y las protestas. Sin embargo, más adelante podemos verificar los beneficios que resultan de ponerse manos a la obra, en diferentes situaciones alejadas de las quejas y los reclamos.

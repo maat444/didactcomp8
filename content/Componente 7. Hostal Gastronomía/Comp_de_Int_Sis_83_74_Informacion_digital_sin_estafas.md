@@ -1,0 +1,33 @@
+## 7.4 Información digital sin estafas
+
+<!-- Páginas: 424–426 -->
+
+424
+
+7.4 Información digital sin estafas
+
+El creciente uso de plataformas digitales para adquirir servicios turísticos ha facilitado  el  acceso  a  una  amplia  variedad  de  opciones.  Sin  embargo,  esta digitalización también ha generado nuevos desafíos, como el aumento de las estafas y la desinformación. Es menester que los consumidores estén informados sobre los riesgos asociados a la compra de servicios turísticos en línea y que tomen precauciones para evitar ser víctimas de fraudes.
+
+La búsqueda de opciones turísticas económicas puede llevar a situaciones peligrosas y desagradables. En casos demasiado extremos como los polizones que pasan en formas ilegales la frontera México Norteamericana por ahorrarse algo de dinero, resulta ‘más cara la cura que la enfermedad’ por decirlo con un tono en sátira. también quienes se aventuran a pasar por el Darién en Panamá, arriesgan sus vidas en busca de mejores oportunidades, pero son claros ejemplos de los riesgos asociados a viajes clandestinos. Además, la desigualdad en el acceso a los servicios turísticos (costo del ticket), limita las oportunidades de viaje para muchas personas, especialmente en países en desarrollo.
+
+Los servicios turísticos de bajo costo a menudo se asocian con condiciones sanitarias y de confort inferiores. Tanto en alojamientos como en la oferta gastronómica, se recibe por parte del usuario experiencias de baja calidad. Esto puede llevar a que los viajeros experimenten una disminución en su calidad de vida durante el viaje, incluyendo problemas de salud y una experiencia menos satisfactoria. Además, la búsqueda de precios bajos puede incentivar prácticas turísticas poco recomendables, que pueden tener un impacto negativo en el medio ambiente.
+
+La relación entre el precio de los servicios turísticos y la calidad ambiental no es directa, pero existe una correlación. En general, los destinos turísticos con una mayor concentración de servicios de bajo costo suelen experimentar una mayor presión sobre los recursos naturales y una mayor generación de residuos, esto en algunas ciudades de la India o Pakistán es un problema de salud tanto para las personas como para el ecosistema en sí. Sin embargo, es importante destacar que la  actitud  individual  hacia  el  medio  ambiente  es  un  factor  determinante, independientemente  del  nivel  de  ingresos.  La  educación  ambiental  y  la conciencia humanística, son esenciales para promover prácticas turísticas y gastronómicas responsables.
+
+425
+
+Aunque es habitual señalar o culpar a industrias y empresas que contaminan, en un nivel personal se ha perdido el autocuidado. El individuo se ha despojado de la actitud de preservación de su entorno natural. Cuando se pierden los valores culturales auténticos todo ha dado un vuelco a la involución. El influjo de aspiraciones individuales debería estar inspirado a los estados superiores del ser. No es por capricho filosófico que se apunte así, pudiendo simplificarse a algo como que cada quien busque mejorar como persona, pero con fines de profundizar en el espíritu del ser humano, no puede perpetuarse su degradación y continuar desviando su corriente energética vital hacia la involución.
+
+Como en una guerra biológica se ha sometido la mente humana a perjudiciales vicios o sustancias mortíferas, que atacan la mente y las emociones del individuo, debilitando su sistema inmunológico y racional. Se ha permitido hasta cierto grado,  también  se  ha  perseguido  a  quienes  denuncian  experimentos  de manipulación masiva a través de sustancias, como también por enfermedades psicosomáticas que atacan a los individuos desde el subconsciente por medio de campañas mediáticas, llevándolos a estados lamentables anti humanos, es decir, en contra de su propia naturaleza.
+
+Si bien la contaminación industrial es un problema grave, la degradación ambiental a menudo comienza a nivel individual. Cuando perdemos el respeto por la naturaleza y los recursos naturales, tendemos a adoptar comportamientos que dañan el medio ambiente y a las personas, son estos aspectos de una especia de terrorismo. La falta de educación ambiental y la búsqueda del beneficio a corto plazo pueden llevar a prácticas nocivas, como la generación excesiva de residuos y el consumo desmedido de recursos humanos.
+
+En contrapeso a un movimiento de degradación, lo correcto es seguir una regla de evolución universal, donde los individuos aprenden a controlar sus emociones y corrigen sus aptitudes, por medio de la aceptación de los propios errores cometidos junto a una constante superación de ellos. Puede llamarse en el estilo new age ‘resiliencia’, pero es algo que surge de manera natural cuando el individuo se despoja de sus propias cadenas del pasado y aprende a caminar desde el presente y hacia el futuro, como un niño en crecimiento que aprende a caminar tras continuas caídas y va perfeccionando sus movimientos en desafío o a causa de la gravedad.
+
+Dado este espíritu de evolución continua, lo más importante es contribuir a que las personas empleen dicha resiliencia y pongan su capacidad en la superación personal. En el desarrollo de la misión colectiva todos nos necesitamos a todos, para poder lograr el bienestar común. Haciendo que las personas puedan superar
+
+426
+
+sus propias debilidades y que sean capaces de usar dignamente sus fortalezas, se amplían las oportunidades y las iniciativas que mejoran la calidad de vida de los individuos,  haciéndonos  responsables  de  la  información  que  pulula  en  los servidores  virtuales  y  en  los  medios,  como  también  en  las  instituciones académicas, a fin de que las personas no caigan en las prácticas de los que trabajan arbitrariamente contra el bienestar común.
+
+La evolución humana es un proceso continuo de aprendizaje y crecimiento. A través de los errores y los desafíos, desarrollamos nuestro potencial humano y fortalecemos nuestro carácter. Factores como la desinformación, la manipulación y el ataque psicológico, pueden obstaculizar nuestro desarrollo personal y social. Por esto los componentes han desmenuzado cada situación particular que aparece de manera continua en nuestro entorno generalmente, para fomentar una cultura de aprendizaje personal autodidacta, donde las personas se sientan motivadas a superar sus limitaciones y a contribuir al bienestar común. Al hacerlo, podemos construir sociedades mejor preparadas para asimilar y enfrentar los desafíos que se presentan en el presente y en el futuro inmediato.

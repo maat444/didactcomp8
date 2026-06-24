@@ -1,0 +1,83 @@
+## 6.7 Brecha académica
+
+<!-- Páginas: 378–383 -->
+
+378
+
+6.7 Brecha académica
+
+Hemos expuesto al turismo como primer pilar de la economía porque el sector turístico ofrece alternativas de mercado en el intercambio comercial y cultural, aparte de poder establecer medios que atraigan inversión externa. Sin embargo, para que el turismo alcance un nivel de crecimiento económico que aporte al PIB nacional, se requiere fortalecer antes, todas las industrias y sectores del mercado, lo cual requiere estrategia en la planeación, pero también compromiso con las garantías de seguridad.
+
+Egipto, con sus grandes y notables pirámides, no consolidó un turismo sin haber trabajado en todos los aspectos que se requieren para poder garantizar la entrada de extranjeros y su estancia en el país, tomó tiempo su organización. Lo cual indica que la belleza o el esplendor de un lugar, no es suficiente para realizar una  campaña  de  marketing  o  publicidad  y  que  mágicamente  atraiga  a  las poblaciones  de  todos  los  rincones  del  mundo.  Se  requiere  tomar  medidas anticipadas de orden público.
+
+En México o en cualquier lugar del mundo es igual. La organización del turismo depende en gran medida de otros sectores comerciales que proveen al turismo de mayor riqueza. Si pensamos en las playas, en los ríos o en las cascadas, encontraremos que en relación al turismo todas las actividades comerciales giran en torno a un evidente intercambio de conocimientos.
+
+En este sentido, el choque cultural entre personas de otras regiones o del mundo,  dada  la  riqueza  de  dialectos  y  otros  idiomas,  aporta  a  la  oferta gastronómica, al comercio de prendas y vestidos, como también otras actividades que se reflejan en la música y las artes; todo ese entrelazamiento de expresiones se ve fuertemente enriquecido gracias a la interrelación cultural y es el motor que mantiene en fluctuación continua al viajero que busca experiencias inolvidables. El turismo nutre de alguna forma las actividades de comercio en su entorno, pero a su vez depende de que los comercios ofrezcan productos realmente necesarios en su demanda o lo suficientemente innovadores como para ser el reflejo del espíritu y la cultura de los territorios.
+
+Aunque esto es fácil de notar y se entiende como algo obvio, es lamentable que al desarrollar este contexto estemos dejando una imagen a veces descuidada que refleja una actitud de no valorar lo que nos corresponde y culpar a otros sectores por la imagen en decadencia del turismo o de los lugares de visita. Sería muy triste que después de hacer un paseo a una playa turística y esperar en la noche que la
+
+379
+
+gente se retire nos demos cuenta de la cantidad de basura que dejan los visitantes. Desde un principio, la causa es determinada por las personas y su falta de compromiso con la cultura, sumado desde la inconsciencia de una identificación errónea de sus propios territorios, que les hace pensar que no les corresponde las actividades de limpieza en un territorio ajeno o que para eso hay contratistas que se encarguen de las basuras en ese lugar.
+
+Nuestra conducta como visitantes debe reflejar una cultura elevada en los territorios donde ponemos nuestro pie. La conducta de los lugareños o nativos del entorno, debe estar siempre consagrada a respetar su espacio. Cosas que parecen simples como arrojar basura en la calle o en los espacios de recreación, fomentan un mal ejemplo y falta de cultura también a los visitantes. La educación se puede apreciar en los barrios de bajos recursos financieros que de algún modo se traduce en conformidad con una imagen insalubre y contaminación continua. Por obvias razones de cantidad de habitantes y más en las ciudades que en las poblaciones rurales, se puede notar a primera vista que en los barrios o en las poblaciones de escasos recursos, a mayor pobreza mayor desorden y basura alrededor.
+
+Como ya se mencionó anteriormente en otro apartado, las personas que pierden su civilización se despojan de su propio interés en permanecer limpios. Tanto  ellos  mismos  como  las  cosas  y  los  espacios  a  su  alrededor,  se  ven descuidados. Por eso hay personas en la indigencia que inexplicablemente pueden vivir sin sentirse mal al lado de un desagüe (de aguas residuales) o en alcantarillas. Quizá esta conducta desde una óptica psicológica refleje un instinto de bajeza, que hace que las personas se sientan despojadas de su dignidad (no ser merecedora de un buen hábitat), y recurren a la máxima suciedad donde reflejar su propia vejación.
+
+Una persona puede pensar que no merece estar en los mejores lugares y con personas agradables, sino que se merece lo peor. Bajos niveles de pensamiento buscan lo semejante para no sentirse en desnivel. Pero esto es solo una medida de enfriamiento para no sacar el verdadero espíritu que lleva el ser humano a las estrellas. Puede entenderse esto como tener miedo al propio potencial o en dado caso, la mente está paralizada por un bloqueo emocional.
+
+La mayoría de las veces no es por algún motivo exterior. Ya que la culpa o ser víctima, en una medida posible, es una respuesta desde el interior que se excusa en un panorama exterior para permanecer en estado de vulnerabilidad y que afecta lo que corresponde a la mente, pues se identifica con su propio maltrato y acepta que el sufrimiento deba perpetuarse.
+
+380
+
+Desde luego, las personas necesitan ser ayudadas a encontrar el equilibrio mental y emocional que les corresponde. Puede ser que los pensamientos que necesita aceptar todavía no hayan pasado por su cabeza. Incluso las emociones necesitan ser limpiadas a través de un sistema de rehabilitación y seguimiento, para liderar su propia capacidad de auto control, generar carácter y una actitud de bienestar.
+
+Como consecuencia de aumentar la capacidad de dominio propio y ayudar a otros a construirla, la misión es objetiva y es un valor que portará el individuo por el  resto  de  su  vida.  Sin  embargo,  como  pudimos  reflexionar,  puede  ser contraproducente creerse un super héroe que va a salvar a toda la humanidad con un solo movimiento alrededor de la tierra. Aunque no podamos arreglar todos los problemas del mundo, por lo menos podemos hacer un intento de salvarnos a nosotros mismos. Cuando esto se resuelve hasta un grado funcional, entonces podemos ayudar al menos una persona, si la persona lo necesita y acepta ser ayudada, es una transacción favorable para la humanidad.
+
+La brecha entre ricos y pobres es una cuestión de perspectiva, no solo por la filosofía sobre el asunto de qué es riqueza y que cosas tienen los ricos o los pobres que los demás no tienen, esta enigmática influencia puede resultar inútil. En realidad, la pobreza existe siempre en la mente que se rinde ante los obstáculos y la riqueza existe siempre en la mente que decide tomar la misión de generar un cambio desde su interior para sí mismo y contribuir al mejoramiento de su entorno.
+
+Esta definición no debe ser tomada a la ligera y exige un examen profundo acerca de las elecciones devocionales del espíritu. Podemos sacar ejemplo de las escuelas de conocimiento budista o hindú. Los brahmanes eran personas de alto estatus que se decidían llevar una vida austera, en cierta medida posible, para poder transmutar su esencia mundana, a un alto nivel de dominio espiritual sobre las vibraciones personales.
+
+Desde luego, no se le pedirá a una persona que se queja de hambre, en occidente, tomarlo con la dedicación de los monjes budistas y practicar la meditación o el yoga. Ni el cristianismo, a pesar de las enseñanzas del nuevo testamento,  aceptaría  las  privaciones  que  exige  un  camino  de  iluminación espiritual. Esta referencia sobre algunos aspectos espirituales, puede tomarse despectivamente y amplificar la desesperante situación de las personas llamadas vulnerables y en condición de pobreza extrema.
+
+Sí se mira con lupa la actitud de una persona, aunque su situación sea precaria y no tenga empleo o dinero, no aceptará de buen gusto ser llamada vulnerable o
+
+381
+
+pobre. Para esto llamamos a los estudiantes a dejar el auto sabotaje dentro de sus propias cabezas, para que después no demuestren en espacios públicos ni en las redes sociales, su falta de cultura y empatía social. Ni los estudiantes, ni los profesionales, ni los empresarios, ni los independientes, son mejores personas que los demás, por el hecho de su ocupación o fuentes de ingreso.
+
+Las personas se deben respetar por el hecho de ser parte de la humanidad, pues cada quien lleva un camino propio de iniciación espiritual en una realidad personal. Todas las personas han sufrido igual, habrán perdido a un familiar, habrán tenido que crecer emocionalmente. Tienen que superar obstáculos, tienen que sentir lo que está pasando en el mundo, tienen que superar sus propios miedos o convivir con ellos. Tienen que adaptarse y vivir a pesar de las circunstancias y dificultades, tienen que dominar sus emociones. Tienen que generar bienestar y adaptarse  aun  si  se  pierde  todo.  Todos  los  seres  humanos  están  bajo  una permanente prueba de balance y equilibrio para no desestabilizarse.
+
+Lo que tiene que ver todo  esto con el mercado y la aplicación de los componentes, es el respeto por las personas que trabajan la tierra. Aún sin educación universitaria, a  veces ni primaria, son y deben ser ejemplos de convivencia  y desarrollo  económico, sin necesidad de mostrar los modales requeridos a los egresados de instituciones académicas. Mientras a los estudiantes, fuera del aula o de las instituciones, sí se les ha de exigir aún más cultura y comprensión.
+
+Esto desmorona la conducta burlona de los estudiantes sobre los individuos y las personas que no saben leer o escribir (en lengua nacional), desprestigiar a una persona de raza étnica que no pronuncia bien la lengua oficial de un estado, por su acento o por desconocimiento sobre términos técnicos, es una desvaloración de la cultura general y de la personalidad de cada individuo. Desde una óptica lingüística, si bien pronunciamos muchas palabras, no conocemos todo el idioma de la lengua oficial. Para mayor peso en la comprensión, no conocemos nada de la lengua de los raizales o los nativos de culturas milenarias que hacen parte de los territorios y en la mayoría de las lenguas extranjeras somos completamente analfabetas.
+
+Es de preverse que los maestros y profesionales de la educación académica, deban mantener un sincero aprecio hacia los miembros de las culturas milenarias y al esfuerzo que hacen por entender nuestra lengua oficial, aun cuando no la dominen enteramente pero todavía más cuando la dominan a la perfección.
+
+Tan importante, como trascendente, es reconocer los valores y la aportación de las comunidades a la civilización actual. Es notable que en el trascurso de la
+
+382
+
+cristianización y la expansión europea, las comunidades aprendieran a manejar mínimo dos lenguas diferentes: la oficial, y la materna de sus comunidades. Las comunidades Wayuu del caribe colombiano, mantienen sus tradiciones y respeto por su propia lengua en sus territorios, pero entienden y hablan a la perfección la lengua castellana. Esto es un medio de aportación desde el sector turístico a conocer una de las más importantes culturas ancestrales de uno de los territorios con mayor influencia en la conservación de la biodiversidad de Colombia.
+
+Lo siguiente es desligar el pensamiento distorsionado sobre la negativa y pesimista forma de expresarse acerca de las personas que son descendientes de culturas étnicas y que se han congregado junto a los colonos en la civilización de occidente, llamándolos con etiquetas de gente invisible, como si no tuvieran valor y denominándolos como “nadie”. Hay que estar demasiado sumergido en la doctrina académica de auto conmiseración, para aceptar estas postulaciones sin prever el engaño y el desdén a la humanidad que esconden los discursos que pretenden defender a las personas o grupos, cuando en realidad están rebajando el valor espiritual y cultural de los mismos.
+
+No solo es un ataque directo al valor de los individuos por parte de quien promueve estas etiquetas de división, sino también por parte de quienes lo aceptan como verdad. Las agendas de destrucción masiva ponen la semilla de fragmentación social en la mente de los individuos, pero son las personas quienes se victimizan y contaminan a las mentes débiles.
+
+Quitando estas etiquetas se apunta que en los territorios de culturas milenarias se continúe desarrollando un bienestar que impulse los verdaderos valores del ser humano y que fortalezca sus capacidades espirituales, intrínsecas a su naturaleza ancestral, ya que ahí se encuentra el origen del desarrollo de cada individuo, como de la economía a nivel territorial.
+
+Lo que cierra la brecha entre ricos y pobres se encuentra en el corazón de la educación y la comprensión de este principio: que de la abundancia del corazón desborda la naturaleza del espíritu fortalecido del ser humano. Los individuos que no encuentran su propia grandeza sin perjudicar a otros, no pueden crear una riqueza natural y merecida, que despierte el genio en las capacidades de cada individuo. Por lo tanto, no es difícil entender que los maestros académicos sean suicidas financieros, pero también verdugos que cortan las alas de la innovación económica en sus estudiantes, pues el sistema educativo está diseñado bajo estándares de la era industrial, que al día de hoy es obsoleto.
+
+Esto se entiende muy bien en los territorios cuando el liderazgo se demuestra no por la más imponente presencia o la más bella de las apariciones, sino por el
+
+383
+
+espíritu que impulsa a la comunidad desde los principios del conocimiento. El saber es lo que mueve al mundo, el que sabe cocinar, el que sabe tejer, el que sabe conciliar, el que sabe formar, el que sabe generar, el que sabe organizar, etc. Es decir, el que sabe hacer o el que sabe cómo se hace (KnowHow). Sin intentar opacar  a  las  carreras  universitarias  y  los  profesionales  en  ejercicio  de  sus facultades, lo que se expone, en esta práctica es para que se mantenga el respeto y la dirección adecuada en la toma de decisiones salvaguardando el valor de cada individuo que conforma un sector.
+
+El verdadero conducto regular del sentido de respeto, empieza desde el educado hacia los menos educados, porque la cultura exige mayor cultura y la educación se auto exige a sí misma. Antes de pedir a los demás, la misma correlación de etiquetas y modales debe surgir desde nuestro interior hacia el entorno. Se expone esto para no confundirse y andar con la cabeza erguida delante de los demás solo porque se tenga un título académico y que este sea parte de un alarde. En las comunidades de hermandad se alimenta un espíritu de convivencia, que no pone a nadie por encima, ni por debajo de sí mismo o de los demás.
+
+Ubuntú, es la palabra que se puede relacionar a la conclusión que se debe desarrollar en esta reflexión, ya que el ser humano no puede sentirse exitoso y completo sin que sus comunidades también estén a la altura de sus logros. Como ya se mencionó anteriormente en otro apartado, el avance de un grupo está determinado por el más lento o rezagado, de manera que el líder debe esperar que toda la comarca llegue completa al destino de su movimiento, sin dejar atrás a las personas que con dificultades logran avanzar.
+
+Es lo que se espera sin caer en altruismos o ideas filantrópicas, por la simpleza de la dirección o la ambición de conducir y ser un elegido o ungido, lo correcto es que la mayoría de individuos dentro de la población estén capacitados para llevar sus propias poblaciones a un buen nivel de calidad de vida y desarrollo económico que ofrezca un firme sustento a la población, haciendo uso de la facultad racional que provee realizar el camino de estos componentes.
+
+En los siguientes apartados, pondremos la mente en una vibración cada vez mayor, capaz de mantener la vara alta, que pueda realizarse sin abandonar la meta común del desarrollo colectivo, el cómo organizar los grupos poblacionales encaminándolos a los programas que van a ser pilares de la economía potencial, usando sabiamente la comprensión de los componentes aquí expuestos.

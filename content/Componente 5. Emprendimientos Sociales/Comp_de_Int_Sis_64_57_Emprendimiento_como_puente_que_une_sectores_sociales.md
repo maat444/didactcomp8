@@ -1,0 +1,73 @@
+## 5.7 Emprendimiento como puente que une sectores sociales
+
+<!-- Páginas: 323–327 -->
+
+323
+
+5.7 Emprendimiento como puente que une sectores
+
+sociales
+
+Es muy importante resaltar el contexto alrededor de los componentes, el objetivo o la misión, para un desenvolvimiento óptimo de los proyectos que van a servir de aporte al desarrollo económico de la nación. Hemos estado hablando de la forma correcta en que debería funcionar la articulación o vinculación entre todos los sectores que participan de los principios de los componentes aquí citados, para que estos trabajen juntos de manera eficiente y no de manera separada.
+
+Así mismo se ha venido indicando con insistencia, la definición de una inclusión social desde una perspectiva de productividad y trabajo conjunto, al igual que de la necesidad de una oferta laboral que permita la conservación de la biodiversidad cultural y la coordinación entre sectores comerciales. No debe entenderse esto desde el punto de vista de tendencias temporales o simple moda. Aunque las tendencias de temporada son muy importantes para marcar un antes y un después, en los movimientos del mercado, esto es de menor trascendencia en cuanto a la protección ambiental o las conflagraciones que requieren ayuda humanitaria, así como en el aporte colectivo del desarrollo del potencial humano al bienestar social.
+
+Insistimos también en la visión objetiva de la totalidad (ver el panorama general), para mantener cercadas las ideas de división social y/o fragmentación colectiva  evitando  que  desborden.  Esto  salpica  incluso  a  las  campañas publicitarias que separan a las personas en nichos y tribus (como se ha aprendido desde las características de algunas escuelas de marketing).
+
+Aunque esto es así, también se ha enfatizado la medida de mantener un vínculo  entre  los  organismos  institucionales  o  del  sector  privado,  con  la población, siendo el puente que une a la nación con los individuos comunes, los emprendedores de proyectos sociales, cuyas capacidades convergen en iniciativas que promueven las garantías de desarrollo eficiente para la aplicación de los principios que se establecen en estos componentes.
+
+Entendiendo este método como un modelo de desarrollo y oportunidades, partimos de la idea del compromiso y la responsabilidad de cada individuo, por su capacidad personal de contribuir a la conservación del entorno participando activamente  en  emprendimientos  que  mejoren  las  soluciones  a  distintas problemáticas. No desde el núcleo de las protestas y las marchas con disturbios,
+
+324
+
+sino desde los hechos y acciones en conjunto que permitan aportar directamente una cobertura a las necesidades de las personas que por fin encuentran alivio, iniciativas llevadas al crecimiento y generación de empresas.
+
+En la labor continua y permanente debemos fortalecer nuestro espíritu, ya que tenemos un mundo lleno de problemas que no permite descansar o distraerse demasiado tiempo. Así que nuestra preparación debe sobrepasar los límites de las carencias y restablecer nuestro bienestar personal, para dar los pasos siguientes en la actividad de apoyo a quien lo necesita porque se encuentra impedido atrapado en una realidad adversaria.
+
+Estamos reiterando de manera múltiple la misión que levanta el estandarte de la protección ambiental, la cual requiere todas las manos disponibles y dispuestas a embarrarse si hace falta para salvar vidas. Lo cual no hace héroe a nadie, simplemente es la conducta que se espera de cualquier mortal humano, dada su capacidad de cultura, convivencia y adaptación. Pero esto simplemente significa que debe elevarse el espíritu de cada persona, pues de nada sirve o no es útil una persona con el espíritu apagado por carencia de habilidades, por extrema pobreza o por desconocimiento de su potencial mental-emocional.
+
+Esto arroja un contexto similar al que explayó Confucio con sus leyes de amabilidad entre las personas, con un tanto de meritocracia generó mayor estabilidad social que las rigurosas leyes del zen, aunque ambas corrientes de pensamiento puedan fusionarse perfectamente. Esto nos permite consolidar y ampliar el uso de la hermandad ancestral a niveles de empatía general, que promueva en la masa crítica su aplicación en forma natural, sin el escepticismo de los complejos de ‘superioridad’ o ‘inferioridad’ ideológica, para dar paso a la corriente de bienestar social.
+
+Podemos seguir la ruta de los componentes como un como un mapa de correlación entre diferentes aspectos que deben articularse para lograr un sentido de dirección que lleve al verdadero desarrollo económico colectivo y global, aplicado de manera que se examine en qué han fallado iniciativas enmascaradas de benévolas entre agendas gubernamentales o del sector privado.
+
+Los gobiernos no pueden hacer que el desarrollo económico nacional funcione sin el compromiso de cada individuo. Debe lograr contrarrestar los bloqueos y limitaciones del ser humano descuidado de sí mismo que permanece aún dormido y  anudado  en  su  propia  madeja  personal,  víctima  de  los  colectivos  de fragmentación social.
+
+Aunque en la realidad la articulación entre sectores es de origen natural, la verdad es que mientras más se colectiviza unilateralmente, más se desproporciona
+
+325
+
+la  utilidad  de  la  producción  en  todos  los  mercados  del  mundo.  El  libre intercambio comercial y cultural, tanto como de conocimientos adquiridos, es la manera  de  generar  oportunidades  equitativas  para  todos  los  individuos. Entiendan que toda economía es circular y que el desarrollo nacional de cualquier país depende exclusivamente de desarrollar el potencial de cada persona. Este potencial  no  se está  desarrollando  de manera  eficiente desde la  educación académica, ni siquiera en los niveles superiores o profesionales.
+
+No se trata de un juego de debates entre políticas partidistas o adeptos a luchas de poder, sino de la creatividad y la innovación que cada persona puede aportar en su vida (dependiendo de su actividad) al beneficio de todos dentro de la población y en cada territorio. De hecho es la idea básica de encontrar el verdadero propósito para el cual hemos venido al mundo, tal como lo expresan en diferentes formas algunas religiones.
+
+Hemos mencionado en la importancia de la cultura primordial a la educación como  centro  de  los  conocimientos  adquiridos,  sin  caer  en  fanatismos,  ni ideologías  cerradas  que  se  desvinculen  de  la  totalidad  del  ser  humano  y fundamentalmente del núcleo social que es la familia y el árbol genealógico. Pero todo conocimiento del que pueda participar el ser humano debería consolidar su verdadero potencial de aporte al mundo, en su trascurso de vida.
+
+Hemos estado insistiendo en que los valores de la humanidad como lo es la inclusión  social,  estén  limpios  de  tendencias  temporales.  Así  es  como  la hermandad  ancestral  permite  la  correcta  postulación  de  emprendimientos sociales, solo es posible en la medida de una clara y objetiva comprensión que sirva al establecimiento de la misión personal, que busca el bienestar social, enmarcado en la protección y conservación de todos los ecosistemas naturales, pero manteniendo en relevancia el potencial que el ser humano puede alcanzar.
+
+Esta guía a través de los componentes articulados se expresa para promover un turismo consciente que busca las líneas históricas de las civilizaciones y culturas pretéritas sin descuidar los avances científicos y tecnológicos del mundo actual. Todo esto para permitirnos desarrollar mejor nuestras capacidades humanas en torno a un todo físico, emocional, mental y espiritual, sin discriminaciones fragmentarias y complementándose con un trabajo en equipo y en tarea conjunta con todos los sectores implicados en la conservación ambiental y la promoción cultural del turismo dentro del territorio.
+
+Cada componente se expresa como reflexivo para que cada individuo defina su punto de partida y no lo vea como un listado de trabajos o como una técnica paso a paso, ni  lo tome como consejo, ni como recomendación, ni como tarea
+
+326
+
+académica; tampoco como pedagogía absolutista y centralizada. El logro de profundizar en las reflexiones y verlas a la altura y distancia adecuada para ver un plano general, funciona como un espejo que reflejará las propias acciones como punto de partida que permita determinar la ruta en la toma de decisiones en cada organismo o generador de proyectos sociales que va a tomar medidas sobre los territorios.
+
+Este breve resumen sobre los componentes que hemos visto de manera generalista sin centrar la atención demasiado sobre los detalles, es a propósito de enmarcar un contexto de relación entre cada uno de los componentes, a fin de que  al  unirlos  se  pueda  obtener  un  compendio  de  visión  holística  de  las oportunidades y las herramientas que podemos utilizar en la toma de decisiones, consistente en mejorar el estado de las cosas para dar un paso firme en la solución de problemáticas actuales.
+
+Hasta aquí podemos verificar que las condiciones o los requisitos necesarios para convertirse en promotor de proyectos sociales y emprendimientos no tienen ninguna observación y que cada individuo debe sentirse obligado a postularse desde su infancia hacia la misión encaminada al desarrollo económico y dar lo mejor de sí mismo por acrecentar sus capacidades puestas al servicio de todos.
+
+Los individuos deben sentir un llamado al compromiso de asumir factores que promueven  la  generación  de  nuevos  empleos  y  oportunidades  en  diversas categorías o sectores productivos, ya sea en ciencia y tecnología o desde la cultura que complemente la aceptación y la convivencia social, sin discriminación y con la actitud del liderazgo que corresponde, como parte de un equipo de trabajo conjunto donde todos los organismos están encargados de cumplir la misión, con el compromiso y la responsabilidad de contribuir a mejorar las herramientas actuales disponibles, para mejorar constantemente la calidad de vida de los individuos con visión hacia el futuro.
+
+Más allá de cualquier diferencia en las tendencias personales, el planeta nos permite seguir viviendo, siempre y cuando permanezcamos en armonía universal trabajando por el bien común. Dado que nuestro tiempo desde el nacimiento es limitado por las leyes de la física que se manifiestan de manera biológica, es un privilegio poder aportar algo de nuestra experiencia en ayudar a las demás generaciones a vivir en un mundo mejor, con calidad de vida óptima para que ellos al despertar de la conciencia también puedan encontrar en la misión el mejor camino al desarrollo de su potencial personal y como aporte al mundo que beneficie  a  todos  y  en  la  medida  de  disminuir  las  tendencias  fatales  del consumismo indiscriminado sin precaución.
+
+327
+
+Esto nos deja varias cosas por admitir, como un alivio, siendo una muy importante saber que hicimos todo lo posible por hacer de este un mundo mejor para aquellos seres que vendrán; otra cosa es que también estamos haciendo lo mejor para nosotros mismos dentro del tiempo de nuestra existencia.
+
+Así, agradecemos a todas las ciencias y conocimientos que nos han permitido alargar nuestra estancia en este mundo, reflejada en un margen mayor de expectativa de vida, con modelos de economías saludables con el entorno y los ecosistemas naturales. Cada generación batalla con herramientas fundamentales para desarrollar una nueva capacidad de mejorar su entorno de vida y nosotros ocupamos el transcurso de la mentalidad antigua del medievalismo para pasar al renacimiento y consecuentemente al siglo de las luces mundial, ahora estamos pisando las puertas de un futuro que cada día nos sorprende más con los avances tecnológicos, gracias a la ciencia que ve más allá del sectarismo cerrado o de los colores políticos.
+
+En los estudiantes se puede depositar este contexto, pero solo en la medida que puedan sacar de sus pensamientos que requieren una “infraestructura” adecuada para mejorar como estudiantes de la vida, ya que el planeta es la infraestructura que requieren, con todos sus movimientos y sus ciclos naturales, incluidos los problemas sociales, es la verdadera prueba por la que deben pasar para prepararse a largo plazo.
+
+También entenderá el estudiante y cada individuo que en la vida real no estamos sometidos a ningún examen o puntuación de ranking internacional, sino que cada persona es calificada en la vida por medio de su calidad humanística en cuanto a la forma en que está capacitado para resolver los problemas inmediatos, una pregunta que puede hacerse un individuo que quiera medir o calificar su nivel evolutivo como persona es si es parte del problema o de la solución.
+
+Dado  que  disponemos  de  una  vida  con  límite  de  tiempo,  no  podemos permitirnos perder un segundo de vida, o de espacio. La consolidación de nuestra capacidad de afrontar las problemáticas y aplicar las soluciones pertinentes y necesarias para la supervivencia es de carácter inmediato y primordial, para eso se prepara un ser humano. Para desarrollarse y mejorar su vida, como también para mejorar la calidad de vida de los seres vivos en los ecosistemas naturales y los territorios donde estamos viviendo gracias a la providencia y el cosmos.

@@ -1,0 +1,23 @@
+## 2.4 Tomar distancia es acción benéfica
+
+<!-- Páginas: 161–162 -->
+
+161
+
+2.4 Tomar distancia es acción benéfica
+
+Hablar de este tema tan monótono, resulta tedioso para entender el uso adecuado de la protección ambiental, pero haremos aquí una reflexión muy objetiva a gran velocidad,  sin  detenernos  en  las  opiniones  al  respecto,  simplemente  para continuar tejiendo el hilo de los componentes.
+
+Los animales mantienen una relación directa con el espacio que les rodea, aunque terminen adaptándose a las intervenciones humanas, es evidente que su libertad de movimiento, traspasa los límites humanos. Es frecuente ver en redes sociales, imágenes de osos pasando una carretera o descansando en ella.
+
+Como lo demostró la pandemia en 2019, en el transcurso del aislamiento preventivo, muchísimos animales pudieron volver a desplazarse por lugares donde hacía tiempo no lo permitía la ocupación humana. La esperanza de un mundo mejor para ellos, pudo haberse asomado en sus conciencias animales. Aunque es lamentable para los seres humanos tener a nuestra especie bajo amenaza, lo cierto es que el respiro que se le dio a la naturaleza, en poco tiempo logró grandes transformaciones y pudimos ser testigos al ver a los ecosistemas regenerándose sin más intervención humana que apartarse y dejar fluir la magia de la naturaleza. Es claro que un principio de respeto a la naturaleza a veces es retirarse y dejar que el ecosistema pueda restablecer su relación cósmica con todos los seres vivos, donde el ser humano está ausente, no solamente porque el ser humano pueda convertirse en un destructor directamente, pero los animales sienten mayor confianza para explorar su entorno.
+
+La comprensión y el mensaje que deja esto es en la consideración de nuestro desarrollo como colectivo, que nuestra expansión genera invasión a espacios donde la conservación de los ambientes naturales se pierde. Esta consideración es válida no solo para habilitar o rehabilitar espacios o ecosistemas, es la conciencia y sentimiento de pérdida cuando acabamos con la riqueza de biodiversidad natural  y  cuando  estropeamos  o  explotamos  deliberadamente  los  recursos naturales.
+
+Al desarrollas las vías hacia las grandes ciudades para transportar insumos y productos, hemos acabado con recursos y espacios vitales de otras especies, fundamentales para la preservación de los ecosistemas. A pesar de esta conciencia y de manera paralela, también es una necesidad mejorar las vías de transporte de la producción agrícola para el intercambio de bienes en el mercado. El libre desarrollo del comercio, requiere garantías por parte del estado y la comunidad,
+
+162
+
+para la inclusión de los mercados en la economía nacional y para que en los territorios se puedan solucionar sus problemáticas y sus necesidades generales.
+
+Para terminar esta reflexión no está demás considerar la articulación de diferentes medios de transporte y también considerar el conflicto que siempre se genera en la implementación de algún tipo de proyecto insuficiente o arbitrario. Si bien es cierto que todos los puntos de vista no son del todo reconciliables, también es cierto que al estar en desacuerdo con alguna iniciativa que pone en riesgo parte del ambiente natural, no deben justificarse acciones de violencia en ningún caso, por tratar de hacer un bien al medio ambiente, con la buena excusa o el mejor pretexto de proteger a la naturaleza, se termina violentando a algún sector en específico de la economía o directamente a las personas como seres humanos que son, poniéndolos como carne de cañón en protestas mal dirigidas. Entiéndase que esto, lejos de solucionar un problema general, abre todavía más la brecha entre la ignorancia y el conocimiento, entre la pobreza y la riqueza y genera discordia entre clases sociales existentes o se terminan peleando entre iguales, pero que piensan de manera diferente.

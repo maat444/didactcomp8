@@ -1,0 +1,77 @@
+## 5.4 Los robots del futuro
+
+<!-- Páginas: 299–304 -->
+
+299
+
+5.4 Los robots del futuro
+
+Encargados de realizar las tareas que de otra manera al ser humano le tomaría demasiado esfuerzo o que serían imposible realizar, los sistemas de software y hardware con funciones operativas que se combinan con sistemas mecánicos, han cambiado al mundo y lo seguirán haciendo.
+
+Desde la era industrial (en nuestro eón) las máquinas han venido a reemplazar la mano de obra. En cada economía, la innovación tecnológica deja obsoletos algunos puestos de trabajo, lo que genera una especie de resentimiento contra la maquinaria. Sin embargo, aunque es natural la reacción de odio general que promueve manifestaciones en contra de la industria, no se puede negar en el transcurso del tiempo que la maquinaria puesta al servicio de la fabricación dota al mundo de una nueva visión, que repercute en toda la economía al acelerar el desarrollo y la eficiencia de los sistemas productivos.
+
+No es importante aquí polemizar o debatir si fue un hecho lamentable que la maquinaria se haya impuesto para mejorar labores, al tiempo que despojaba a los seres humanos de las oportunidades de empleo, sino que vamos a ver cómo otras oportunidades para el desarrollo colectivo se generan a partir de la inventiva o innovación de labores apalancadas en la maquinaria disponible, lo que ha creado y seguirá creando el nuevo mundo.
+
+La maquinaria primero fue mecánica usando híbridos de metal y reacciones hidráulicas que permiten mover articulaciones, a las que luego se añadieron circuitos eléctricos y programación. Con todas las ventajas que representa una ola de  avances  tecnológicos  para  cualquier  industria,  debemos  mantener  una perspectiva de oportunidades para el intercambio comercial y la estabilidad de la cadena de producción y abastecimiento, dentro del contexto de almacenamiento sustentable, que alargue la vida a los productos perecederos.
+
+Siguiendo con la línea de pensamiento sobre la cultura que hizo posible en Egipto entender la forma de generar riqueza y prosperidad para la nación, justamente en años de contingencia mundial de su época, es fundamental poder desarrollar mecanismos que permitan mantener los alimentos en estado de conservación para la distribución, en el momento requerido, y para ello vamos a poner la atención sobre las posibilidades de lograrlo actualmente.
+
+Podemos pensar en sistemas de drones, cableado aéreo, sistemas de monitoreo, etc. Pero es importante también pensar en lo que aun no existe a nivel general o no se está implementando y que haría el trabajo de recolección más eficiente. En
+
+300
+
+este punto podemos hacer un paréntesis para preguntarnos si realmente existe algo más eficiente para la recolección de alimentos que las manos humanas. No solo  es  de  pensarse sino  de sorprenderse,  pues  el  ser  humano  dispone de capacidades  auto  motrices  indispensables  todavía,  que  están  perfectamente diseñadas para la tarea específica de la recolección de alimentos en las cosechas.
+
+Al respecto de la desconfianza que se gesta como un escudo en que se encierra el desconocimiento, podemos aclarar que todo invento tiene las dos caras de la moneda. Sirven para el bienestar y también pueden servir de amenaza. Cualquier innovación mecánica o tecnológica puede ser usada en favor o en contra de la humanidad, no por las cosas en sí, sino por la mentalidad de las personas que accedan a la herramienta. Si este es el caso, la importancia de mantener una mentalidad que se adhiere a los principios y valores es el respaldo que garantiza en mayor medida el mejor uso de las cosas. Sólo para dar un ejemplo, el porte legal de armas no es el problema en sí, lo que es un problema es que personas con una mentalidad destructiva, delictiva o criminal, accedan a poseerlas, pues carecen de la capacidad para controlarse emocionalmente y mantenerse en todo momento actuando bajo la ley.
+
+El factor de pérdida de cosechas no es que pueda solucionarse de manera inmediata apelando a un mecanismo que transforme las labores de recolección de alimentos en el campo, pero seguramente en un futuro mediano empecemos a vislumbrar  soluciones  que  parezcan  absurdamente  lógicas  como  para preguntarnos porqué no se nos habían ocurrido antes. Al respecto de algunas hipótesis o soluciones teóricas con poca probabilidad de convertirlas en realidad, muchas ideas al principio pueden parecer una especulación risible, pero tengamos en cuenta que por más que parezca absurda una idea en el papel, tiene la facultad de convertirse en sorpresiva realidad cuando se desarrolla con el tiempo. Muchas de las cosas que existen actualmente gracias al avance tecnológico, hace años existían  solamente  en  el  campo  de  la  ciencia  ficción  o  de  los  efectos cinematográficos.
+
+Así mismo, dentro del campo de la especulación pretendemos partir hacia la búsqueda de lo que pueda implementarse, descartando lo que no funcionaría o lo perjudicial, hasta lograr desarrollar herramientas que transformen la manera en que usamos las tecnologías, haciendo posible el transporte por aire de alimentos perecederos para aprovecharlos en su vida útil, así como monitorear y hacer seguimiento a las etapas de cultivo.
+
+Parte de la misión es contribuir a generar mayores niveles de calidad de vida, usando  las  creaciones  del  ingenio  humano  en  servicio  de  la  población,
+
+301
+
+salvaguardando el principio de protección ambiental y usando sabiamente la distribución de recursos.
+
+El siguiente cuadro de esta reflexión proviene de la ofensiva resistencia del mundo al cambio climático. Esta referencia no pretende transmitir un mensaje de protesta, sino que se usa para entender más claramente el polémico debate sobre si existe o no dicho cambio y si los seres humanos son los culpables, como también qué acciones pueden ayudar a controlarlo.
+
+A primera vista podemos ver que no hemos podido bajar un solo grado al recalentamiento global. Este apartado enfatiza la continua repercusión de seguir destruyendo el hábitat natural para la expansión de las ciudades, así como realizar obras de carreteras pavimentadas a lo largo del territorio nacional para cubrir la demanda de la población que se ve obligada a conectarse a las ciudades por medio de las vías.
+
+En este siglo donde el discurso vehemente de poetas delirantes inflamados con adicciones, apuntan que el aire se contamina con las emisiones de vehículos que usan combustibles fósiles, tienen la mitad del problema en su cabeza, pero de la solución no tienen ni el diez por ciento. Aun cuando se ve muy obvio mirar hacia las energías alternativas para poder funcionar, se necesita más que señalar a quienes se rezagan a hacer el cambio de ‘Mindset’. De hecho las energías renovables todavía no pueden reemplazar mundialmente a las energías fósiles. El tránsito de estas es costoso y lento.
+
+Las personas no pueden sentirse culpables de perpetuar el consumismo, solo porque parecen estar ayudando  a las empresas a continuar aumentando la acumulación de gases efecto invernadero expulsados a la atmósfera en cantidades suficientemente altas y día tras día.
+
+Como pudimos ver en los meses de aislamiento preventivo durante el ataque global de la pandemia, las medidas de contingencia para los seres humanos revelaron un bienestar para algunas especies del planeta y el ambiente natural en sí. Recordemos que antes de esto el mundo se encontraba en medio de incesantes protestas a nivel mundial y que la mayor desgracia natural la vivió en su momento el continente australiano con un incendio devastador, justamente provocado dentro del contexto del calentamiento climático. La propaganda se difundió a la velocidad de las llamas.
+
+Al rededor del mundo se ocasionaron diversos incendios en cadena, pero muchos de ellos fueron provocados por manos humanas que prendieron fuego sin ninguna consideración contra la naturaleza, aprovechando el desorden generado en torno a lo sucedido en Australia. En este contexto se pueden tomar decisiones
+
+302
+
+perjudiciales, intentando que la población cree conciencia sobre el cambio climático y sus respectivas consecuencias para el desarrollo del planeta y los seres vivos.  Sin  embargo,  los  militantes  encargados  de  la  protección  del  medio ambiente natural no deben ser solamente los científicos y activistas en conjunto con masas que muevan poblaciones a la protesta. De hecho no lograron nada bueno, solamente impulsaron protestas que la mayoría de las veces contaminan más la atmósfera, pues los manifestantes de ese tipo de marcha son habitualmente fumadores compulsivos.
+
+Enfatizamos la importancia de aceptar la misión personal, que debe ser adquirida desde la infancia por medio de la educación sistémica, desde casa, para luego ser reforzada por las instituciones académicas consolidando los principios y valores, por medio de estructuras de incentivos que promuevan en los individuos aplicar el componente de la protección ambiental como una herramienta de superación personal y como emblema de responsabilidad social o conciencia del deber.
+
+Entendiendo esto y entrelazando los diferentes puntos que se han expuesto dentro del contexto climático y la protección ambiental, podemos esperar una realizable labor de planeación sobre la producción agrícola y establecer diferentes alternativas para la toma de decisiones y las respectivas acciones que deben surgir en el compromiso y la responsabilidad coherente, entre los diferentes aspectos de protección y conservación natural.
+
+Damos esta breve reflexión sobre un asunto que requiere empatía y sentido común, más una pizca de ética, el equivalente en peso de las acciones individuales para desarrollar la inventiva y creatividad de cada persona dispuesta a desarrollar la misión. En cuanto al planteamiento de los llamados a la protección ambiental desde los organismos internacionales, ningún mecanismo u organización puede surtir un efecto exitoso trabajando aisladamente, ni en contra, o a espaldas de la población.  Se  requiere  que  cada  individuo  tome  conciencia  de  su  papel fundamental en la realización de estos elementos del cambio personal de los hábitos para mejorar la calidad de vida, no solo de las poblaciones humanas sino de todos los seres vivos del planeta, que es nuestro hogar, al cual le debemos todo.
+
+Seguramente y de manera inmediata, los robots o los drones no puedan ayudar a controlar el cambio climático. Quizá en un futuro cercano se hayan hecho suficientes adaptaciones para que puedan ser funcionales en ese sentido. La misma alucinación se puede especular para la prevención de riesgos y contribuir en asuntos de emergencia inmediata. Si llegáramos a un punto de adaptación de drones o robots para contribuir en la cadena de abastecimiento, lo mismo sería
+
+303
+
+posible  para  mantener el control sobre la  actividad  climática o  en  alguna eventualidad desencadenada en forma repentina como los incendios forestales.
+
+Al adaptarse unidades ‘cyborg’ contra incendios que actúen como bomberos y unidades de búsqueda y rescate, el mundo no solo será futurista sino también amigable con el medio ambiente y los seres vivos. Las carreras del futuro tendrán esto en cuenta. Partirán desde el principio de elevar la capacidad del individuo hacia las carreras de ingeniería robótica desde temprana edad y sin trabas burocráticas, con métodos de participación directa. Así los estudiantes y los individuos pueden ver un mejor uso de sus propias capacidades humanas, puestas al servicio de la misión personal. En vez de ser simplemente devorados por una sociedad que les impide participar y que solamente los impulsa a convertirse en rebeldes que se revuelcan en protestas, cuando en realidad son personas se necesitan para ayudar en grandes tareas.
+
+Los seres humanos juntos, somos capaces de realizar grandes proyectos para resolver problemas. Dividirnos como fragmentos nos hace débiles y fáciles de caer en las trampas que crea el desorden social ideológico. Es en la creación de emprendimientos sociales donde las personas demuestran su fuerza espiritual. Otra vez evocamos una misión personal enfocada en la conservación del entorno, para desarrollar las capacidades espirituales del ser humano en una medida de acción sobre la mente de los individuos y las poblaciones para que se incluyan en la hermandad global y trabajen en conjunto por la protección ambiental, no desde la protesta o los panfletos sino desde la acción conjunta, de la proyección social y del desarrollo tecnológico.
+
+Así como podemos adornar el léxico con símbolos poéticos para manifestar ideológicamente, que en vez de enterrar nuestros ecosistemas naturales vivos bajo una  capa  de  asfalto  muerto  y  construir  vías  de  congestión  que  emitan contaminación, podamos generar energías alternativas al combustible fósil y construir medios de transporte más amigables con el planeta, así podemos dejar por escrito el mensaje a las futuras generaciones, pero en el lenguaje de la acción y la ejecución de proyectos, no en panfletos.
+
+También podemos decir de manera simple que no enterremos el potencial del ser humano debajo del relleno académico, ya que necesitamos del espíritu humano para poder acceder a las iniciativas e innovaciones que van a seguir transformando al mundo, en un lugar con acceso al avance tecnológico, al tiempo que ayudemos a mantener vivo el paraíso que es la tierra.
+
+Por último, concluimos este espacio reflexivo, para determinar que aunque llamen a este planeta ‘un domo’, como han sugerido los autodenominados
+
+304
+
+“despiertos”, provenientes de escuelas conspiranoicas, nosotros sí valoramos este planeta por su exuberante vida y lo tratamos como un ser vivo, tanto como un hogar y como una creación de obra divina y universal. Así mismo nos tratamos a nosotros mismos como especie viva y también a los demás seres vivos que comparten nuestra estancia en el planeta. A pesar de las diferencias ideológicas, aquí estamos.

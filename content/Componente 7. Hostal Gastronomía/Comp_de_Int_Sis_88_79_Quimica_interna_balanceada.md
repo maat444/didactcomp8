@@ -1,0 +1,47 @@
+## 7.9 Química interna balanceada
+
+<!-- Páginas: 443–446 -->
+
+443
+
+7.9 Química interna balanceada
+
+Un cuerpo sano que funciona en armonía, trabaja internamente en un número elevado de procesos simultáneos y en diferentes sistemas. No hay alguna parte del cuerpo que permanezca inactiva mientras las demás trabajan, por ende, el trabajo es tan natural como la vida misma. De igual manera, los componentes que hemos concatenado en este texto, siempre están trabajando conjuntamente, responden a una prolongación de la calidad de vida en todos los sectores económicos que se relacionan entre sí. Los últimos componentes de la cadena se cierran en torno a la oferta turística y cultural que ofrece el territorio desde sus raíces ancestrales, respectivamente desde la historia y las tradiciones de la población.
+
+Al igual que un cuerpo sano funciona de manera armoniosa, los componentes básicos de un sistema social, cuando trabajan en conjunto, contribuyen a mejorar la calidad de vida y a impulsar el desarrollo económico. La oferta turística y cultural, arraigada en la historia y la identidad de un lugar, es un elemento clave en este proceso.
+
+Cuando un proyecto está desligado de los componentes, de la conciencia de ellos o de la articulación entre ellos, falla por la misma naturaleza de que su sistema  está  incompleto  o  trabaja  en  contradicción,  causando  una  brecha, ideológica o técnica, que luego se convierte en problema social. Cuando un elemento de un sistema se desvincula de los demás, se produce una disfunción que puede generar problemas socio económicos a corto, mediano o largo plazo. Esto es similar a lo que ocurre en el cuerpo humano cuando un órgano deja de funcionar correctamente. Usando una analogía biológica ocurre lo que se llama ACV (accidente cerebrovascular), se va degenerando alguna parte en el sistema y esto lleva a que el sistema colapse cuando se ha avanzado a un estado crítico.
+
+Hemos estado equiparando las reacciones en el campo de la salud o la medicina para aplicarlas a lo que ocurre con los problemas en las sociedades. Es una forma de entender mejor el panorama de lo que ocurre a nivel interno en una nación. El problema con la enfermedad o la problemática social es que ataca internamente al cuerpo que la hospeda. Cuando el cuerpo o sistema está siendo atacado desde adentro, las consecuencias serán nefastas. Si se le deja avanzar a un punto crítico, se contagiará a otros cuerpos o replicará sus reacciones en cadena hasta ser imposible refrenar su avance y tratar el paciente a tiempo.
+
+Hacer caso omiso al llamado de los componentes continuará perpetuando una degradación social, consecuentes abusos de poder y explotación de los recursos
+
+444
+
+naturales en contra del balance energético y saludable de las poblaciones. Este tipo de problemas derivados se tornarán en una tendencia auto destructiva y se contagiará a otros niveles de las poblaciones del territorio como una reacción en cadena. La buena noticia para el campo de la medicina social es que ya existe un tratamiento o está lista la farmacéutica para contrarrestar el efecto negativo de las problemáticas que han tomado fuerza y son estos componentes, junto a la educación financiera de calidad.
+
+Las  enfermedades  sociales  están  etiquetadas  como  ‘inflación’,  ‘deflación’, ‘hambre’,  ‘pobreza’,  ‘delincuencia’  ‘analfabetismo  financiero’  etc.  Cuyas consecuencias son arbitrarias a la armonía y al equilibrio de una economía eficiente y responsable. Tales aflicciones pueden complicarse por una ausencia de recursos, falta de presencia estatal, proliferación de organismos al margen de la ley o también por excesos de autoridad, entre muchos otros factores.
+
+La planificación y administración sabia y/o eficiente de los recursos puede aportar soluciones inteligentes a distintos problemas socio económicos. La clave para el desarrollo regional, reside en la interconexión y el equilibrio entre todos los elementos de un sistema, desde la economía hasta el medio ambiente. Los conocimientos humanos deben utilizarse para mejorar la calidad de vida sin comprometer de manera negativa el futuro de los ecosistemas.
+
+Del cómo cada departamento administrativo es capaz de poner en práctica los componentes y relacionarlos a su organización, depende la coherencia en las relaciones públicas y la llamada diplomacia. Los componentes sirven de examen a las intenciones personales o colectivas de un sector implicado, incluso o más todavía, en temas como los llamados diálogos de paz.
+
+La capacidad de los gobiernos para implementar políticas basadas en estos principios determinará el éxito de las relaciones internacionales y la cooperación entre diferentes sectores. En el ejemplo cliché o muletilla, que hemos venido usando,  la  historia  nos  muestra  que  instituciones  como  la  Iglesia  pueden evolucionar y trabajar en conjunto con otras religiones para lograr objetivos comunes, como lo es la protección del medio ambiente. La colaboración es esencial  para  enfrentar  los  desafíos  globales  y  garantizar  un  futuro  menos conflictivo.
+
+Con el trabajo que se teje alrededor de los componentes, en estas reflexiones, las concepciones y la moral de los colectivos radicales debe tomarse con respeto, no con sumisión. La capacidad de conciencia en la toma de decisiones, involucra la  totalidad  de  la  sociedad  humana,  el  beneficio  que  desprende  de  estos componentes, hace ganar a todos y no excluye a nadie. Dentro de lo que se
+
+445
+
+permite apuntar, parte del ser natural es mejorar en la vida y proteger a la familia, también este debe ser el enfoque en una educación superior. Las necesidades primarias del ser humano no deben confundirse con aspiraciones personales basadas en tendencias temporales y/o causadas por una psicología desordenada, mal influenciada y/o atacada por agentes externos.
+
+Debemos respetar las opiniones de todas las personas u organizaciones, pero es fundamental que las decisiones que afectan a toda la sociedad se tomen de manera consciente y responsable. El objetivo es lograr un bienestar para todos, basado en la cobertura a las necesidades básicas del ser humano y no en deseos egoístas o influenciados por ideologías extremas.
+
+El paraíso ideológico que desean imponer en el planeta tierra algunos sistemas religiosos o movimientos ambientalistas, que sueñan con un mundo donde los animales dejen de atacarse y consumirse unos a otros, suprimiendo la cadena alimenticia, es imposible. Soñarlo parece poético, pero en la realidad va en contra de todos los sistemas naturales. En lo que se refiere al desarrollo de las facultades intelectuales humanas, las instituciones académicas o las escuelas de pensamiento difusoras de conocimientos, pudieran pugnar ideológicamente atacándose con campañas de desprestigio con la intensión de suprimirse unas a otras. Sin embargo, han sabido auto promoverse y situarse en perspectivas diferentes, manteniendo una sana relación en la que se aportan mutuamente. Esto nos brinda una idea clara y sencilla: en el campo intelectual es fácil coexistir con ideas opuestas, pero en el reino animal el intelecto humano no tiene validez.
+
+La idea de un mundo perfecto donde no exista conflicto es utópica y va en contra de los procesos naturales. La diversidad de ideas y perspectivas es esencial para el progreso humano. Debemos aprender a valorar diferentes enfoques y a trabajar juntos para encontrar soluciones a los problemas comunes sin que esto signifique sacrificar la vida en estallidos de violencia. Hay que comprender muy bien la naturaleza dual del ser humano en el sentido de que participa de reino animal en la clasificación biológica pero a su vez en la transmutación mental puede  elevarse  por  encima  del  intelecto  y  lograr  estados  superiores  de espiritualidad.  Por  lo  tanto,  en  la  naturaleza  animal  existe  el  instinto  de supervivencia y ataque, en el estado superior existe la libertad y la paz verdadera.
+
+A partir de todo lo anterior, podemos considerar de manera más clara como aplicar los principios de los componentes en un entorno práctico. Hemos visto que el texto trae anexada una simulación. El proyecto de la simulación contiene algunos principios de los componentes aplicados a su planeación estratégica en un proyecto real, que inicia siempre con conocer las opiniones de las personas de
+
+446
+
+la población donde se quiere realizar una intervención o infraestructura y a partir del diálogo se construye un proyecto basado en las problemáticas que se busca resolver. La simulación debería reforzar la práctica en la toma de decisiones y consolidarse en su implementación directa sobre mecanismos que pretenden lograr el desarrollo regional.

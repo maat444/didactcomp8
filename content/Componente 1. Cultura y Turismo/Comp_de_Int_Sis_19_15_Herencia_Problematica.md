@@ -1,0 +1,65 @@
+## 1.5 Herencia Problemática
+
+<!-- Páginas: 100–104 -->
+
+100
+
+1.5 Herencia Problemática
+
+Los estudiantes de cualquier grado en curso o egresados, hacen bien en reconocer que  tienen  el  poder  de  aportar  cambios  al  sistema  de  educación  y  a  los acontecimientos  del  mundo,  aun  así,  no  deben  olvidar  que  siguen  siendo estudiantes, adelantados o no, tienen una gran responsabilidad, tanto con sus propias familias y hacia ellos mismos, como con la institucionalidad del país al que pertenecen y hacia el futuro que heredarán.
+
+Al mencionar que recibirán un futuro, se hace referencia también a los problemas que ellos mismos pueden generar. Como la juventud y los estudiantes tienen altos niveles de impulsividad y de rebeldía, esto los hace el blanco perfecto para crear un caos social. Los estudiantes jóvenes se convierten en el campo donde se siembra desinformación y fragmentación social, se crean pandillas juveniles y también extensiones de grupos al margen de la ley, que se camuflan en los llamados movimientos estudiantiles.
+
+Mientras desde los niveles altos de las organizaciones, se estima que estas cuadrillas académicas afectarán al estado opresor, los estudiantes caen en un error de interpretación y desviación, que les alcanzará en la edad adulta, afectándolos de manera directa. Tendrán que enfrentarse a los problemas que surgen desde su propia distracción de objetivos: en vez de enfocar su energía juvenil en crear sus propios recursos para el futuro, desbordan en quejas y reclamos de derechos al estado y persiguen más la desobediencia y la rebeldía, que la responsabilidad. Esto último pareciera una metáfora de la hormiga carpintera (Camponotus), poseída por un hongo (Ophiocordyceps unilateralis), que le impide realizar sus funciones de supervivencia, pues la controlan desde su interior.
+
+Los problemas que ya existen y los que ellos mismos generen serán su herencia. Los derechos que puedan tener, son herramientas para que puedan combatir las problemáticas  desde  el  campo  de  las  responsabilidades,  que  son  deberes obligatorios. Si desean medianamente sobrevivir al mundo que viene, todavía deberán  esforzarse  titánicamente  para  salir  de  la  burbuja  en  que  se  están encerrando ideológicamente, sin que caigan en una impulsiva y desbordada violencia reprimida o en una profunda depresión, pues puede pasar por una cabeza desorientada que albergue y acumule deseos de venganza contra un enemigo que ni siquiera existe y/o que proyectan fuera de ellos mismos.
+
+El asalto permanente a la mente de los jóvenes responde a la facilidad de influenciarlos por las tendencias temporales (música, desobediencia y drogas). La
+
+101
+
+semilla  de  auto  engaño  afecta  a  todos  los  movimientos  juveniles:  ningún estudiante en su infancia o juventud, está completamente protegido de influencias que  buscan  adoctrinarlo  y  reclutarlo  a  los  intereses  de  cualquier  sistema ideológico. La rebeldía juega un papel importante en la toma de decisiones de los individuos en la transición de adolescente juvenil a adulto independiente. Llevar la contraria a todo lo establecido se convierte en punto de referencia para actuar conjuntamente, pero esto se convierte generalmente en su punto débil. Con un mínimo de información se logra manipularlos, descuidados profundamente desde su vasta ignorancia, se logra utilizarlos para acometer contra todo lo que quieran destruir.
+
+El sistema educativo provee de herramientas al estudiante hasta cierto punto, hay individuos que aún después de años de haberse graduado defienden a capa y espada, el honor y la estructura de sus instituciones. Ocurre todo lo contrario en otro tipo de individuos que se rebelan contra el sistema y no quieren ser estudiantes. suelen sentirse aprisionados en las estructuras académicas, algunos desertan directamente y otros escapan temporalmente de la presión disciplinaria. La estructura sistemática de los programas educativos académicos que se imparten desde grados ‘menor a mayor’, pasando al estudiante desde lo más básico a lo intermedio y posteriormente a los grados superiores, se mantiene en una escala que para los estudiantes no tiene una profundidad definida. Lo que quieren es sentir que cada mes o cada trimestre se convierten en mejores personas o que están  escalando  habilidades  y  obteniendo  las  herramientas  necesarias  para enfrentarse al mundo real.
+
+Los estudiantes no avanzan en un todo educativo, sino que pasan de grado en grado  con  lo  mínimo  que  puedan  retener  en  su  memoria  y  en  mente subconsciente (la somnolencia estampa la rutina), siendo el aburrimiento un gran porcentaje de lo que experimentan los estudiantes como educación académica, esta es una impresión que queda arraigada. A estos trastornos educativos como la deserción, el aburrimiento o la desidia, también se suma posteriormente que una cantidad bastante amplia de estudiantes, pierdan interés en continuar estudios profundos por su propia cuenta, después de que han egresado de sus carreras o de las graduaciones básicas.
+
+El auto didacta que encuentra apasionante el aprendizaje por sí mismo, representa un porcentaje muy por debajo del promedio. Respecto a la educación académica tradicional, ha sido necesario consultar fuentes preliminares o tablas oficiales que estudien cifras de autodidactas en el mundo, pero a simple vista, en la población general, podemos corroborar esta afirmación: el entretenimiento es
+
+102
+
+más viral que el auto estudio. Es también interesante apuntar aquí, que los altos índices de autodidactas, se concentran en carreras que se dan muy poco o casi nada en las universidades, como pueden ser la programación de software y la educación financiera, entre otros.
+
+Pese a la afirmación anterior, en el mundo actual, gracias a los avances informáticos y la red cibernética, las personas autodidactas han aumentado en cantidad y esta se acerca a una masa crítica. Simplemente el alcance de la información, hace que consultar cualquier detalle esté al alcance de una conexión a internet. No se menosprecia la educación formal, por el hecho de disponer aparte, de una vasta red de información. La educación, continúa siendo el pilar de la cultura global, pero sigue perpetuando algunos hilos de la era industrial, programar en masa a los estudiantes: lejos de preparar a los individuos para que estén listos y puedan enfrentarse al mundo actual, los mantiene a una distancia donde el mundo les pasa por encima, de nada sirve formar sindicatos para fomentar las prácticas de reclamar.
+
+El sistema educativo actual, mantiene sus impulsos desde la segunda guerra mundial, de proporcionar individuos aptos para ser contratados por las compañías en operación. Desde este punto de vista, ralentiza los resultados educativos y el impacto de la educación que se espera actualmente: que sean los estudiantes egresados de la educación superior, los que crean las nuevas empresas emergentes y faciliten el acceso a los puestos de trabajo. Por otra parte, en los primeros años de vida de los estudiantes, el aporte y desarrollo de su potencial latente, es completamente diezmado. Se trata de moldear la mente de los individuos para que puedan aplicar a una oferta laboral, lo cual no tiene nada que ver con el espíritu sobresaliente.
+
+En esta programación desde los niveles académicos, de calzar la mente de los individuos al propósito de los sistemas laborales, se pierde el máxime espiritual de cada individuo. No se trata de enfocar y dirigir estratégicamente las cualidades de los  individuos,  como  sucede  en  los  escenarios  de  deporte  o  en  las  artes profesionales, sino de lograr que el individuo se conforme con un sueldo y derechos laborales, para aspirar a una pensión en el futuro. Aquí se funden dos problemas actuales, que generan un gran caos en el mundo: por una parte, una educación que ralentiza los resultados en aportación de soluciones al mundo por parte de los individuos, por otra parte, el sistema pensional que colapsa en el mundo. Dos sistemas que nacieron en la era industrial.
+
+El verdadero desarrollo espiritual, que logramos despertar desde la cultura y la educación, con el enfoque que se presenta en estos componentes, de liberar las
+
+103
+
+capacidades latentes del ser humano, para resolver los asuntos de su propia vida y aportar soluciones en las problemáticas en el mundo, queda anulado por los intereses de generar dinero quincenal o mensual, en una proporción cerrada que se presenta falsamente como sueldo fijo.
+
+Esta última afirmación no declara que los puestos de trabajo con sueldo fijo desaparezcan o sean rechazados de forma tajante o de manera categórica. Muchas personas han sacado adelante a sus familias pudiendo recibir un salario, de hecho, debemos estar agradecidos por la labor de cada persona que ha trabajado en todo el mundo, por un sueldo.
+
+Esta mención se presenta para la validación de los trabajos temporales (todo trabajo es temporal), o con miras a obtener una pensión. Lo cual es legítimo, desde la libre elección personal y por voluntad propia. Lo más razonable sería, en todo caso, usar el trabajo para un acercamiento a la experiencia y para aumentar el conocimiento sobre un tema en específico, que encaje con su carrera o propósito de vida, a largo plazo.
+
+El ejemplo de una persona que ha jugado en la práctica en un equipo de deporte y luego de años de experiencia se convierte en técnico, posteriormente y movido por un objetivo, puede llegar a convertirse en inversionista de un club o tener su propio equipo en alguna liga. Este principio de escalar el conocimiento y la experiencia se puede encontrar en todos los sectores productivos. Michael Jordan de la NBA, puede servir de ejemplo para esta consideración.
+
+Nuestras capacidades no deben estar restringidas a un título académico o a una certificación. La experiencia laboral no debe ser nula en los años de preparación académica. El mal ejemplo de las acciones y los resultados en estudiantes de educación superior, que se han volcado a la protesta contra los estados del mundo, reclamando derechos antes de cumplir con sus responsabilidades, es una patología crónica que se expande dentro de las aulas de clase y dentro del temperamento de los estudiantes. Es prioridad y de suma importancia, que los estudiantes y los individuos en general, conozcan las herramientas de las que disponen en el nuevo mundo tecnológico y se adapten al papel de la inteligencia artificial, para que puedan participar del emprendimiento social y en la creación de empresas, en la posteridad.
+
+Una subcultura en contra de las herramientas empresariales se ha tomado el corazón y la mente de los estudiantes desde las directrices de los docentes sindicalistas. No es un secreto que la alienación ideológica se ha infiltrado en los planteles académicos, que percibieron la implementación del sistema educativo como un castigo. Su forma de liberarse de esta ‘represión estudiantil’ es el aguardo
+
+104
+
+secreto de simpatizar con las destructoras doctrinas ideológicas, que pretenden substituir las instituciones del estado, mientras promueven discursos en contra de la acumulación de riqueza, los estudiantes derriban dentro de ellos mismos la posibilidad de auto generarse un porvenir de abundancia.
+
+Dice Dan Lok, un entrenador de inversionistas en finca raíz: “la mejor forma de ayudar a los pobres, no es convirtiéndose en uno”. Contrario a lo que los simpatizantes  de  ideologías  anti  riqueza  promueven  desde  sus  agitaciones estudiantiles. La citada declaración de Dan Lok, bien podría generar rabia entre las personas que se sientan atacadas, estudiantes y defensores de la cultura de la pobreza, prepararán toda una serie de discursos en cadena sobre los beneficios de ser pobre, contrario a las negativas virtudes de generar riqueza.
+
+Para poder auto complacerse con sus decisiones de elegir estar siempre del lado de los necesitados, tienden a convertirse en personas que necesitan. También puede que la violencia en la declaración de Dan Lok, quede implícita por definición, ya que puede significar: el hambre por sí misma, no hace empresarios.
+
+Las habilidades empresariales, las técnicas y estrategias, la determinación y la persistencia, son las que crean empresarios. El hambre puede crear rápidamente individuos desesperados que toman cualquier oportunidad por dinero, en contra de sus virtudes, para poder comer, pero no crea empresarios. Las habilidades del empresario,  para  que  tengan  claridad  los  estudiantes,  son  justamente  las herramientas que deben incorporar a sus prácticas estudiantiles, en la búsqueda de generar experiencia, para que puedan lograr plenamente sus objetivos de ayudar a su familia y a sus comunidades, lo cual es el principio y el objetivo de mantenerse atento, dentro del programa académico.
+
+Los reflexivos que vienen a continuación, ofrecerán más claridad sobre las capacidades y fortalezas que debe desarrollar cada estudiante o individuo, dentro del ámbito académico y en la vida real.

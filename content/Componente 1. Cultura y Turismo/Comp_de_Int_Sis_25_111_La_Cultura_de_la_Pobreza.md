@@ -1,0 +1,55 @@
+## 1.11 La Cultura de la Pobreza
+
+<!-- Páginas: 133–136 -->
+
+133
+
+1.11 La Cultura de la Pobreza
+
+Ser pobre es algo normal. La mayoría lo somos y vivimos sabroso con lo que tenemos y podemos disfrutar. Nos acostumbramos a ser personas de clanes y pandillas o simplemente familiares. No tenemos que escondernos de los medios porque no somos famosos y podemos sufrir en silencio tranquilamente sin ser publicados en los medios. También podemos tener algún medio de ganarnos la vida, en alguna labor que nos pague al menos lo mínimo para poder disfrutar un día de tragos con los amigos o tener un banquete de fin de semana con la familia. Luego podemos estar seguros que nuestra vida no le interesa ni le importa a nadie, más allá de nuestro pequeño círculo de amistad y familiar, como debe ser.
+
+Estamos haciendo lo máximo posible por vivir la vida sin inmiscuirnos en asuntos  complicados  o  que  requieran  carreras  universitarias  de  alto  valor. Además, también tenemos mujeres y podemos tener una familia con hijos que nos enorgullecen porque salen igualitos a nosotros y así podemos estar seguros de que van a repetir nuestros pasos y hasta nuestros errores. Podemos disfrutar de lo que nos ponen en la televisión para ver y podemos escuchar la música que nos ponen en los sitios de diversión común, donde otras personas como nosotros también se divierten.
+
+A veces hay gente de mayor categoría que viene a divertirse como nosotros, porque allá en su mundo de alta alcurnia no pueden satisfacer algunos de los deseos que quieren saciar. En fin, que ser pobre es lo mejor del mundo, además nadie te persigue para secuestrarte o intentar robarte algo que ni tienes y en todo caso cuando mueras alguien llorará por ti.
+
+No tiene nada de malo querer ser pobre desde el nacimiento hasta la muerte, excepto cuando se quiere, lamentablemente, ayudar a otros. Se pone la palabra ‘lamentable’ porque somos conscientes que desde la pobreza es muy difícil poder ayudar a los demás, cuando ni siquiera podemos ayudarnos a nosotros mismos. Y esta sensación de frustración recorre la mente y los nervios como un azote a las pretensiones de mejorar la calidad de vida personal y la de nuestros allegados. Tras una reflexión pausada y de aceptación conformista se llega a la conclusión de que no hay mucho que se pueda hacer, si no hay dinero suficiente.
+
+A partir de este pensamiento se genera un afán de cambio de posibilidades, que caen en la ambición de llevar una vida de diferente manera, en estados categóricos, dependiendo de la información que se haya podido filtrar al cerebro del individuo en cuestión. Dentro de las posibilidades de la mente en su baja
+
+134
+
+determinación y conocimiento, se despliega una gama de opciones. Se puede ser criminal y robar, entrar en una organización delictiva que cumple las veces de trabajo informal. Se puede también ser juicioso y elegir un buen camino, estudiar y conseguir un buen empleo, mantenerse hasta una edad pensional.
+
+También se puede abandonar toda ambición personal y vivir en la calle con los hábitos por el suelo y el potencial de la mente cayendo cada vez más bajo, aunque el cuerpo todavía resista tribulaciones y se mantenga vital. También la carrera criminal tiene divisiones y estatus: hay ladrones de carteras o cadenas y hay quienes roban bancos, hay quienes secuestran o extorsionan y hay quienes son hábiles en corrupción política administrativa. De cualquier forma, quien no es un buen administrador de su dinero y no sabe crear empresas, termina perdiendo todo o planeando su siguiente golpe para mantener su calidad de vida.
+
+En el imaginario de esta construcción reflexiva podemos definir realmente quién es perteneciente a la gran clase media, pues no se mide en salarios mínimos o poder adquisitivo, sino en las acciones y resultados. La clase más baja que pulula en la pobreza extrema, pertenece a una mentalidad que se abandona a sí misma en la ayuda de los demás y que busca siempre el amparo de los gobiernos o de las personas.
+
+Las cifras y estadísticas en los marcos conceptuales de información actual pueden  aumentar  o  disminuir  de  manera  desconsiderada  con  la  realidad. Cualquier persona que apele a la compasión de los individuos y gane limosnas, no necesariamente es pobre o miserable, pues depende como maneja sus finanzas personales. Es decir, una persona que ingresa algo de dinero está en el camino de la clase media emergente desde el escalón más bajo. Cualquier persona que por el motivo que sea, no disponga de medios para poder ingresar dinero, es de clase inferior a la clase media emergente. Todos podemos examinar directamente, que incluso en los barrios populares más míseros (aparentemente), siempre hay casas bien presentadas y también tiendas de comercio.
+
+La forma en que las personas administran sus ingresos determina el curso de su propia clase, según el conocimiento que pueden experimentar para crecer. Personas que pagan los estudios de sus hijos y han mantenido a sus familias dependiendo de pequeños puestos de ventas en el comercio callejero, son algunos ejemplos de administración de los ingresos bien invertidos y como respuesta a sus necesidades o pese a ellas.
+
+No está demás presentar en este reflexivo a la pobreza como una enfermedad, desde el punto de vista del estado, debido a las problemáticas sociales que genera a gran escala. Hay que tener conciencia de que la cultura de la pobreza es un
+
+135
+
+movimiento social. Una colectividad en masa que posee su propio lenguaje, su propia historia, sus costumbres, canciones, arte en general y trabajos. Defienden su estado actual de manera contundente y están dispuestos a dar la vida (o dañar la de los demás), antes que pertenecer a cualquier otra casta social o subir de nivel.
+
+Casi  todo  colectivo  en  contra  del  estado  de  derecho,  en  contra  de  los empresarios y en contra de los ricos, pretende ver hacia abajo, con dignidad, pero a la defensiva, y hacia arriba con indignación y enojo, muchas veces brutal. La culpa se arroja hacia arriba pero casi siempre cae sobre todos nosotros. Los impuestos que siempre quieren quitar algo a los ricos, terminan pagándolos la clase media y los pobres trabajadores.
+
+Las personas contaminadas con la cultura de la pobreza suelen identificarse con quienes han sido agredidos por la fuerza del estado, se identifican con los marginados, con los pandilleros, con los criminales, con los delincuentes, con los mafiosos, con la gente problemática, con los abusivos, con los rebeldes, con los anarquistas, con los revolucionarios, con los indisciplinados, con los viciosos, con toda suerte de personaje que represente un malhechor o villano.
+
+Muy  pocas  personas  realmente  se  identifican  a  sí  mismos  con  grandes empresarios que admiren. Hay una cultura de la pobreza que les dice que está mal querer ser rico y tener una vida con todas las comodidades en abundancia, prefieren identificarse con personas que tienen una mala calidad de vida. Esto explica que una gran cantidad de universitarios, de quienes se espera una conducta superior, estén mal influenciados por escritores con hábitos destructivos y compiten en vicios como el alcoholismo o ser fumadores compulsivos.
+
+El problema de la clase media en cuestiones de mentalidad, es que pretenden amparar el pensamiento de los pobres por la compasión (conmiseración excesiva) que les genera la sensibilidad de dónde vienen. El problema de algunas personas provenientes de familias bien acomodadas financieramente o clases medias altas, es que se identifican culturalmente con influenciadores de las clases bajas que tienen problemas familiares y/o un largo historial de vicios, ponen su mirada hacia  abajo  en  vez  de  aspirar  a  mayores  niveles  de  grandeza,  porque  su sensibilidad les arrastra detrás del pesar y la debilidad de los demás.
+
+La emocionalidad dirigida hacia abajo en la escala de sensibilidad pone la mente de las personas en la identificación con el dolor y la apatía a nivel social. La cultura no puede abandonarse al simple impulso de la compasión y el pesar, porque las características del ser humano se apagan y renuncian a su potencial cuando traspasan al nivel de la desmotivación. Una persona que deja de trabajar
+
+136
+
+en sí mismo para mejorar su vida, se convierte a largo plazo en una carga para sí mismo y para la sociedad.
+
+La brecha entre ricos y pobres no se cierra con las ayudas del estado, ni quitando a los ricos para darle a los más necesitados. La brecha se cierra con una conducta  formada  en  la  autodisciplina  y  la  dedicación  permanente.  La matemática aplicada a los números, financieramente hablando, solo puede tener efectos favorables cuando el individuo ha sido capaz de auto generarse como un ser libre de quejas y reclamos, puede moverse dentro de sus facultades cerebrales y espirituales de manera natural en entornos sociales.
+
+El gobierno actual del mundo (debería escribir gobiernos del mundo, pero los gobiernos parecen seguir los planes de otro gobierno oculto), que promueve una disminución de la especie humana, acude a las masas de la pobreza con discursos de lucha entre clase para asegurarse que las mentes más ignorantes incendien el mundo con odio.
+
+Este compilado de reflexiones se reproduce con el ánimo de que los estudiantes aprendan  a  generar  soluciones  que  pongan  un  freno  a  las  tendencias  de destrucción de los valores de la familia y establezcan un mundo natural sin artificios de élites políticas, al tiempo que abren el camino a nuevas oportunidades de emprendimiento para las nuevas y futuras generaciones.

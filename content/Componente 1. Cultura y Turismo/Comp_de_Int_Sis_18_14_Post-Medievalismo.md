@@ -1,0 +1,31 @@
+## 1.4 Post-Medievalismo
+
+<!-- Páginas: 97–99 -->
+
+97
+
+1.4 Post-Medievalismo
+
+La perspectiva de conciliar diferentes esquemas de pensamientos, tanto de los antiguos, con los de los seres humanos actuales, como los de diferentes ramas del conocimiento, nos mueve en un impecable intercambio, que descarta todo lo que genere ideas de odio y rebaje la mente humana a la superstición o excesos de fanatismo. Como ejemplo de lo descartable, abordemos algunas creencias que hicieron daño al ser humano, por exceso de ignorancia, carencia de sentido común y/o mal uso de la información disponible.
+
+El simple hecho de una tormenta prolongada, que genera deslizamientos y calamidades sociales, visto desde la perspectiva medieval (no hablamos de un periodo medieval en línea histórica, sino de una mentalidad cerrada y perjudicial, que  acepta  preceptos  equivocados  y  los  defiende  por  fanatismo),  traería consecuencias más nefastas que la tormenta en sí. En alguna parte del espacio- tiempo en nuestro planeta, alguien puede haber pensado que a causa de la tormenta se hubieran perdido las cosechas, otra persona puede sugerir que la culpa de la pérdida de las cosechas se debiera a prácticas hechiceras o de brujería de algún grupo o de algún sospechoso de simpatizar con artes oscuras o doctrinas peligrosas. Llevado al extremo este tipo de acusaciones y a causa de un pavor o de odio generalizado, se da como solución llevar esas personas acusadas, para quemarlas en una hoguera. Una subsecuente guerra puede iniciar para vengar a los que fueron quemados y esta guerra se puede prolongar al continuar las prácticas de quemar personas, pensando que son las culpables de las enfermedades o de todo tipo de males que puedan caer sobre el mundo. Y luego, otras personas continuarán vengándose de los tribunales de terror que les impusieron terribles castigos, y así por años y hasta décadas, concentración de guerra y horror.
+
+También puede que, bajo esta misma perspectiva irracional de una mente medieval, algunas personas pensaran que ‘x’ guerra o ‘x’ peste, se debiera a la furia de algún Dios o dioses, que requerían sacrificios humanos o de animales para calmar su apetito de sangre y almas, de inocentes o de guerreros. Desde luego todas estas tonterías, hoy podemos descalificarlas por obsoletas, bajo la lupa de la ciencia y el conocimiento, cuando se ha comprobado que tales acciones no corresponden a la naturaleza humana de convivencia y paz. Si hay colectivos, minorías, adeptos al fanatismo, o personas que sigan perpetuando atrocidades ceremoniales, de índole religioso, político, ideológico o lo que sea, deben ser perseguidas y puestas en la balanza de la justicia como debe ser.
+
+98
+
+En contra de la lógica y de la razón común, aun cuando aleguen contra la ciencia, ningún sacrificio puede aplacar la ira de los dioses antiguos, según parecen  argumentar,  desvirtúan  los  avances  tecnológicos  del  ser  humano, trayendo sus reflexiones desde el plano astral, para demostrar que la humanidad está perdida y que merece la aniquilación, planean el Armagedón o el apocalipsis. Esto consigue introducir el miedo en el ser humano e inhibe el potencial de las personas ya que obstaculiza las capacidades de explorar el entorno.
+
+Ninguna psicodelia puede frenar nuestro camino al éxito, en la construcción de nuestro potencial y  en el desarrollo de nuestras realizaciones internas y externas. Los seres humanos pueden viajar en el espacio universal, en busca de las condiciones de vida que puedan albergar a nuestra especie, como también en búsqueda de otras civilizaciones. Por otro lado, los seres humanos tienen la responsabilidad de desarrollar auténticamente las capacidades de su mente y su espíritu.
+
+Aprender a usar el contexto de estos componentes, sirve para tratar problemas que se presentan, desde ayudar a mejorar las condiciones de vida de los seres vivos: plantas, animales, etcétera, hasta resolver problemas de origen tecnológico, como la actual discusión sobre los problemas que se pueden presentar con el desarrollo de la inteligencia artificial y su impacto social en el mundo.
+
+Llegados a este punto de comparación, entre la vida natural y la tecnología, entre la vida en el planeta y realizar exploraciones espaciales, podemos justificar estas salidas como ciencia ficción real, pues entraña una realidad más natural que afirmar que los dioses requieren sacrificios humanos o animales para poder subsistir y que nos dejen en paz por una temporada o en cada ciclo. Es decir, es más civilizado pensar en la posibilidad de vida humana o de cualquier tipo, en otros mundos, que seguir perpetuando nuestras mentiras de antaño respecto al mundo, expandiendo las supersticiones que crearon un infierno en la tierra.
+
+Para dejar concluido este asunto de la transparencia en la información, que se puede encontrar en abundancia actualmente en la era de los datos, falta agregar que la desinformación causada por los medios de comunicación (noticieros sensacionalistas,  medios  partidistas,  ideologías  sesgadas,  manipulación  de influencers o marketing de tendencias temporales), puede generar caos social y daños en el temperamento del usuario, más cuando se carece de formación profunda en lectura crítica, convirtiendo al individuo en robot que copia y pega todo tipo de información, sin corroborar los detalles o consultar las fuentes primordiales y el trasfondo del contenido de una publicación.
+
+99
+
+El uso indebido de la libertad de expresión, puede dar como resultado el ataque violento de manifestantes a las instituciones, la división de la población entre opiniones sesgadas, el fanatismo y el adoctrinamiento de las facciones que destruyen la armonía familiar. Todo lo anterior puede prevenirse y hasta cierto punto corregirse, por medio de la instrucción consciente y permanente en el compromiso y en la responsabilidad que se establece en los principios de estos componentes.
+
+Esta responsabilidad es la que madura a los estudiantes, la misión y la visión se nutren y se apoyan en estas guías reflexivas para el fortalecimiento del nivel educativo, como complemento a las prácticas académicas, para el desarrollo de los puntos de vista empresariales y de la cultura financiera, que le servirán al individuo para aprender a saber cómo sumar experiencia en el mundo real.

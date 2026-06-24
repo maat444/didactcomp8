@@ -1,0 +1,47 @@
+## 4.3 Viajar es una escuela
+
+<!-- Páginas: 240–243 -->
+
+240
+
+4.3 Viajar es una escuela
+
+Cuando aprendes a querer personas que acabas de conocer y las reconoces casi como a miembros de tu familia, igualmente puedes sufrir por su destino si las condiciones en las que se encuentran son de bajísima calidad de vida. Por eso la sensibilidad de cada individuo le hace propenso a buscar soluciones alternativas que brinden apoyo a las poblaciones menos favorecidas, ya sea con programas que influyan en aspectos académicos o por medio de actividades comunitarias que restauren la armonía social. En cuanto a los aspectos económicos sólo la educación financiera puede llenar el vacío que abre con la brecha entre ricos y pobres como consecuencia de los problemas que se presentan inevitablemente.
+
+Diversas  vías  a  distintos  destinos,  se  llenan  de  diferentes  corrientes  de pensamiento. En cuanto a la forma de poder aportar algo que mejore la situación de las poblaciones amenazadas de hambre y pobreza extrema, la facultad del ser humano de sentir empatía y prestar una ayuda o establecer un servicio que permita a los individuos mejorar su calidad de vida, facilita el recorrido de una vida con dificultades hasta lograr un balance (mental y emocional), donde la hermandad se presenta como estar en una posición en la que se puede ayudar a otros.
+
+En el escenario de las problemáticas sociales, siempre hay diferentes rasgos de personalidades entre los individuos que se apresuran a resolverlos. Hay algunas personas que solo opinan desde la distancia y sólo de manera superficial según su propio criterio sesgado. Hay quienes se ponen manos a la obra en poder ayudar de cualquier forma aunque de manera precipitada y sin ningún plan de respaldo, lo cual los convierte en posibles víctimas de los sucesos cuando desbordan en peligro. También están quienes piensan y sienten que nada es suficiente, lo que hacen los demás es fuente de críticas. Están quienes creen que todo es culpa del gobierno y aunque pueden tener razón, este razonamiento les impide continuar desarrollando su verdadero potencial individual.
+
+Algunas personas han empezado a comprender que para ayudar a la población en estado de pobreza extrema, el camino a la solución no consiste únicamente en darles el pan de cada día sino que también en instruirlos debidamente en cuestiones financieras, lo que les ayude a promover sus propios negocios y a escalarlos hasta que tengan un nivel que pueda mejorar su propia calidad de vida al tiempo que ofrezca alternativas de empleo a la población. En este sentido se puede apuntar que un organismo es legítimo si permite la inclusión social a través
+
+241
+
+de la creación de empresa y fomenta el desarrollo económico entre los individuos de la población, facilita el acceso a capacitación para que las personas puedan obtener la información necesaria para iniciar en el mundo de los negocios escalables.
+
+Estas iniciativas de fomentar el emprendimiento, desde las instituciones del estado y desde el sector privado, en la población general, es una buena relación que puede entenderse como hermandad, ya que alienta a las personas a buscar una salida óptima a la precariedad, poniendo al alcance de cualquier persona la posibilidad de establecerse en el mundo de los negocios.
+
+Este mensaje de los Componentes de Integración Sistémica, que encuentra su misión en la práctica de la conservación ambiental alineada a una oferta turística responsable, anexada a la promoción de biodiversidad cultural a nivel local o nacional, es un mecanismo desde el cual se facilita enfocar de manera adecuada la oferta de servicios y productos a los que puedan acceder las poblaciones y comunidades en razón de sostener su entorno laboral.
+
+A pesar de diversas corrientes de pensamiento que están en contra de fomentar las iniciativas empresariales, no se puede impedir que los individuos puedan generar riqueza a través de su esfuerzo y trabajo consistente. No se puede justificar ningún tipo de maltrato a los prestadores de servicios o a quienes de manera voluntaria se concentran en crear ingreso a través del cuadrante de empleado, los resultados esperados desde el corazón y el sentimiento personal de cada individuo que guían su esfuerzo están profundamente arraigados en su espíritu, dirigidos permanentemente por su propia elección. Cuando es consciente de la realidad que vive en su propia vida, si desea estar en una posición que le permita poder ayudar a los demás, en todo caso puede permitirse hacer un esfuerzo adicional o cambiar su mentalidad para cambiar de cuadrante, lo cual requiere inversión de tiempo, de lo contrario si espera en el lado del victimismo ser ayudado por alguien en algún momento específico o a lo largo de su vida, está desperdiciando su verdadero potencial.
+
+En el mercado de libros hay suficientes textos sobre cualquier tema para que los individuos se construyan una idea precisa del camino a seguir, aunque el camino largo, por lo que las reflexiones de los Componentes de Integración Sistémica  ofrecen  un  tipo  de  panorama  general  que  sintetiza  diferentes perspectivas y conocimientos que están repartidos en diferentes textos y en diferentes épocas y por lo tanto en diferentes realidades o contextos históricos. Con todo esto en mente, se les pide a los estudiantes que sean coherentes con su propia definición de riqueza y pobreza. Que sean lo suficientemente capaces de
+
+242
+
+afrontar su situación personal y afianzar su propio compromiso por ayudar a otros a despertar o alentar el verdadero potencial que no está en una postura de negación, en una actitud de resentimiento o determinada en el derrotismo; un individuo que trabaja en sí mismo y en desarrollar su verdadero potencial no está esperando ser ayudado por el estado o recibir una pensión para pasar años de mediana tranquilidad en la madurez.
+
+El compromiso que se espera de los estudiantes hacia sí mismos, es uno que les devuelva mejores condiciones de calidad de vida, para que puedan ser el puente de paso a un alto nivel donde otros puedan ver un ejemplo que no sea solo un atractivo sino un detonante a la iniciativa personal, ofreciendo alternativas de desarrollo económico a nivel individual, desde la búsqueda consistente del conocimiento financiero, cultura financiera, inteligencia financiera, inteligencia emocional, etc. Que no sean solamente una cifra más añadida a los colectivos que se quejan de la situación económica del país.
+
+Se puede entender que cada individuo sale de su casa con la idea de encontrar bienestar y comodidad para que pueda ofrecer un cambio a las personas que son parte de su circulo familiar más cercano, a sus amigos o protegidos. Se puede entender pero no justificar que los individuos que buscan bienestar personal o para su familia lo hagan a través de acciones que perjudiquen a otras familias como en el caso del hurto, estafas, etc.
+
+La correspondencia con el corazón de la hermandad ancestral se puede encontrar en cualquier lugar, incluso en moradas que parecieran albergues de refugiados o en barrios con índices de extrema pobreza. Es cierto que la riqueza financiera con todo el poder adquisitivo que pueda tener no significa que pueda comprar algo tan valioso como la vida misma. Esta afirmación no resta el poder real del dinero, pero la falta de dinero tampoco resta poder a la riqueza que viene envuelta en un corazón que mantiene una sana relación con el ambiente natural y con los seres que convive diariamente.
+
+Lo que se refiere en el párrafo anterior es que en los corazones de estas poblaciones  hay  una  riqueza  de  hermandad,  de  inclusión,  que  se  permite contagiar de buena actitud a cualquier otro colectivo. Permanecer algunos meses conociendo la situación de cualquier barrio o suburbio, denominado como una economía en situación de pobreza extrema, sirve para encontrar una riqueza indiscutible que se da en la hermandad y en la convivencia entre las personas que forman parte de su población. Podemos aventurarnos a pensar que una situación precaria es también un desencadenante de las mejores cualidades del espíritu humano, que precisa de la unidad para resistir dificultades comunitarias.
+
+243
+
+Este tipo de riqueza se da desde el corazón, con fuertes lazos de solidaridad y empatía. Este tipo de personas solo ven como a un extraño a quien no comprende esta capacidad de fusión emocional en los altos niveles espirituales de la cultura social, como a quien mira extraño que las personas coman del mismo plato, o que se repartan un pan sin haberse lavado las manos.
+
+Para concluir este pequeño acercamiento a la comprensión del componente fundamental  de  la  hermandad  ancestral,  terminaremos  diciendo  que  la hermandad está un nivel por encima de la inclusión social, ya que incluir a alguien  en  cualquier  actividad  es  muchísimo  más  fácil  que  tratarlo  como hermano.
+
+Así se deja espacio para la reflexión de estos temas a cada individuo que encuentre su propio sendero en la búsqueda de conocimientos, las alternativas a las soluciones de las problemáticas sociales se encuentran más fácil al disponer de fuertes  lazos  de hermandad. Se insta a los lectores a encontrar su familia espiritual, la de los seres humanos.
