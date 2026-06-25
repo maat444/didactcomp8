@@ -2,10 +2,6 @@
 
 <!-- Páginas: 296–298 -->
 
-296
-
-5.3 Alimentación en las regiones y prosperidad global
-
 Desde el contexto bíblico, la cultura egipcia, que permitió a los hebreos contribuir al sistema de desarrollo económico en su nación, surgió un mecanismo de prevención que nos ilumina a todos en cuanto a la preparación para el futuro y la planeación estratégica de la utilización de recursos, dado el sueño del Faraón acerca de las vacas gordas y flacas.
 
 Fueron siete años de prosperidad y abundancia agrícola, seguidos de siete años de completa resequedad en el suelo, que hizo imposible la labor de la agricultura. Pero, el cómo fue que se logró salir adelante en la supervivencia a ese tránsito de calamidad alimentaria, es una proeza digna de recordarse a través de los tiempos, sea o no verificable en la historia.
@@ -18,8 +14,6 @@ Aquí se encuentra una oportunidad de desarrollo para quien logre ver la mejor m
 
 La producción se necesita en el mercado para crear valor o en los hogares con bajo poder adquisitivo para disminuir el hambre y la pobreza. Se hace mención al ejemplo bíblico del Faraón afectado por siete años de recesión agrícola, por haber aceptado el consejo del intérprete de sueños José, porque de lo contrario, habría sido catastrófico. Siete años de hambruna dentro del reino que en su momento era el mayor imperio del mundo.
 
-297
-
 La pregunta que debería surgir de este relato para reflexionar es el cómo fue que se pudo almacenar y distribuir la cantidad exacta y cómo fue que no se perdió el alimento durante siete años, sabiendo que el proceso de descomposición de los alimentos puede variar según la forma y lugar donde se almacena, tanto la temperatura como la humedad son factores fundamentales para tener en cuenta en esta situación.
 
 La pregunta y el seguimiento a la respuesta no solo recae en la manera como estamos distribuyendo la riqueza agrícola de determinado país o región. Si solamente estamos produciendo para el consumo comercial, o si estamos dejando a  un  lado  el  brindar  herramientas  y  conocimiento  de  abastecimiento- almacenamiento a la población del territorio nacional.
@@ -28,11 +22,7 @@ Ese sería un punto inicial para la discusión en los sectores encargados de la 
 
 Si bien es cierto que en la economía de un país se estudia la mejor manera de usar recursos finitos, no por ello la mente humana debe ser limitada a esa conceptualización. Al contrario, los seres humanos pueden aportar desde una mente con posibilidades infinitas y también desde su potencial espiritual. Los componentes en este contexto son guía para quienes se responsabilizan en encontrar alternativas y propuestas efectivas para el desarrollo y la producción agrícola,  con  la  respectiva  fórmula  para  recolección  y  almacenamiento  de productos perecederos.
 
-Antes de dejar como abre bocas el primer tramo de este componente para que las reflexiones queden en cabeza de autoridades competentes, ponemos un punto de vista comercial que están usando algunas empresas y es la comida liofilizada o deshidratada, conservada para el consumo posterior. Este llamado se hace ya que los astronautas en sus misiones pueden consumir este tipo de productos en sus estaciones espaciales. Pero sin ir tan lejos, la idea de poder conservar productos
-
-298
-
-perecederos para extender el tiempo de vencimiento es la tarea en la que se deberá concentrar el estudiante aspirante a la gestión de emprendimientos sociales.
+Antes de dejar como abre bocas el primer tramo de este componente para que las reflexiones queden en cabeza de autoridades competentes, ponemos un punto de vista comercial que están usando algunas empresas y es la comida liofilizada o deshidratada, conservada para el consumo posterior. Este llamado se hace ya que los astronautas en sus misiones pueden consumir este tipo de productos en sus estaciones espaciales. Pero sin ir tan lejos, la idea de poder conservar productos perecederos para extender el tiempo de vencimiento es la tarea en la que se deberá concentrar el estudiante aspirante a la gestión de emprendimientos sociales.
 
 Lo exponemos en esta reflexión que subraya la importancia de hallar la respuesta a una necesidad de almacenamiento y como aporte solidario a quienes viven en territorios con mayores índices de pobreza. Así se busca solucionar un problema desde varios niveles de afectación como es el de abastecimiento, la pérdida de cosecha y la pobreza extrema que conlleva a una alimentación deficiente.
 

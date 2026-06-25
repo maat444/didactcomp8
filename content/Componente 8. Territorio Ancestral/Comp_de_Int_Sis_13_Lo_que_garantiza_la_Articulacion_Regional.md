@@ -2,10 +2,6 @@
 
 <!-- Páginas: 60–70 -->
 
-60
-
-Lo que garantiza la Articulación Regional
-
 10. ¿Por qué un teleférico y no cualquier otro medio de movilidad?
 
 La  vinculación  de  un  medio  electromecánico  de  elevado  coste  con infraestructura, a un programa que tiene como objetivo impulsar a mayores niveles la responsabilidad social, responde a la continua divagación sobre las alternativas  para  solucionar  diferentes  problemáticas  sociales  que  siguen perpetuándose en los territorios.
@@ -16,11 +12,7 @@ Hasta cierto punto esto puede ser verdad, aunque en la práctica, los países de
 
 Si los problemas vigentes pudieran ser resueltos únicamente por los programas y proyectos que ofrece el estado, ninguna necesidad habría en ponerse a pensar soluciones alternativas. La realidad confirma que los programas de estado al cerrar el avance de un problema en algún sector, abre la puerta a otros problemas a nivel general, lo que significa trasladar las problemáticas de un sector al siguiente, como en el caso de las pensiones, las futuras generaciones tendrán que trabajar duro para pagar el gasto actual.
 
-Las observaciones de este texto, postulan la participación de cada individuo, directamente en la creación de sus propias oportunidades para el desarrollo de su potencial, que aporte beneficios al resto de la población y para la posteridad,
-
-61
-
-asegurando a las generaciones venideras un mejor porvenir, del que prometen los organismos políticos de todas las banderas.
+Las observaciones de este texto, postulan la participación de cada individuo, directamente en la creación de sus propias oportunidades para el desarrollo de su potencial, que aporte beneficios al resto de la población y para la posteridad, asegurando a las generaciones venideras un mejor porvenir, del que prometen los organismos políticos de todas las banderas.
 
 El contenido de estas reflexiones está diseñado para que los entes territoriales administrativos y toda figura de autoridad, en todos los sectores, puedan mejorar sus relaciones con la población y sean cada vez más transparentes en el uso de los recursos  disponibles,  así  como  un  mejoramiento  y  fortalecimiento  en  la planeación y prestación de servicios turísticos. Pero todavía más importante: que las personas aprendan a leer entre letras y puedan ver a través de los discursos sensacionalistas para comparar las palabras con los resultados; es decir, que aprendan a discernir entre el marketing político y la realidad.
 
@@ -32,11 +24,7 @@ Cabe señalar que cada propietario y cada unidad administrativa territorial, se 
 
 La capacidad de obtener resultados, propias del cuerpo humano, requieren introspección y extra inspección (a falta de un término más adecuado que la simple contemplación), con sus respectivas pausas y lagunas, como parangón a la geografía que contiene altibajos y todo tipo de contexturas y relieves. Esto se traduce de manera sencilla en que el trabajador y la persona eficiente, siempre requiere un momento de desconexión.
 
-La región contemplada en este ejercicio, está muy lejos del mar y a distancias considerables de las grandes ciudades del país. Se entiende bien que la propuesta
-
-62
-
-de oferta turística, esté reflejada en las vistas panorámicas que ofrecen las alturas inmensurables a simple vista, que sirven para resguardar un valle que permanece casi intacto. Es la primera riqueza verificable que descubre el visitante, una maravilla natural para el sentido de la vista.
+La región contemplada en este ejercicio, está muy lejos del mar y a distancias considerables de las grandes ciudades del país. Se entiende bien que la propuesta de oferta turística, esté reflejada en las vistas panorámicas que ofrecen las alturas inmensurables a simple vista, que sirven para resguardar un valle que permanece casi intacto. Es la primera riqueza verificable que descubre el visitante, una maravilla natural para el sentido de la vista.
 
 Un mecanismo de transporte por cable aéreo, fortifica la relación con el paisaje, la contemplación del territorio desde una perspectiva de altura, además de  un  vértigo  voluntario  y  responsable,  ofrece  identidad  regional,  como apropiación de la riqueza que ofrece oportunidades dentro del territorio. Desde diferentes escenarios que han especulado los habitantes a propósito de un medio de transporte alternativo que pueda servir de mecanismo de articulación de los municipios mencionados, se han presentado ideas que responden desde diversas perspectivas.
 
@@ -48,27 +36,14 @@ Esta descalificación se resuelve muy bien desde la perspectiva menos hostil, pa
 
 También permanece a distancia estratégica de las influencias negativas de las ciudades más cercanas, Bogotá y Girardot, manteniendo al territorio fuera de las problemáticas y del desorden social, que se presenta a gran escala en las grandes ciudades, protegiendo las costumbres de los habitantes de la región. Como articulación regional de los cuatro municipios, dentro de su ubicación específica, se encuentra justo antes y después de los peajes relacionados a las vías de acceso por carretera.
 
-63
-
 Lo que se pretende desde los fundamentos de la anterior simulación, como manual de convivencia, es relacionar la cultura al territorio, como mecanismo de cohesión común y como principio básico de organización de una oferta auténtica de turismo, para llevarlo a gran escala. El impacto de este proyecto está diseñado para la articulación regional, la cual no se consigue simplemente con una carretera, ni con aviones, ni con trenes de alta velocidad.
 
 Esta apropiación cultural vinculada al proyecto, es lo que da un sentido de pertenencia, que abarca las raíces históricas dentro de la región determinada y que converge en los conocimientos desde la colonización, las consecuencias del intercambio cultural, la expresión artística en las costumbres y tradiciones, que ofrecen un panorama actual de hermandad ancestral en un sentido global, lo que forja el espíritu de nuestra civilización actual y procura el establecimiento de valores comunes y naturales, los cuales arraigamos desde la infancia y desde la familia.
 
 A continuación, presentaremos el compendio reflexivo, que es el sistema articulado de los componentes.
 
-64
 
-65
-
-LOS COMPONENTES DE INTEGRACIÓN
-
-SISTÉMICA
-
-66
-
-67
-
-LOS COMPONENTES
+LOS COMPONENTES DE INTEGRACIÓN SISTÉMICA
 
 Las líneas de los componentes están estructuradas en base a reflexiones sobre el tema  que  relacionan,  viendo  diferentes  perspectivas  y  llenando  vacíos  de situaciones que no se han visto claramente alrededor de las problemáticas en los diferentes campos de desarrollo, apuntamos a que los estudiantes aprenderán y sabrán leer entre líneas y sacarán en sus conclusiones el verdadero potencial de estos componentes, desde el fondo de su comprensión aprenderán a ver más allá de lo que expresan los medios de comunicación, los programas académicos, los discursos políticos y religiosos, los activistas de partidos o programas globalistas que batallan dividiendo al ser humano.
 
@@ -78,11 +53,7 @@ Este es un trabajo que también llamamos administración humanística y que cala
 
 El corazón de estas reflexiones, mantiene un pulso constante que da vida a una fuerza de cohesión entre los individuos, para protegerse de los ataques constantes, aunque invisibles, de las ideas que permanentemente se filtran en las poblaciones para dividirlas y a propósito de que se reduzcan entre sí, debilitando a los seres humanos y haciendo más fácil la tarea de los organismos de élite oculta de subyugar y controlar la población dormida. Dormida porque se deja utilizar y porque sigue ciegamente las tendencias temporales, por influencia desde una masa crítica que se mueve como rebaño. Cuyo movimiento no actúa en beneficio para la totalidad, sino que contribuye a su auto destrucción.
 
-Cada componente yace oculto como una mina de oro en el corazón de estas reflexiones y será encontrado por cada estudiante que se de a la tarea y en el reto
-
-68
-
-de encontrarlo. Si se sintiera perdido en su andar por las indagaciones, debe volver a  centrarse  desde  la  cultura  en  los  territorios  y  como  norte,  mantener  la protección ambiental, que no solamente se refiere al cuidado del planeta, sino a la naturaleza de nuestra propia mente y la de los individuos, como al espíritu de cada ser viviente y cada cosa puesta en el planeta, como representación del cosmos interno que está ligado al exterior.
+Cada componente yace oculto como una mina de oro en el corazón de estas reflexiones y será encontrado por cada estudiante que se de a la tarea y en el reto de encontrarlo. Si se sintiera perdido en su andar por las indagaciones, debe volver a  centrarse  desde  la  cultura  en  los  territorios  y  como  norte,  mantener  la protección ambiental, que no solamente se refiere al cuidado del planeta, sino a la naturaleza de nuestra propia mente y la de los individuos, como al espíritu de cada ser viviente y cada cosa puesta en el planeta, como representación del cosmos interno que está ligado al exterior.
 
 Estas reflexiones nacen desde el compromiso, con los pies bien puestos en la realidad, la proyección visionaria de madurar y participar en las soluciones, sin esperar que los demás lo hagan o de que el gobierno se haga cargo, ya que compete a nuestra propia calidad de vida, mejorar por nosotros mismos y encender esta actitud en cada persona de la población.
 
@@ -92,11 +63,7 @@ Existen  actualmente  suficientes  ejemplos  de  personas  que  nacieron  en ent
 
 El tiempo de las excusas se ha ido y los individuos que siguen esperando que los partidos políticos del mundo arreglen las cosas, están negando los principios del texto bíblico que apunta: “dura cosa te es dar coces contra el aguijón”; pues siguen esperando que las cosas vuelvan a un estado donde se sentían cómodos, pero mientras esperan, lo más importante es que están perdiendo de vista su verdadero potencial, para hacer frente a las adversidades actuales y a las que vendrán.
 
-A  lo  largo  del  tiempo,  diversas  escuelas  de  pensamiento  cerrado,  han adoctrinado generaciones completas de personas ciegas que se atacan a sí mismas (auto sabotaje), esperando que alguien más se encargue de ellas en los momentos
-
-69
-
-de crisis. Aunque siempre nos necesitaremos mutuamente, en situaciones críticas, es preferible estar preparado y en el lado de quienes pueden ayudar a resolver y no en el lado de quienes son aplastados por las circunstancias.
+A  lo  largo  del  tiempo,  diversas  escuelas  de  pensamiento  cerrado,  han adoctrinado generaciones completas de personas ciegas que se atacan a sí mismas (auto sabotaje), esperando que alguien más se encargue de ellas en los momentos de crisis. Aunque siempre nos necesitaremos mutuamente, en situaciones críticas, es preferible estar preparado y en el lado de quienes pueden ayudar a resolver y no en el lado de quienes son aplastados por las circunstancias.
 
 El verdadero motivo de la creación de soluciones, recae en el hecho de aceptar la responsabilidad como un reto. Crear una vida de abundancia en medio de un entorno aparentemente hostil es la opción correcta. La segunda opción es dejarse arrastrar por la depresión y vivir entre quejas y reclamos, a cada gobierno de turno o a la providencia divina, perdiendo nuestra verdadera identidad universal de creadores, y dejando un vacío para las generaciones que esperan un héroe o una heroína fuera de ellos mismos, eso significa pasarle la responsabilidad a otros.
 
@@ -107,5 +74,3 @@ Es natural entonces que después de aceptar nuestras equivocaciones, podamos obs
 Luego se convierte en un estudiante que aplica los principios y que los puede utilizar diestramente con habilidad práctica como herramientas de comprensión y de inspiración a los demás. En cuanto a lo descartable: si alguna vez aceptó algo erróneo  como  una  conducta  habitual,  pero  después  confirma  que  esto  es perjudicial, lo desecha inmediatamente y así genera una conducta integral.
 
 Los estudiantes encontrarán la forma de desechar los materiales tóxicos o que son nocivos para su propia mente y alimentarán mejor sus pensamientos a partir de ahora y en adelante.
-
-70

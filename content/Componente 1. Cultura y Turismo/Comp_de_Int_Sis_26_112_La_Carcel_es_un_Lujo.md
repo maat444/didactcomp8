@@ -2,10 +2,6 @@
 
 <!-- Páginas: 137–141 -->
 
-137
-
-1.12 La Cárcel es un Lujo
-
 Con el interés de poder establecer un acuerdo conceptual o un marco teórico que garantice la dignidad humana en cualquier lugar de reclusión, se construye este apartado para poner la vista desde afuera, sobre lo que se ha considerado que debe ser la mejor forma de tratar a los humanos que han cometido crímenes o actuado en contra de las leyes de la sociedad.
 
 En el panorama mundial y en la historia de la humanidad, la pena máxima es la muerte por delitos imperdonables. Partiendo de esa premisa, si le dieran a elegir a los individuos condenados a muerte, entre morir inevitablemente, o estar encerrados, aunque llevando una vida miserable y a pesar de lo dura que pueda ser,  la  mayoría  de  los  condenados  preferiría  vivir  miserablemente  y  estar encerrado, antes que morir dignamente para purgar sus delitos. Acuñar el término dignamente,  se  entiende  muy  bien  si  los  individuos  criminales,  confesos, aceptaran su propia muerte como limpieza consciente de sus delitos y como ajuste de cuentas por el dolor causado a los individuos o familias de sus víctimas.
@@ -16,11 +12,7 @@ Haciendo una ampliación táctica sobre este pensamiento, podemos usar como ejem
 
 Como personas civilizadas que somos actualmente, hemos abolido en algunos países la pena de muerte directa, y en cambio, la pena máxima, sería el encierro de por vida con vigilancia extrema, llamado cadena perpetua.
 
-Un problema habitual, ahora, no es la aplicación de las penas, ni el tiempo que se le imputa a los culpables. El problema es la cantidad de condenados que supera
-
-138
-
-la capacidad dentro de las estructuras de confinamiento, sobre todo en las grandes ciudades, por lo menos en lo que respecta a América Latina.
+Un problema habitual, ahora, no es la aplicación de las penas, ni el tiempo que se le imputa a los culpables. El problema es la cantidad de condenados que supera la capacidad dentro de las estructuras de confinamiento, sobre todo en las grandes ciudades, por lo menos en lo que respecta a América Latina.
 
 No es un error del sistema prever menos delincuencia cuando se construye un lugar de aislamiento para purgar penas criminales, el uso irracional de la libertad, derrochada de manera equivocada, convierte a las personas en amenazas y generan una multitud incontrolable de deudores de la justicia en los territorios.
 
@@ -34,8 +26,6 @@ El ideal de este apartado reflexivo, en teoría, surge de un altruismo patético
 
 Claro está que la seguridad en el encierro prima sobre derechos que pierden los individuos, lo cual elimina cualquier posibilidad de desarrollar programas por fuera de las estructuras de seguridad. Pasar de plantear una comparación absurda entre elegir la pena de muerte o estar encerrado, a plantear una vinculación a programas de gestión ambiental, nos sirve para tener en cuenta varios aspectos del espectro de posibilidades.
 
-139
-
 Para contribuir responsablemente, en las etapas cercanas a al término de la condena de las personas privadas de la libertad, la aspiración de una verdadera resocialización y adaptación a la vida libre, se puede pensar en equipos de apoyo en limpieza y descontaminación de lugares que requieren intervención directa, como lagunas en estado de contaminación o sacar basura de los ríos. Esta es apenas una insinuación inmadura, se requiere demasiadas precauciones para que quienes están purgando delitos, no puedan escaparse. Y de ser viable, este tipo de beneficios solo pueda obtenerse cuando el PPL ha cumplido cierto tiempo (90% de su condena) y cuya conducta ha sido del todo, la mejor.
 
 La primera parte de esta reflexión nos permite poner en relieve, que, disponer de un sitio de reclusión, para sometimiento o purga de delitos, en consideración, proporciona alivio y respeto a la vida de los delincuentes y garantiza que no se aplique la pena de muerte o la cadena perpetua. Es propiamente un derecho, pero también un afortunado destino, que las leyes y la justicia le ofrezcan a los individuos que han cometido delitos de alta gravedad ser tratados a veces mejor que quienes están en libertad luchando por encontrar una fuente de ingreso para poder sobrevivir en el día a día.
@@ -45,8 +35,6 @@ Ahora bien, puede que ya lo estén pensando los lectores, respecto a las posible
 Esta disponibilidad de programas que ayudan a los individuos a mermar penas y mantener una actividad saludable, ofrece la oportunidad de disciplinar y corregir hábitos, poniendo su energía vital en trabajos que le ayudan a fortalecer su voluntad. En los centros penitenciarios que están alejados de las ciudades, igual se requieren modelos de rehabilitación, que permita a los individuos con delitos menores establecer una nueva conducta, para que rindan buenos frutos a pesar de las duras condiciones de su estancia penitenciaria.
 
 Como otra cara de la moneda, se puede notar también que, de la estancia penitenciaria, han surgido a lo largo de la historia, modelos de personalidades influyentes para la humanidad, tanto en el buen sentido de la palabra como en lo opuesto (también hay influenciadores malignos). Varios de los textos bíblicos, se cuenta que fueron escritos por personas que estuvieron encerradas en calabozos. Tenemos suficientes ejemplos de esto en personajes que han hecho historia en la humanidad. Por el lado de los buenos muchachos: San Pablo, Martin Luther King Jr., Nelson Mandela, y por el lado de los perjudiciales: Hitler, Mussolini.
-
-140
 
 Lo que resume que el tiempo de encierro, no siempre es un eterno castigo infranqueable, del cual no puedan sacar provecho las grandes mentes, pues de alguna manera encuentran la forma de evadir las barreras de su propia mente. En este sentido podemos traer a la conciencia que la verdadera prisión no está en los muros estructurales de una edificación para contener personas apartadas de la sociedad libre, sino que es la mente de cada individuo donde la gran verdad de la libertad encuentra su luz o su oscuridad.
 
@@ -59,8 +47,6 @@ La blandura del estado hacia la delincuencia es un error que amplía el poder de
 Lamentablemente, muchos jóvenes, como vimos en el corto reflexivo anterior sobre aspectos de pensamiento sobre el dinero en la cultura de la pobreza, se dejan influenciar hacia la parte negativa de las aspiraciones personales y ven como enemigos a las autoridades. En los establecimientos penitenciarios se puede notar la polarización de aspiración a diferentes posiciones de liderazgo propio y la elección de calidad de vida.
 
 Por una parte, están las personas que se han dejado llevar hacia los delitos y han caído en los tribunales de la justicia. Por otra parte, están quienes han elegido portar un uniforme, tener un título administrativo y demás. También están las familias de los PPL o visitantes, que no eligieron el camino del delito, pero cuyo familiar encerrado les hace pasar por todo tipo de humillaciones y esfuerzos de peso, que diezma la tranquilidad.
-
-141
 
 La familia de un recluso, sufre tanto como el preso, en niveles emocionales que deterioran la faz y el aspecto físico de las personas. Este tipo de daño colateral, jamás pasó por la mente de los delincuentes, antes de realizar sus acciones delictivas, el daño al corazón y la angustia que harían pasar a una madre, padre, familiar, conyugue o quien sea que le deseará una calidad de vida mejor, está sufriendo en silencio y lo demuestra en su faz.
 

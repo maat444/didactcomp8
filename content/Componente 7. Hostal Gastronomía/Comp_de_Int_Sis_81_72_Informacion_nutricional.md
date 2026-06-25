@@ -2,21 +2,13 @@
 
 <!-- Páginas: 418–420 -->
 
-418
-
-7.2 Información nutricional
-
 Una de las desigualdades más marcadas entre estratos sociales es el acceso a una alimentación adecuada. Mientras las personas con mayores recursos económicos pueden disfrutar de una dieta equilibrada, aquellas con limitaciones financieras suelen  enfrentar  dificultades  para  cubrir  sus  necesidades  nutricionales.  La alimentación desempeña un papel fundamental en la salud, fortaleciendo el sistema  inmunológico  y  proporcionando  la  energía  necesaria  para  el  buen funcionamiento del organismo. Una dieta saludable es un pilar primordial para la prevención de enfermedades y el mantenimiento del bienestar físico y mental.
 
 Esta relación entre alimentación y salud se refleja en el ámbito médico, donde las dietas terapéuticas son una herramienta esencial en el tratamiento de diversas patologías. Al igual que un médico prescribe medicamentos específicos para tratar una enfermedad, un nutricionista puede recomendar una dieta personalizada para mejorar la salud de un individuo. En ambos casos, el objetivo es restablecer el equilibrio del organismo y promover la recuperación.
 
 Desde el ámbito de la cocina, o desde los emprendimientos que impulsan la gastronomía, personas conscientes de la importancia de la alimentación para la salud, han desarrollado numerosos platos y técnicas culinarias que contribuyen a fortalecer el organismo y han retroalimentado su conocimiento con el aporte que han heredado de culturas y de los territorios. En particular, la cocina para personas mayores puede desempeñar un papel relevante en el mantenimiento de su bienestar, al proporcionar los nutrientes necesarios para reforzar el sistema inmunológico y prevenir enfermedades degenerativas. Si bien este tema requiere una exploración más profunda por parte de expertos en nutrición y gastronomía desde el punto de vista médico, es evidente que una alimentación saludable y adecuada puede mejorar significativamente la calidad de vida de las personas mayores.
 
-La investigación en cultura culinaria y gastronomía debe ser valorada como un campo para fortalecer la salud, más allá de simples gustos o hábitos. Al igual que otros sistemas culturales, la alimentación juega un papel crucial en el bienestar físico. De hecho, los desequilibrios en la dieta, ya sea por exceso o deficiencia de ciertos nutrientes, pueden tener consecuencias negativas para la salud, similares a las que pueden producirse por el uso inadecuado de medicamentos. Cada vez que se aborda un tema relacionado con la alimentación, es de suma importancia reflexionar sobre su impacto en la salud individual y colectiva. Una organización
-
-419
-
-que priorice la salud y el bienestar podrá ofrecer servicios gastronómicos y turísticos más completos y contribuir a mejorar la salud pública.
+La investigación en cultura culinaria y gastronomía debe ser valorada como un campo para fortalecer la salud, más allá de simples gustos o hábitos. Al igual que otros sistemas culturales, la alimentación juega un papel crucial en el bienestar físico. De hecho, los desequilibrios en la dieta, ya sea por exceso o deficiencia de ciertos nutrientes, pueden tener consecuencias negativas para la salud, similares a las que pueden producirse por el uso inadecuado de medicamentos. Cada vez que se aborda un tema relacionado con la alimentación, es de suma importancia reflexionar sobre su impacto en la salud individual y colectiva. Una organización que priorice la salud y el bienestar podrá ofrecer servicios gastronómicos y turísticos más completos y contribuir a mejorar la salud pública.
 
 En este sentido, sería muy digno establecer un sistema de reconocimiento para aquellos  establecimientos  que  ofrezcan  opciones  alimentarias  saludables  y nutricionalmente  equilibradas.  Estos  establecimientos  podrían  destacar  por incluir en sus menús información detallada sobre el valor nutricional de cada plato, adaptada a las necesidades de diferentes tipos de comensales. De esta manera, los consumidores podrían tomar decisiones informadas y elegir opciones que se ajusten a sus objetivos de salud.
 
@@ -26,8 +18,4 @@ La creciente demanda de información nutricional ha impulsado a la industria ali
 
 Hablar de aplicarse a una dieta no significa comer menos sino definir el sustento necesario en determinado periodo, ya sea por la edad o por el estado de salud. Si bien existen casos excepcionales de personas que pueden mantener una alimentación muy restringida, como algunos yoguis de la India, la mayoría de las personas requieren una dieta equilibrada para llevar a cabo sus actividades diarias de acuerdo a sus actividades. Las personas que realizan trabajos físicos intensos, como  agricultores  u  obreros,  necesitan  una  mayor  cantidad  de  calorías  y nutrientes para mantener su energía. Los atletas y los militares requieren dietas específicas para optimizar su rendimiento.
 
-La relación entre la alimentación y estilo de vida es compleja y multifacética, depende de diversos factores en cada persona como la edad, peso tolerancia a alimentos, etc. Comprender estas relaciones puede ayudarnos a diseñar estrategias
-
-420
-
-más efectivas para promover una alimentación saludable. Al ampliar la oferta gastronómica y proporcionar información nutricional clara y concisa, podemos aportarle una ampliación del panorama saludable a los consumidores para que tomen decisiones más informadas sobre su alimentación. Es importante destacar que el objetivo no es imponer una dieta única para todos, sino ofrecer una variedad de opciones que se adapten a las diferentes necesidades y preferencias individuales.
+La relación entre la alimentación y estilo de vida es compleja y multifacética, depende de diversos factores en cada persona como la edad, peso tolerancia a alimentos, etc. Comprender estas relaciones puede ayudarnos a diseñar estrategias más efectivas para promover una alimentación saludable. Al ampliar la oferta gastronómica y proporcionar información nutricional clara y concisa, podemos aportarle una ampliación del panorama saludable a los consumidores para que tomen decisiones más informadas sobre su alimentación. Es importante destacar que el objetivo no es imponer una dieta única para todos, sino ofrecer una variedad de opciones que se adapten a las diferentes necesidades y preferencias individuales.

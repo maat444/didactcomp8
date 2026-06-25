@@ -2,10 +2,6 @@
 
 <!-- Páginas: 149–153 -->
 
-149
-
-2.1 Ecología Sin Ecologistas Verdes
-
 Este componente abarca todo el planeta tierra. Parte del concepto de la ecología y cubre toda la actividad económica, como también el impacto sobre el medio ambiente, incluyendo al ser humano, tanto al resto de los animales, como a los seres vivos, todo es parte del principio de reciclaje planetario.
 
 Por más que el ser humano actual, se sienta amenazado por una explosión nuclear, en el peor de los casos, lo cierto es que el planeta ha sufrido todo lo inimaginable en las trayectorias de sus ciclos. El planeta ha sido bombardeado por cometas, meteoritos, un sinfín de tormentas, huracanes, entre otros fenómenos de  naturaleza  extrema.  La  atmósfera  ha  soportado  desde  las  más  elevadas temperaturas a eras glaciales, a causa de todo esto es posible la vida en la atmósfera, tal como la conocemos.
@@ -16,11 +12,7 @@ Aunque  nos  esforzamos  por  neutralizarlos  o  disminuir  su  propagación, si
 
 Es posible que suceda o que puedan hacer suceder cualquier contingencia desencadenada de manera inesperada, pero también es posible que la vida siga manifestándose, aun con todos los problemas presentes. Lo que nos ocupa aquí es mantener una prevención que pueda garantizar lo máximo posible la protección de los medios que sostienen la vida de manera natural.
 
-Todo el mundo entiende a qué se refiere la protección ambiental, pero no todo el mundo aporta de manera eficiente en su capacidad de protección. Esperan que los  problemas al respecto, sean el trabajo de los gobiernos de turno o  de
-
-150
-
-acaudalados empresarios. Al contrario, los colectivos que están a favor de la protección ambiental, la mayoría de las veces, por más que se esfuercen en encontrar soluciones, solo saben recurrir a medios que generan más problemas, como son las marchas y las protestas, que a veces conllevan al vandalismo.
+Todo el mundo entiende a qué se refiere la protección ambiental, pero no todo el mundo aporta de manera eficiente en su capacidad de protección. Esperan que los  problemas al respecto, sean el trabajo de los gobiernos de turno o  de acaudalados empresarios. Al contrario, los colectivos que están a favor de la protección ambiental, la mayoría de las veces, por más que se esfuercen en encontrar soluciones, solo saben recurrir a medios que generan más problemas, como son las marchas y las protestas, que a veces conllevan al vandalismo.
 
 Mientras  vamos  avanzando  en  este  texto  veremos  que  estas  reflexiones mantienen una invitación a buscar alternativas a las quejas y reclamos de las protestas. Incluso teniendo en cuenta, que muchas personas estarán de acuerdo, en  que  las  protestas  han  ayudado  de  diferentes  maneras  a  lograr  cambios importantes en la historia del mundo. Seamos conscientes o no, las protestas no resuelven todo. A veces las soluciones presentadas por una turba y en masa, solo resuelven algunos problemas de manera parcial o insuficiente.
 
@@ -31,8 +23,6 @@ Por una parte, las problemáticas que están a la orden del día, en cualquier s
 Es cierto que una reglamentación demasiado burocratizada no permite acceder directamente a las soluciones de problemas puntuales que requieren asistencia inmediata, como en el caso de solucionar los vacíos en el sistema de salud o la mala gestión de medicamentos, pero también es cierto que las personas que exigen únicamente desde sus derechos, no logran superar sus propias barreras mentales ni descubrir las oportunidades que se presentan en aplicarse a sus propios deberes como ciudadanos o como habitantes de un territorio.
 
 Si los estudiantes resolvieran los problemas de la sociedad, si ofrecieran soluciones directas que no impliquen la protesta, se les reconocería realmente como miembros y representantes de la educación superior, como salvadores e insignias del progreso y del desarrollo del mundo. Pero como están drenando sus capacidades, dirigiendo su energía a la agitación de las masas, lo único que consiguen es auto sabotearse, infringirse frustraciones, debido a que su rebeldía infantil y reprimida no llega más allá de la gritería, de lanzar golpes y desafiar inútilmente a la autoridad.
-
-151
 
 En respuesta a todo este afán de imponer de manera obligatoria y opresiva, la agenda que está manipulando al mundo actualmente, bajo pretexto de buscar el bien común para el planeta, desde el punto de vista de los componentes de integración sistémica, la forma de mantener el medio ambiente no nos concierne tanto como las características naturales de nuestro interior o nuestra propia mente.  Podamos  enfocar  nuestros  esfuerzos  para  ayudar  a  preservar  los ecosistemas hasta donde nos sea posible, pero en estas reflexiones continuaremos insistiendo en que el primer cambio lo debemos lograr primero en nosotros mismos.
 
@@ -46,8 +36,6 @@ Dentro de este panorama auténtico de la preservación, la protesta, ya no consi
 
 Nos enfocamos a partir de este párrafo en la preservación ambiental, que sí tiene conveniencias favorables a la población y en general a todos los organismos vivos en los ecosistemas y redes globales.
 
-152
-
 El componente protección ambiental, hace referencia a la articulación del sentido cultural, que ya ha superado todas las debilidades, se ha forjado una misión y ha descubierto que, para proteger el medio ambiente, es necesario la intervención de todos los seres humanos trabajando conjuntamente.
 
 En párrafos anteriores se escribió que el egoísmo personal está legítimamente concebido por la ignorancia de una masa crítica, que representa el promedio general de las mentalidades del mundo, o sea, el canon común del pensamiento o tener la vara demasiado baja. Pero también se expresó que todos los seres humanos son conscientes de la importancia de la protección ambiental.
@@ -60,11 +48,7 @@ Esta conciencia no se logra de la noche a la mañana. Se va logrando al sumar cu
 
 La función más elevada de nuestro proceder como seres conscientes, es ayudar a mantener los ecosistemas sanos y libres de contaminación. Esto se simplifica en una definición: no intervenir donde sabemos que podríamos alterar el equilibrio de los ecosistemas, pero, sobre todo, cuidar la armonía natural tanto como lo que vamos logrando recuperar.
 
-A cada individuo se le presenta un compromiso que se enciende en su mente como un chispazo o resplandor, a medida que se da la oportunidad de participar directamente en la historia del mundo, se convence de aportar lo mejor de sí mismo como un atleta que deja todo en la cancha. No trabaja con la perspectiva
-
-153
-
-de ser usado o manipulado por los intereses de alguien más, sino que su impulso surge de hallar la misión personal y desarrollarla tanto como lo permita su propia capacidad espiritual. La conexión que alcance a tener con los principios de su propio carácter, que le conduce a tomar las decisiones más importantes de su vida, están profundamente arraigadas con los misterios sagrados de su propia muerte. Es decir, ha logrado descubrir un propósito que da sentido a su existencia.
+A cada individuo se le presenta un compromiso que se enciende en su mente como un chispazo o resplandor, a medida que se da la oportunidad de participar directamente en la historia del mundo, se convence de aportar lo mejor de sí mismo como un atleta que deja todo en la cancha. No trabaja con la perspectiva de ser usado o manipulado por los intereses de alguien más, sino que su impulso surge de hallar la misión personal y desarrollarla tanto como lo permita su propia capacidad espiritual. La conexión que alcance a tener con los principios de su propio carácter, que le conduce a tomar las decisiones más importantes de su vida, están profundamente arraigadas con los misterios sagrados de su propia muerte. Es decir, ha logrado descubrir un propósito que da sentido a su existencia.
 
 Esta última referencia no corresponde a comparar el milagro de la vida con una fatalidad, sino que expresa la relación de tiempo y espacio definidos por la materia física, ya que el tiempo que disponemos para lograr algo significativo como seres humanos es relativamente específico, aunque no sea del todo corto. Cada quien puede disponer del tiempo de su vida y hacer lo que desee o lo que consiga, a veces es cuestión de elecciones, pero otras veces está obligado a decidir.
 

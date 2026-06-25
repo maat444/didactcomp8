@@ -89,32 +89,40 @@ html, body {
 /* ═══════════════════════════════════════════
    MAPA CIRCULAR
 ══════════════════════════════════════════════ */
-.circle-map {
+.circle-map-wrapper {
     position: relative;
     width: min(82vmin, 90vw, 90vh);
     height: min(82vmin, 90vw, 90vh);
     max-width: 720px;
     max-height: 720px;
     transition: transform 0.15s ease-out;
+    will-change: transform;
+}
+
+.circle-map {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    isolation: isolate;
 }
 
 /* ═══════════════════════════════════════════
    HAZ DE LUZ ROTANTE (conic-gradient)
+   Elemento DOM dedicado: evita bugs de ::before + mask + filter en móvil
 ══════════════════════════════════════════════ */
-.circle-map::before {
-    content: '';
+.light-beam {
     position: absolute;
     top: 50%;
     left: 50%;
     width: 86%;
     height: 86%;
-    transform: translate(-50%, -50%);
+    transform: translate3d(-50%, -50%, 0);
     border-radius: 50%;
     background: conic-gradient(
         from 0deg,
         transparent 0deg,
-        rgba(100, 220, 252, 0.25) 12deg,
-        rgba(100, 220, 252, 0.12) 35deg,
+        rgba(100, 220, 252, 0.28) 12deg,
+        rgba(100, 220, 252, 0.14) 35deg,
         transparent 50deg,
         transparent 360deg
     );
@@ -123,16 +131,19 @@ html, body {
     z-index: 1;
     -webkit-mask: radial-gradient(circle, transparent 28%, black 31%, black 49%, transparent 52%);
     mask: radial-gradient(circle, transparent 28%, black 31%, black 49%, transparent 52%);
-    filter: drop-shadow(0 0 10px rgba(100, 220, 252, 0.4));
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    will-change: transform;
 }
 
 /* Pausar la animación de haz de luz rotante cuando se abren los modales */
-.circle-map.animations-paused::before {
+.circle-map.animations-paused .light-beam {
     animation-play-state: paused;
 }
 
 @keyframes rotateBeam {
-    to { transform: translate(-50%, -50%) rotate(360deg); }
+    from { transform: translate3d(-50%, -50%, 0) rotate(0deg); }
+    to { transform: translate3d(-50%, -50%, 0) rotate(360deg); }
 }
 
 /* ═══════════════════════════════════════════
@@ -514,6 +525,15 @@ html, body {
     color: #1e293b; /* Slate 800 para alto contraste y comodidad de lectura */
     line-height: 1.8; /* Interlineado amplio para fluidez visual */
     font-size: 1.1rem; /* Tamaño de fuente óptimo para lectura prolongada */
+    text-align: justify;
+    text-justify: inter-word;
+    hyphens: none;
+    -webkit-hyphens: none;
+    -moz-hyphens: none;
+    -ms-hyphens: none;
+    hyphenate-limit-chars: 99 99 99;
+    word-break: normal;
+    overflow-wrap: break-word;
 }
 
 /* Soporte para desplazamiento táctil suave, contención de scroll y eliminación de borde de enfoque */
@@ -552,6 +572,10 @@ html, body {
     margin-bottom: 1rem;
     font-weight: 700;
     line-height: 1.3;
+    text-align: justify;
+    text-justify: inter-word;
+    hyphens: none;
+    -webkit-hyphens: none;
 }
 
 #contentText h1, #subtemaText h1 { 
@@ -569,16 +593,30 @@ html, body {
 
 #contentText p, #subtemaText p {
     margin-bottom: 1.3rem;
+    text-align: justify;
+    text-justify: inter-word;
+    hyphens: none;
+    -webkit-hyphens: none;
+    word-break: normal;
+    overflow-wrap: break-word;
 }
 
 #contentText ul, #contentText ol,
 #subtemaText ul, #subtemaText ol {
     margin-bottom: 1.3rem;
     padding-left: 1.75rem;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 #contentText li, #subtemaText li {
     margin-bottom: 0.65rem;
+    text-align: justify;
+    text-justify: inter-word;
+    hyphens: none;
+    -webkit-hyphens: none;
+    word-break: normal;
+    overflow-wrap: break-word;
 }
 
 /* Color personalizado de las viñetas usando el acento del componente */
@@ -595,6 +633,8 @@ html, body {
     font-family: var(--bs-font-monospace);
     font-size: 0.9em;
     border: 1px solid #e2e8f0;
+    text-align: left;
+    hyphens: none;
 }
 
 #contentText pre, #subtemaText pre {
@@ -606,6 +646,8 @@ html, body {
     margin-top: 1rem;
     margin-bottom: 1.5rem;
     box-shadow: inset 0 2px 8px rgba(0, 0, 0, 0.2);
+    text-align: left;
+    hyphens: none;
 }
 
 #contentText pre code, #subtemaText pre code {
@@ -624,6 +666,10 @@ html, body {
     border-radius: 0 0.5rem 0.5rem 0;
     color: #475569;
     font-style: italic;
+    text-align: justify;
+    text-justify: inter-word;
+    hyphens: none;
+    -webkit-hyphens: none;
 }
 
 #contentText a, #subtemaText a {
@@ -771,7 +817,7 @@ html, body {
     .modal-dialog { 
         margin: 0.35rem; 
     }
-    .circle-map {
+    .circle-map-wrapper {
         width: min(90vmin, 96vw, 96vh);
         height: min(90vmin, 96vw, 96vh);
     }
@@ -802,7 +848,7 @@ html, body {
         font-size: clamp(0.28rem, 1vmin, 0.5rem);
         margin-top: 0.12rem;
     }
-    .circle-map {
+    .circle-map-wrapper {
         width: min(92vmin, 97vw, 97vh);
         height: min(92vmin, 97vw, 97vh);
     }
@@ -840,7 +886,8 @@ html, body {
         animation-iteration-count: 1 !important;
         transition-duration: 0.01ms !important;
     }
-    .circle-map::before {
-        display: none;
+    /* Preservar el haz rotante a velocidad reducida (la regla global lo congelaba) */
+    .light-beam {
+        animation: rotateBeam 14.4s linear infinite !important;
     }
 }

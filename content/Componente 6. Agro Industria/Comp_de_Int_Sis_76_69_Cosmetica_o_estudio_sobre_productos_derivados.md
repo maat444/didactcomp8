@@ -2,10 +2,6 @@
 
 <!-- Páginas: 389–396 -->
 
-389
-
-6.9 Cosmética o estudio sobre productos derivados
-
 Qué carreras universitarias sostendrán las bases fundamentales para el desarrollo del mundo actual que cambia continuamente gracias a la tecnología, es una tarea que corresponde descubrir a cada individuo, por el hecho de su propia naturaleza y creatividad, así como por su propio carácter para darse a la tarea de profundizar en su conocimiento y en su despertar consciente del entorno para adaptarse y contribuir en promover un bienestar personal enfocado en un aporte a la posteridad.
 
 Las carreras del futuro se desbocan hacia la programación y la ingeniería electrónica, la robótica y la creación de aplicaciones y programas de software y por supuesto la inteligencia artificial que hace temblar a quien desconoce las nuevas herramientas. Al lado opuesto parecen surgir carreras que promueven ideologías  vetustas  de  política  socialista  y  humanidades  que  generan  un pensamiento enmascarado de ‘nuevo’ sobre el mundo y que buscan alternativas de superar las problemáticas desde diversos ámbitos culturales y sociales, lo cual es parte de un equilibrio pese a lo contradictorio.
@@ -14,11 +10,7 @@ Pensemos por un momento en la genética y biología molecular, las cuales son ba
 
 Desde la concepción de estos componentes, los estudiantes serán capaces de ver por sí mismos un infinito de posibilidades, que les ayude a tomar decisiones acertadas, que sean autosuficientes para evitar al máximo el uso de la protesta. Aquí descubren sus propias capacidades y pueden determinarse a ejercer una acción continua y objetiva sobre las diferentes problemáticas que son el pan de cada día. Pueden dominar diferentes herramientas de proyección social y que pueden participar activamente en grupos y equipos de trabajo.
 
-El trabajo de los docentes, es ayudar a los estudiantes a consolidar fuerzas de trabajo entre diferentes sectores, que se alineen por un objetivo común, que está determinado  por  la  conservación  de  los  valores  familiares  y  la  protección
-
-390
-
-ambiental, ya que de esta afinidad surgen diversas iniciativas, que promueven un desarrollo sostenible auténtico y que generan en el estudiante un verdadero criterio  de  responsabilidad,  fomentando  la  participación  en  el  crecimiento económico  y  activando  las  capacidades  de  los  emprendedores,  los  cuales aumentan las posibilidades de crear empresas y oportunidades de empleo, lo que resulta en beneficio social y desarrollo financiero.
+El trabajo de los docentes, es ayudar a los estudiantes a consolidar fuerzas de trabajo entre diferentes sectores, que se alineen por un objetivo común, que está determinado  por  la  conservación  de  los  valores  familiares  y  la  protección ambiental, ya que de esta afinidad surgen diversas iniciativas, que promueven un desarrollo sostenible auténtico y que generan en el estudiante un verdadero criterio  de  responsabilidad,  fomentando  la  participación  en  el  crecimiento económico  y  activando  las  capacidades  de  los  emprendedores,  los  cuales aumentan las posibilidades de crear empresas y oportunidades de empleo, lo que resulta en beneficio social y desarrollo financiero.
 
 El estado mental de los estudiantes entiende ahora el camino que debe tomar, por los impulsos de su voluntad, por su propia creatividad y por el deseo de aportar a la innovación, incluso en medios hostiles, que es cuando más dominio de sus capacidades y liderazgo colectivo se requiere.
 
@@ -28,11 +20,7 @@ En  este  contexto  sin  más  dilataciones  estéticas,  empezaremos  nuestra t
 
 Se llama maquillaje porque ponen una flor en un fusil y creen que con eso ya se resuelve un problema global. Hacen una lista con palabras muy bonitas y se fajan en discursos sensacionalistas que inspiran y motivan masas para culpar a los sistemas  económicos. Pero esto  no  es más que una máscara cosmética del problema en sí, que sigue perpetuándose y las flores terminan marchitas. Este lenguaje es a causa del romanticismo de algunos colectivos sensibles, que se auto victimizan, siempre en contra de someterse a una medida de conservación de nuestra sociedad, encuentran en todo, una excusa para la protesta. Muy a pesar de pretender estar haciendo el bien, lo que realmente están haciendo es abrir la puerta al error y desviación de la conciencia del potencial humano.
 
-Hemos visto lo que ha pasado en estos últimos años con el furor de las manifestaciones,  recorrido  medianamente  histórico  sobre  su  promulgación
-
-391
-
-posterior al 2015 hasta vísperas de la pandemia global, que cada vez surgía un mayor movimiento de masas que estaban en contra de todo lo que consideraban parte del más reciente nuevo orden mundial.
+Hemos visto lo que ha pasado en estos últimos años con el furor de las manifestaciones,  recorrido  medianamente  histórico  sobre  su  promulgación posterior al 2015 hasta vísperas de la pandemia global, que cada vez surgía un mayor movimiento de masas que estaban en contra de todo lo que consideraban parte del más reciente nuevo orden mundial.
 
 Primero se hace referencia al gas natural y al impedimento del fracking en este país (Colombia), ya que aprovechando como pretexto la guerra en Ucrania contra Rusia, los precios de los combustibles y de los derivados del petróleo aumentaron de manera preocupante, perjudicando a los usuarios. Hogares y comerciantes se vieron  amenazados  de  inestabilidad  financiera.  Al  producir  nuestro  propio suministro de gas, no sería fácil culpar a los países vecinos, ni a los distantes, ya que tendríamos la responsabilidad de responder a las crisis, sin señalar los conflictos externos. También se aplicaría en cierto nivel de auto suficiencia productiva sin pretextar en la guerra por suministros ineficientes de fertilizantes o harinas de trigo, como si nuestro país fuera estéril en producción agrícola y requiriera cien por ciento de la oferta internacional.
 
@@ -42,19 +30,13 @@ En la segunda reflexión está el movimiento de las protestas planeadas y progra
 
 Para ubicarnos en lo que esto plantea como reflexivo, se trata de poner en claro las cartas que juegan en este o en cualquier otro país, tomando como ejemplo a lo que se estuvo promoviendo en Ecuador, Perú y Colombia, que, con las mismas características conceptuales, iniciaron lo que ellos llaman un estallido social.
 
-392
-
 Solamente  encuentran una excusa insignificante pero válida para todos los rebeldes, como es el precio en el alza de los combustibles. primero, porque adoctrinan y usan descaradamente a colectivos que no tienen nada que ver como los  indígenas,  quienes  se  toman  la  medida  de  iniciar  las  protestas, malintencionadamente llamada ‘pacífica’ que luego desborda en pugnas callejeras colectivas, quema de autobuses o destrucción de fachadas de edificios. Ese es el notable trasfondo de las condiciones que se presentan en este tipo de iniciativas contra  un  estado  gobernante,  cuando  no  se  corresponde  con  sus  foros  de autoengaño.
 
 Desde luego el precio de los combustibles siempre ha estado en alza y requiere medidas de estabilidad financiera, pero un colectivo que proteste no va a servir para solucionar nada en ese aspecto. Los precios en alza afectan a todos los sectores en la escala social, pero más todavía, a las clases sociales medias y bajas. A pesar de esto, la mentalidad de quienes organizan protestas y desmanes no buscan  un  beneficio  social,  sino  que  están  diseñadas  para  crear  caos  y desestabilizar la economía de un país que quiere ser ocupado por ideologías del siglo pasado. Desde luego se infiltra en la mente de los trabajadores y estudiantes por medio de los sindicatos sociales, haciendo que parezca todo muy normal, hasta que llega el momento de ponerse en modo carne de cañón, como es el modo de operar de lo que se ha hecho llamar en Colombia ‘la primera línea’. No es necesario poner lupa para observar el carácter de índole irracional, que pugna con la filosofía de las ideologías de las masas adoctrinadas por el fanatismo.
 
 Los movimientos sociales actuales que ha surgido como respuesta al cambio climático y que se desarrollan como el fondo de muchas protestas desde que surgió la agenda 2030 para ‘estabilizar el planeta’ y las consecuencias de emisiones negativas a la atmósfera, es tan dañino para la sociedad como la contaminación ambiental, ya que divide y cree que quemando las ciudades o las empresas mejorará el aspecto del mundo. También es amenazante un proyecto que busca dominar todos los recursos del mundo desde una esfera de élite que toma decisiones desde las sombras, sin tomar en cuenta la opinión pública que es la que termina siendo sometida.
 
-Este libro se escribió para que pueda ‘sancionarse’ a las organizaciones que pretenden tomar decisiones pasando por encima de las consideraciones de todos los seres humanos que ocupamos el planeta. Se les debe exigir un comportamiento que refleje resultados positivos a organismos como las naciones unidas o la unión europea, como también a otras organizaciones que toman decisiones desde un lugar inaccesible para las personas comunes. En vez de aceptar ser tratados como
-
-393
-
-una servidumbre sumisa, la población debe comportarse como un ente contralor y auditar todo lo que promueven las agendas tanto en la teoría como en la práctica.
+Este libro se escribió para que pueda ‘sancionarse’ a las organizaciones que pretenden tomar decisiones pasando por encima de las consideraciones de todos los seres humanos que ocupamos el planeta. Se les debe exigir un comportamiento que refleje resultados positivos a organismos como las naciones unidas o la unión europea, como también a otras organizaciones que toman decisiones desde un lugar inaccesible para las personas comunes. En vez de aceptar ser tratados como una servidumbre sumisa, la población debe comportarse como un ente contralor y auditar todo lo que promueven las agendas tanto en la teoría como en la práctica.
 
 Segundo, desde la perspectiva presentada como ayuda o como soporte a la mitigación del cambio climático, se postula que se deban considerar fuentes alternativas de energía adicional a los combustibles fósiles. Sin embargo, mientras eso sucede aun debemos continuar usando los derivados del petróleo y el gas; aunque ataquen estas materias primas bajo la etiqueta de hacer daño al medio ambiente, todavía no hay una alternativa que sea verdaderamente eficiente para reemplazarlas.
 
@@ -64,11 +46,7 @@ No es que se espere que llegados a este punto como civilización cada vez más g
 
 Esto  nos  deja  un  alto  margen  de  claridad  para  poder  entrever  las programaciones de las ideologías fragmentarias entre los habitantes de cualquier país en desarrollo, usar los colectivos rebeldes con propósitos de destrucción. Su argumentación está bien elaborada y construida sobre fundamentos válidos, la perspectiva del impacto negativo al medio ambiente que pretenden mejorar al realizar la protesta. En todo caso hay un mal diseño en la elección de los colectivos que toman la antorcha de la reclamación pues a veces no tiene nada que ver con una necesidad personal, ni siquiera de sus comunidades o poblaciones.
 
-Las llamadas revoluciones sociales no son otra cosa que revueltas para generar caos intermedio. Mientras unos se debilitan en las promulgaciones de las protestas (las mismas masas del movimiento quedan abajo), los que planean todo desde las
-
-394
-
-sombras, suben a la cima corporativa de sus organizaciones, fortaleciendo sus partidos políticos para sentarse en trono de la desigualdad, contraria a las palabras adornadas en sus discursos.
+Las llamadas revoluciones sociales no son otra cosa que revueltas para generar caos intermedio. Mientras unos se debilitan en las promulgaciones de las protestas (las mismas masas del movimiento quedan abajo), los que planean todo desde las sombras, suben a la cima corporativa de sus organizaciones, fortaleciendo sus partidos políticos para sentarse en trono de la desigualdad, contraria a las palabras adornadas en sus discursos.
 
 Para poder alternar tal referencia en un campo equitativo donde el estudiante pueda adquirir capacidad crítica sobre un asunto complejo, vamos a ver cómo el derecho a la protesta está garantizado en los países democráticos y que es hasta cierto punto el talón de Aquiles de países como el nuestro (Colombia), donde la influencia del desorden social se desborda hacia las masas menos favorecidas y que por sí mismas se exponen a ser utilizables.
 
@@ -78,11 +56,7 @@ Nuestro país les garantiza el derecho a las protestas. Se respeta en cierta med
 
 Pensemos en un cáncer que se comporta como quiere, para dañar al cuerpo que lo alberga, luego de generar malestar y destrucción concluye que la culpa es del cuerpo, o del cerebro o del corazón. Nada de responsabilidad hay en la conducta de los individuos que promueven estos desordenes sociales, porque están debidamente justificados desde sus textos de apoyo, (al igual que un buen cristiano se escuda en la Biblia o un musulmán apelaría al Corán), los argumentos de los colectivos que generan desorden social siempre son una excusa para no cargar la responsabilidad de lo que ocasionan con su mal proceder.
 
-Con todo esto a considerar, podríamos crear una suficiente capacidad racional para generar una correlación entre diversas fuentes de problemáticas sociales. En el parangón que acabamos de dar acerca de un cáncer, y tomando las palabras de
-
-395
-
-un texto sobre medicina tradicional china, podríamos afirmar que en la medicina moderna occidental para matar el cáncer se somete a tratamientos tan exhaustivos a la persona, que evidentemente matan el cáncer, pero en el proceso también se mata al individuo. Es decir que mientras las protestas pretenden disminuir las problemáticas sociales atacando al estado, en el proceso también acaban la economía y con lo poco que podría ofrecer y/o aportar soluciones alternativas al diagnóstico social, matan los sistemas y con esto terminan dejando morir a los individuos.
+Con todo esto a considerar, podríamos crear una suficiente capacidad racional para generar una correlación entre diversas fuentes de problemáticas sociales. En el parangón que acabamos de dar acerca de un cáncer, y tomando las palabras de un texto sobre medicina tradicional china, podríamos afirmar que en la medicina moderna occidental para matar el cáncer se somete a tratamientos tan exhaustivos a la persona, que evidentemente matan el cáncer, pero en el proceso también se mata al individuo. Es decir que mientras las protestas pretenden disminuir las problemáticas sociales atacando al estado, en el proceso también acaban la economía y con lo poco que podría ofrecer y/o aportar soluciones alternativas al diagnóstico social, matan los sistemas y con esto terminan dejando morir a los individuos.
 
 Esta reflexión se ha extendido para fomentar las iniciativas desde los colectivos de la educación secundaria, superior y profesional, a fin de que los individuos puedan desarrollar conocimientos que le impulsen a crear condiciones adecuadas donde las soluciones se desarrollen desde mejores medios sociales, esto prevé un movimiento en contra de lo habitual en cuanto a promover un tratamiento que en el razonamiento del ser fragmentario determina que para destruir un mal procede a inyectar una intoxicación al cuerpo, poniendo en riesgo la vida en general. En vez eso es menester ubicar la mentalidad de la persona en un entorno ideal donde se aumenten las posibilidades de éxito de cada individuo en el estado, para que sea capaz de apalear sus propios males sin debilitar el funcionamiento natural del sistema inmunológico de la nación.
 
@@ -90,8 +64,4 @@ Todo este lenguaje metafórico se promueve con el ánimo de generar una cultura 
 
 En conclusión sobre este reflexivo, lo más importante sobre el concepto de cosmética, como se explicó en el contexto de maquillaje, no es el de engalanar, ni engañar a los individuos, sino el de promover una cultura consciente de los verdaderos valores de inclusión, que nada tiene que ver con tendencias personales de identificación temporal que limitan y encasillan la fragmentación social. Tiene que ver con el sentido de pertenencia a una globalidad moderna que sigue una larga trayectoria desde los inicios de evolución humana, expresada en múltiples culturas milenarias como también en continuo desarrollo, cuyo aporte a los conocimientos adquiridos crean la ciencia y la tecnología actual. Para que los individuos puedan tener la libertad de desarrollar sus capacidades humanas al máximo,  sin  detenerse  a  discutir  cuestiones  simples  desde  sus  actitudes programadas por paradigmas estrechos.
 
-La cosmética aquí no es un concepto de embellecimiento, ni es un elemento romántico, sino que está desvelando, en proporción al contexto de búsqueda de
-
-396
-
-propiedades de cada elemento en su origen bioquímico y su expresión genética, que pueda ofrecer alternativas derivadas de sus sustancias, sea para la cosmética en sí, para la medicina o para cualquier otro uso de orden comercial, cultural o artístico. También para cualquier sector en desarrollo. Esto como concepto se aplica a los medios de búsqueda de soluciones alternativas a las ya aplicadas y a los argumentos discursivos sobre los mecanismos de protección ambiental y desarrollo social sostenible enmarcado en las agendas globales.
+La cosmética aquí no es un concepto de embellecimiento, ni es un elemento romántico, sino que está desvelando, en proporción al contexto de búsqueda de propiedades de cada elemento en su origen bioquímico y su expresión genética, que pueda ofrecer alternativas derivadas de sus sustancias, sea para la cosmética en sí, para la medicina o para cualquier otro uso de orden comercial, cultural o artístico. También para cualquier sector en desarrollo. Esto como concepto se aplica a los medios de búsqueda de soluciones alternativas a las ya aplicadas y a los argumentos discursivos sobre los mecanismos de protección ambiental y desarrollo social sostenible enmarcado en las agendas globales.

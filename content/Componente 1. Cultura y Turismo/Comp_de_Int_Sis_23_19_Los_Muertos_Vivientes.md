@@ -2,10 +2,6 @@
 
 <!-- Páginas: 124–128 -->
 
-124
-
-1.9 Los Muertos Vivientes
-
 El siguiente es un estudio sobre el origen de la familia, la cual proviene de una antiquísima trayectoria que se extiende en el tiempo. El contexto de este estudio recorre los antepasados de las líneas paternas y maternas al mismo tiempo. Pudiéramos caer en la trampa de que las cifras serían infinitas, o que la endogamia alteraría la duplicación de las cifras, pero estas formas de caer en un error es lo que profundizaremos para aclarar el asunto y seguir adelante con las siguientes reflexiones.
 
 Esta reflexión surge de querer encontrar un origen que mantenga la relación de una cantidad de seres humanos a través del tiempo desde nuestros posibles orígenes, con el interés de consolidar una cordura en el pensamiento de que, después de todo, la humanidad es una sola familia, no en el sentido endogámico. A pesar de las excepciones, debemos mantener un profundo respeto hacia nuestros predecesores.
@@ -18,11 +14,7 @@ Para quienes tengan conocimientos en programación pueden usar el enlace en el n
 
 https://github.com/maat444/Genesus_web/blob/master/static/downloads/Gen_1.py.
 
-En Genesus, nuestro calculo lineal solo puede llegar razonablemente hasta la generación 33, ya que el número que resulta del cálculo en las generaciones hasta ese número, supera los ocho mil millones de humanos, el cual sobrepasa la actual población mundial. Ahora, dándole un promedio o rango de procreación entre
-
-125
-
-generaciones de treinta años, nos llevaría a que el transcurso desde la generación 33 hasta nosotros pudo haberse dado alrededor de los mil años.
+En Genesus, nuestro calculo lineal solo puede llegar razonablemente hasta la generación 33, ya que el número que resulta del cálculo en las generaciones hasta ese número, supera los ocho mil millones de humanos, el cual sobrepasa la actual población mundial. Ahora, dándole un promedio o rango de procreación entre generaciones de treinta años, nos llevaría a que el transcurso desde la generación 33 hasta nosotros pudo haberse dado alrededor de los mil años.
 
 Siguiendo esta línea de razonamiento, el número de población mundial como máximo de su existencia oscilaría alrededor de los cien años, tomando como base la probabilidad de que cualquier recién nacido, de aquí a cien años, es muy probable que ya no exista, salvo algunas excepciones, la mayoría de seres humanos en el rango de cien años, dejará de existir.
 
@@ -32,11 +24,7 @@ En el programa Genesus, con este método, podemos rastrear y descubrir que la du
 
 A partir de la base teórica anterior, podemos empezar nuestra reflexión, teniendo en cuenta algunas referencias. Si el ser humano tiene un promedio o expectativa de vida alrededor de los cien años, podemos verificarlo actualmente, aunque sabemos que depende de muchas condiciones externas como también personales. Nos han enseñado en instituciones académicas que los umbrales de vida en tiempos anteriores oscilaban entre los cuarenta a los sesenta años, dependiendo de muchos factores. Las eras anteriores a la civilización actual estaban llenas de guerras, plagas, devastaciones y hambrunas, quizá peores y de mayor magnitud a las que el ser humano actual se ha enfrentado. El umbral de vida entre tantas y diversas hostilidades disminuye drásticamente.
 
-En oposición a la anterior conjetura, podemos tener en cuenta la versión bíblica, sobre personajes del antiguo testamento, que se creía podían vivir hasta por novecientos años. Aunque no podemos asegurar que esto sea una verdad
-
-126
-
-comprobable, tenerlo en cuenta para nuestro estudio de esta reflexión y del programa Genesus, nos puede servir a los propósitos de las métricas comunes.
+En oposición a la anterior conjetura, podemos tener en cuenta la versión bíblica, sobre personajes del antiguo testamento, que se creía podían vivir hasta por novecientos años. Aunque no podemos asegurar que esto sea una verdad comprobable, tenerlo en cuenta para nuestro estudio de esta reflexión y del programa Genesus, nos puede servir a los propósitos de las métricas comunes.
 
 El programa Genesus ofrece una herramienta que calcula los transcursos entre poblaciones mundiales después de la generación 33 hacia las anteriores, en aproximadamente mil años para cada generación, pero la sorpresa matemática es que con este método, la generación que correspondería a la Eva Mitocondrial resultaría ser la generación 40, entonces entre la generación 40 y la generación 43 hay un lapso de probabilidad generacional bastante cerrado.
 
@@ -45,8 +33,6 @@ Sin desviarnos de nuestra reflexión actual podemos adelantar, que nuestro progr
 Volviendo a nuestra reflexión actual, que parte de las pautas de Genesus, podemos pensar en lo triste que resulta que los seres humanos, en su mayoría, ni siquiera  alcancen  el  umbral  o  expectativa  de  vida.  Nuestro  esfuerzo  por desarrollar a profundidad los componentes, nos hace evidenciar que una gran parte de la población muere “con su música aun por dentro”, como se dice en algunos círculos de desarrollo personal. Los seres humanos no son comunes, pero una gran parte de la población vive de manera que parece desperdiciar un porcentaje alto de su potencial. A lo largo de las exposiciones de los componentes, profundizaremos todavía sobre esta lamentable verdad.
 
 Veamos  otra  ventana desde la que se puede ampliar el concepto de la reproducción, en lo referente al estudio de las generaciones y el rango apto de reproducción humana. El promedio del que partimos sobre los 30 años, se da por una conveniencia para el estudio, pues acortar este rango también significaría menos tiempo para llegar a la generación 33, es decir, no se necesitaría alrededor de mil años, sino menos, por ejemplo, exagerándolo a diez años la generación 33, que ocupa una población mundial, estaría apenas hace 330 años, pero sería inconsistente con la realidad socio política de los territorios o naciones del mundo y de cada época.
-
-127
 
 Aunque la mujer tiene un periodo de desarrollo para llegar a ser apta para la reproducción, el periodo puede variar. Sin embargo, la cifra de mujeres que quedan embarazadas a temprana edad, es menor a las cifras de mujeres que quedan embarazadas después de los veinte años. En contraste, las cifras de mujeres que quedan embarazadas después de los cuarenta años, también es menor que las cifras de mujeres que quedan embarazadas entre los veinte y los treinta y cinco años. Por eso el promedio para el estudio es de treinta años, en el primer programa de Genesus, y para compensarlo con cualquier variación al rango, el programa  Genesus_2Plus,  extiende  el  rango  generacional  a  mil  años  entre población  mundial,  que  como  se  podrá  ver,  matemáticamente,  no  altera demasiado los resultados del estudio y se usa solo por descarte.
 
@@ -57,8 +43,6 @@ En esta aproximación podemos tomar una conclusión sencilla: se necesita un nú
 Este estudio se desliga de los mitos religiosos al respecto de la creación, pues la base de estas reflexiones son participantes de los ciclos naturales, según la evidencia de los nacimientos. Y es aplicable a los animales que se reproducen a partir de un macho y una hembra, desarrollando estos ciclos generacionales en su propia especie y de acuerdo a su promedio de vida.
 
 Desarrollando el corazón de este tema sobre las generaciones, la vida está ligada a la muerte, podríamos aventurar de manera especulativa que la muerte es más natural para el universo que la vida. En esta afirmación quedaría implícito que la vida es un milagro. No hay que malentender esto como un principio anti humanista de personas pesimistas que anhelan borrar a todos los seres humanos de la faz de la tierra, solo porque el planeta no nos necesita, podrían sentirse aludidos los simpatizantes de movimientos verdes.
-
-128
 
 Usamos esta declaración para dignificar nuestra estancia en el planeta, pues siendo temporal, no podemos darnos el lujo de perder tiempo y con todos nuestros esfuerzos podemos aportar lo necesario para contribuir en mejorar nuestra calidad de vida y la de las generaciones posteriores, lo cual se convierte en una obligación. Ya llegará el momento de descansar.
 

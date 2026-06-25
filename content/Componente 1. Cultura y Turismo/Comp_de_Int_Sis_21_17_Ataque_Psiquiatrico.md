@@ -2,21 +2,13 @@
 
 <!-- Páginas: 108–114 -->
 
-108
-
-1.7 Ataque Psiquiátrico
-
 Oficialmente, el periodo medieval se cuenta en una fracción aproximada de mil años en Europa. Aunque es históricamente razonable esta división temporal, lo cierto es que, en América Latina, todavía se encuentran grandes sectores de la población que permanecen mentalmente en el oscurantismo. Una de las causas de que esto se prolongue, es la actitud de vivir, el día a día, con una actitud de resignación y la poca importancia que se le da a la memoria histórica. Cabe aclarar, que la historia no puede ser tomada como el producto de una mentalidad sesgada.
 
 En reflexiones anteriores vimos algunos aspectos sobre la educación y cómo algunas personas pierden el interés por la búsqueda de conocimiento, lo cual genera en los estudiantes una falta de claridad en cuanto a qué hacer con su propia vida, lo que causa una distorsión de sus principios y valores. También podemos ver que un gran número de personas mantiene un desinterés prolongado hacia la historia y se contenta con los retazos que le convienen y que están de acuerdo con su ideología o doctrina, concorde a su tendencia, profesión o el oficio que realizan. La lucha de clases es un asunto ideológico y responde a la brecha que se ha  creado  en  torno a  la falta de educación financiera  en las instituciones académicas y en los entornos laborales de manera general, lo cual desborda en impulsivo consumismo desde las clases medias y las más bajas.
 
 Aunque gracias a la educación aprendimos a leer y escribir, la verdad es que, a la mayoría de los estudiantes, justamente, les da pereza leer o escribir. Lo cual es la causa de que los estudiantes sobresalientes, sean saboteados durante largos periodos de su desarrollo académico, por estudiantes indisciplinados, cuando por el contrario, deberían ser tomados como un buen ejemplo o modelos a seguir. Se tiene un ápice de desprecio por las personas que se instruyen constantemente. Esta actitud permea la conducta de la población general y se expande a todas las actividades productivas. Si en lo referente al estudio, la saturación crea una actitud de desdén, en los entornos laborales crea rechazo a aprender nuevas técnicas, lo cual ralentiza la innovación.
 
-Puede ser peligroso, carecer de una sana educación, como también educarse a medias y sin valores, o maleducarse con falsa información. Podemos encontrar buenos ejemplos en la historia del mundo sobre ideas brillantes en mentes brillantes, que, siendo muy buenas y bien dirigidas en el pensamiento correcto, lograron  causar  beneficios  y  claridad  a  los  individuos,  condujeron  grandes
-
-109
-
-iniciativas y proyectos. Pero, estas mismas ideas brillantes, en otras personas menos preparadas, causaron un fanatismo bestial que desbordó en guerras y hostilidades. Algunas mentes con intelectos lo suficientemente agudos pueden pensar que, al no mencionar a alguien en específico al dar un ejemplo, estoy cayendo en el error de generalizar, lo cual está bien percibir. Podemos acuñar aquí, que la palabra generalizar se puede entender como medievalizar, en el sentido de apuntar una verdad a medias o en el sentido de adoctrinar con técnicas de oscurantismo.
+Puede ser peligroso, carecer de una sana educación, como también educarse a medias y sin valores, o maleducarse con falsa información. Podemos encontrar buenos ejemplos en la historia del mundo sobre ideas brillantes en mentes brillantes, que, siendo muy buenas y bien dirigidas en el pensamiento correcto, lograron  causar  beneficios  y  claridad  a  los  individuos,  condujeron  grandes iniciativas y proyectos. Pero, estas mismas ideas brillantes, en otras personas menos preparadas, causaron un fanatismo bestial que desbordó en guerras y hostilidades. Algunas mentes con intelectos lo suficientemente agudos pueden pensar que, al no mencionar a alguien en específico al dar un ejemplo, estoy cayendo en el error de generalizar, lo cual está bien percibir. Podemos acuñar aquí, que la palabra generalizar se puede entender como medievalizar, en el sentido de apuntar una verdad a medias o en el sentido de adoctrinar con técnicas de oscurantismo.
 
 Podríamos comparar la mentalidad y la productividad de una persona sin títulos  académicos  o  universitarios,  versus  alguien  muy  bien  preparado académicamente y con un lobby lleno de títulos. Aunque ambos se hayan esforzado al máximo y logrado acumular en el cuerpo, años de experiencia de un oficio al que han dedicado toda una vida, cada uno es autoridad en su oficio, pero se han etiquetado de manera inapropiada dentro de las clases sociales. Para dar un ejemplo sencillo, a las personas que trabajan cultivando alimentos en el campo, se les suele considerar poco ilustradas y son blanco de oportunistas que les quieren hacer sentirse indignadas, mientras a quienes tienen títulos se les venera como deidades mortales. Esto es el resultado de una trampa en las etiquetas sociales.
 
@@ -26,11 +18,7 @@ Más adelante daremos profundidad al hecho de que son las ideas y las personas q
 
 En el mundo hay demasiadas cuchillas y amenazas que están apuntándonos, y algunas ya están desangrándonos, nos están atacando desde diversas fuerzas ideológicas. La  mayor  parte  de los  seres  humanos  actuales, lejos de haber despertado, están tranquilamente dormidos, arrullados por el asedio de la muerte, pues ya ni miedo sienten, ni deseos de combatir, han cedido a la resignación.
 
-La serenidad o la proyección de paz interior, no debe ponernos en desventaja y debilitarnos como individuos o como estado. Por el contrario, la anhelada serenidad debe responder a haber realizado el trabajo consciente de atacar al enemigo de frente y derrotarlo, tanto en el plano físico como en el plano
-
-110
-
-ideológico. Las ideas deben estar limpias y proporcionar un escudo contra las ideologías contraproducentes. La filiación a la familia, los principios y valores, deben conducir la fuerza de nuestras intenciones para lograr la convivencia y la armonía social, para que se proteja la vida natural y se suprima a los entes destructores.
+La serenidad o la proyección de paz interior, no debe ponernos en desventaja y debilitarnos como individuos o como estado. Por el contrario, la anhelada serenidad debe responder a haber realizado el trabajo consciente de atacar al enemigo de frente y derrotarlo, tanto en el plano físico como en el plano ideológico. Las ideas deben estar limpias y proporcionar un escudo contra las ideologías contraproducentes. La filiación a la familia, los principios y valores, deben conducir la fuerza de nuestras intenciones para lograr la convivencia y la armonía social, para que se proteja la vida natural y se suprima a los entes destructores.
 
 El ser humano despierto se reconoce a sí mismo como creador universal de su propio  mundo  interior  y  purifica  su  mente  con  ideas  racionales.  También permanece en armonía con su espíritu de vida, sin caer en el engaño de los lenguajes que buscan despojarlo de su libertad, dignidad, honestidad y respeto hacia sí mismo, su familia, las instituciones que trabajan por la vida y el estado que le provee de seguridad para realizar sus sueños. Todo lo mencionado, enmarcado en la integridad.
 
@@ -38,11 +26,7 @@ Hace aproximadamente trescientos años, las ideas de la ilustración podían end
 
 Dado el creciente medievalismo en la mentalidad de la población mundial, es más fácil arruinar a la mayoría de la gente por medio de la influencia, pues la masa es débil y carece de auto control o conciencia de sí mismos. Se han encerrado en todo  tipo  de  armaduras  para  impedir  que  su  espíritu  humano  reluzca naturalmente  o  incluso,  pueden  estar  convencidos  falsamente  de  que  han despertado  su  potencial  latente  y  que están  trabajando  para  el bien  de  la humanidad  o  el  bienestar  del  planeta,  cuando  en  realidad  son  personas renunciando a máscaras de personalidades anteriores, mientras se ponen una nueva.
 
-Algunas personas postulan que otras no deberían existir porque están usando el oxígeno disponible y ocupando espacio terrestre, que, aparte de llevar una vida inútil, no aportan a sus realizaciones personales, ni a la vida de los demás. Este error de fanatismo ideológico, se expresa desde los discursos de odio y se dirige
-
-111
-
-con metódicas apariencias de bondad, atribuyéndose o auto delegándose como la humanidad que sí se merece estar presente en el mundo.
+Algunas personas postulan que otras no deberían existir porque están usando el oxígeno disponible y ocupando espacio terrestre, que, aparte de llevar una vida inútil, no aportan a sus realizaciones personales, ni a la vida de los demás. Este error de fanatismo ideológico, se expresa desde los discursos de odio y se dirige con metódicas apariencias de bondad, atribuyéndose o auto delegándose como la humanidad que sí se merece estar presente en el mundo.
 
 Igual de equivocados están quienes piensan que los ricos, porque acumulan fortunas, no deberían existir, como quienes piensan que los pobres no deberían existir. Aunque abundan las facciones que defiendan estos puntos de vista, son verdades a medias y las dos proposiciones son incoherentes y destructivas.
 
@@ -52,11 +36,7 @@ Por  otro  lado,  se  habla  de  cómo  acabar  con  la  pobreza,  aunque disimu
 
 Una de las consecuencias destructivas de pensar en cerrar brechas entre ricos y pobres, es atacar directamente la propiedad privada. Podemos ver un ejemplo encabezado por la corona española, durante las campañas de Cristóbal Colón, que para reunir una cantidad significativa de oro y para poder mantener el poder de sus ejércitos en el ejercicio de unificar al estado, se tomó como conejillo de indias a los judíos residentes y se los obligó a entregar todo el oro que hubieran podido acumular de sus comercios y mercaderías al interior del país, lo cual fue un gran botín para los españoles, pero una gran pérdida para el pueblo judío residente en España en esa época.
 
-Desde luego este tipo de transacciones no supuso que terminara la pobreza en España (de las clases bajas) o que la pobreza no exista en España actualmente.
-
-112
-
-Aunque el objetivo inicial de esta expropiación del oro a los judíos por parte de los españoles no era ayudar a los pobres, podemos darnos cuenta que estas medidas de quitarle al rico, con hace gran diferencia para los pobres.
+Desde luego este tipo de transacciones no supuso que terminara la pobreza en España (de las clases bajas) o que la pobreza no exista en España actualmente. Aunque el objetivo inicial de esta expropiación del oro a los judíos por parte de los españoles no era ayudar a los pobres, podemos darnos cuenta que estas medidas de quitarle al rico, no hace gran diferencia para los pobres.
 
 Volviendo a la actualidad, podemos ver al ser humano como una víctima de experimentos  de  destrucción  de  todo  tipo  que  le  acechan  continuamente. Vertientes de odio, como la agenda verde, ponen al ser humano como el causante de todas las desgracias del planeta y a este juicio se suman los grupos religiosos alentando estas desproporciones ideológicas con la amenaza de que el juicio final está siempre cerca.
 
@@ -66,11 +46,7 @@ Las campañas políticas desvían la atención y atacan las cabezas de los entes
 
 Todos los negocios crecen gracias al consumidor. Atacar una empresa por las razones que sean, manteniendo la demanda en los consumidores, es abrir la puerta de las posibilidades a cualquier medio de distribución del producto que las personas  requieren,  por  parte  de  la  competencia.  Desde  el  punto  de  vista comercial, siempre hay alguien que aprovecha una necesidad. Por eso también persisten los mercados ilegales de cualquier sector, se trate o no de un producto adictivo o recreacional.
 
-Otra vez se pone la lupa en el nivel de la educación, que, por lo que sea que enmarque su sistema o programación académica, es sumamente aburrida para un gran número de personas, sobre todo en los grados superiores. Haciendo una suposición, si la educación pone a los individuos desde el primer año a crear robots, estimula y genera un incentivo de diversión a temprana edad, mientras a su vez  alienta un compromiso de tener una vida alejada de las sustancias perjudiciales, concentrará la atención de los estudiantes en lo que realmente
-
-113
-
-importa, lo cual se aplica con el ejemplo que ofrecen los deportes y las disciplinas artísticas, por ser al mismo tiempo divertidos y generar pasión, ofrecen una capacidad de desarrollar responsabilidad, un compromiso que dota a la persona de permanecer limpio y mantener un cuerpo libre de malos hábitos.
+Otra vez se pone la lupa en el nivel de la educación, que, por lo que sea que enmarque su sistema o programación académica, es sumamente aburrida para un gran número de personas, sobre todo en los grados superiores. Haciendo una suposición, si la educación pone a los individuos desde el primer año a crear robots, estimula y genera un incentivo de diversión a temprana edad, mientras a su vez  alienta un compromiso de tener una vida alejada de las sustancias perjudiciales, concentrará la atención de los estudiantes en lo que realmente importa, lo cual se aplica con el ejemplo que ofrecen los deportes y las disciplinas artísticas, por ser al mismo tiempo divertidos y generar pasión, ofrecen una capacidad de desarrollar responsabilidad, un compromiso que dota a la persona de permanecer limpio y mantener un cuerpo libre de malos hábitos.
 
 Quizá la ruta de los incentivos no sea suficientemente aprovechada por la conducta en las personas de occidente. Se requiere un compromiso desde una fuerza mayor que obligue al ser humano a querer hacer lo mejor posible desde su propio interior, o sea, estimulando la fuerza de su voluntad.
 
@@ -84,11 +60,7 @@ Ante esto, lo único que pueden alegar, tanto los estudiantes, como los docentes
 
 Sin ir más lejos, podemos apuntar como acuerdo mutuo, que todos los países tienen sus propios problemas y que ninguno es perfecto.
 
-El subdesarrollo individual, generado por la intromisión de sustancias tóxicas, que atentan contra la naturaleza humana, han abierto la puerta psíquica del ser humano a un plano astral, desde un vórtice abismal, que pulsa tendencias subterráneas de la mente humana. En vez de subir hacia su genio, el ser desciende hacia profundidades de su cerebro reptiliano primitivo, arrastrando hacia abajo
-
-114
-
-su inteligencia, lo que lo convierte en un mecanismo que trabaja en contra de sí mismo.
+El subdesarrollo individual, generado por la intromisión de sustancias tóxicas, que atentan contra la naturaleza humana, han abierto la puerta psíquica del ser humano a un plano astral, desde un vórtice abismal, que pulsa tendencias subterráneas de la mente humana. En vez de subir hacia su genio, el ser desciende hacia profundidades de su cerebro reptiliano primitivo, arrastrando hacia abajo su inteligencia, lo que lo convierte en un mecanismo que trabaja en contra de sí mismo.
 
 Encerrado dentro del círculo de la adicción, el ser humano encuentra nuevas y peores formas de superar cada día sus capacidades atrapadas en la negatividad. Descubre fondos cada vez más bajos donde pueda caer en su conciencia de destrucción. Entre tales prácticas, podemos vislumbrar como el potencial humano se adormece y se debilita, al punto de quedar atrapado, impidiendo que pueda aportar su luz al mundo.
 

@@ -2,10 +2,6 @@
 
 <!-- Páginas: 244–248 -->
 
-244
-
-4.4 La hermandad religiosa
-
 Vamos a usar como referencia de estudio a la iglesia militante que nació en la mente de Ignacio de Loyola. A pesar de los errores que se le atribuyan a la política de expansión de la fe católica y las autoridades de turno de la iglesia en el Vaticano o en cualquier parte del mundo, como ya dijimos en anteriores apartados, se les reconoce,  obviamente,  la  importante  labor  de  suministrar  conocimientos científicos de Europa a los continentes colonizados por nuestra civilización.
 
 Debemos ayudar a limpiar su santo nombre, como parte del agradecimiento que le tenemos, al habernos enseñado la lengua materna hispana o cualquier otra lengua traída de Europa. En este nuevo mundo que limpiaron de toda oposición, arrasando pueblos completos de indígenas para entregarnos un nuevo mundo casi sin enemigos, no es tan solo una proeza sino un ejemplo de arduo trabajo tanto de guerra, como de estrategia de posicionamiento.
@@ -18,11 +14,7 @@ Obviamente  cada  departamento  social,  mantiene  una  situación  de responsab
 
 Esto se expone a fin de que se mantengan limpias las intenciones y los intereses de cada individuo, grupo o colectivo social, ya que al determinar la psicología de cada individuo, se le tiende una trampa psíquica que a veces trae para la posteridad efectos catastróficos.
 
-Siendo conscientes de que el papel de la iglesia católica es predominante, en cuestiones de fe cristiana en un sentido global y que la estructura de rangos dentro de su canonización otorga al Papa un papel de líder mundial que está capacitado para juzgar las actividades humanas por facultad eclesiástica, se ha convertido en un ejemplo de hermandad, que cada día muestra mejores relaciones con sus fieles, al tiempo que mantiene la dignidad de otros creyentes, de otras denominaciones
-
-245
-
-de fe, tanto si comulgan con sus propias creencias o si se tratara de culturas extranjeras se respeta la deidad de sus doctrinas.
+Siendo conscientes de que el papel de la iglesia católica es predominante, en cuestiones de fe cristiana en un sentido global y que la estructura de rangos dentro de su canonización otorga al Papa un papel de líder mundial que está capacitado para juzgar las actividades humanas por facultad eclesiástica, se ha convertido en un ejemplo de hermandad, que cada día muestra mejores relaciones con sus fieles, al tiempo que mantiene la dignidad de otros creyentes, de otras denominaciones de fe, tanto si comulgan con sus propias creencias o si se tratara de culturas extranjeras se respeta la deidad de sus doctrinas.
 
 Aunque en reflexiones anteriores se dijo algo similar, aquí podemos enfatizar una equivalencia que se genera en el contexto del presente componente, que al igual que se habló sobre la importancia de la inclusión sin exclusión, también se hace el mismo examen sobre la hermandad, ya que puede cerrarse en torno a los intereses de su propio colectivo en determinada región, apuntando un dedo que denuncia a las demás categorías de pensamiento, como una oposición a sus principios y esto se entiende, como la forma en que la iglesia pudiera atacar a otras cosmogonías intentando quedar ella misma en la cúspide, a los partidos políticos que buscan suprimirse mutuamente, o a cualquier cultura o pensamiento que genera  división  para  atacar  individuos  excluyéndolos  de  la  totalidad  o excluyéndose a sí mismos del entorno general.
 
@@ -32,11 +24,7 @@ Lo que ha quedado en el pasado en cuanto al dolor, puede ser enterrado, pero los
 
 Esta no es una propuesta, sino una definición del camino a seguir. Que los sermones o campañas no instiguen la población para ponerla en contra y dividirla desde sus cimientos familiares o colectivos sociales, sino que sean capaces de transmitir un mensaje que puedan entender los individuos como una salida a los tormentosos pensamientos que generan la fragmentación social, para que los individuos que les siguen fielmente, no caigan en alusiones de odio, en un intento de demonizar cada actividad o actitud humana, como algo que está en contra de sus principios.
 
-Reiteramos que se toma como ejemplo a la iglesia católica, ya que es la que más influencia tiene sobre las mentes de las poblaciones en situación de pobreza extrema en Latinoamérica, le siguen en orden las tradiciones evangelistas y después todas las demás. Todo esto dependiendo del estado de información del individuo o su entorno, dada la búsqueda de conocimientos puede permanecer
-
-246
-
-por siempre en alguna doctrina y morir con ella o sentir un llamado a buscar conocimiento en otras ramificaciones de las religiones.
+Reiteramos que se toma como ejemplo a la iglesia católica, ya que es la que más influencia tiene sobre las mentes de las poblaciones en situación de pobreza extrema en Latinoamérica, le siguen en orden las tradiciones evangelistas y después todas las demás. Todo esto dependiendo del estado de información del individuo o su entorno, dada la búsqueda de conocimientos puede permanecer por siempre en alguna doctrina y morir con ella o sentir un llamado a buscar conocimiento en otras ramificaciones de las religiones.
 
 Para  poder  atender  debidamente  los  requerimientos  a  la  solución  de problemáticas sociales de los individuos, se les debe informar plenamente, sobre el campo de juego de la mente en el que están inmersos, para que no caigan en doctrinas  advenedizas,  sino  que  se  permitan  participar  por  impulso  de conocimiento o apoyo cultural a las tradiciones, de manera reflexiva y simbólica, no de manera fanática.
 
@@ -46,11 +34,7 @@ Al tratar esta reflexión debemos aclarar que, en la mente del religioso fanáti
 
 Hemos mencionado a la iglesia las veces suficientes como para tener en cuenta que su influencia es verdaderamente importante, para continuar con su legado de conocimientos y aporte al desarrollo de la civilización actual, lo cual la sigue manteniendo en el presente como una autoridad consolidada y firme en el corazón de sus fieles.
 
-Se agradece que la iglesia continúe su importante labor en temas relacionados con la convivencia social, siendo instructores de la palabra en el buen sentido de mantener a la población fuera de la influencia de la criminalidad, las drogas, o ser canal de diálogo para evitar la guerra. También es la iglesia antecesora de la
-
-247
-
-ciencia actual, albergue de conocimientos alquimistas, astronómicos, artísticos, medicinales. Pese a que los historiadores nos recuerdan constantemente las edades  de  oscurantismo y medievales, en todo caso gracias a la iglesia, el conocimiento secreto continuó fortaleciéndose hasta que por fin pudo ver la luz. Podemos usar lo anterior como consenso para no destruir la convivencia que se ha generado en este componente de Hermandad Ancestral. Es la iglesia un compendio de saberes al igual que de maestros en ciencias naturales y literarias, desde luego tienen un gran cúmulo de conocimientos, que pueden emplear en su expresión hacia la debida aportación cultural, de su experiencia sobre el mundo y desde la historia.
+Se agradece que la iglesia continúe su importante labor en temas relacionados con la convivencia social, siendo instructores de la palabra en el buen sentido de mantener a la población fuera de la influencia de la criminalidad, las drogas, o ser canal de diálogo para evitar la guerra. También es la iglesia antecesora de la ciencia actual, albergue de conocimientos alquimistas, astronómicos, artísticos, medicinales. Pese a que los historiadores nos recuerdan constantemente las edades  de  oscurantismo y medievales, en todo caso gracias a la iglesia, el conocimiento secreto continuó fortaleciéndose hasta que por fin pudo ver la luz. Podemos usar lo anterior como consenso para no destruir la convivencia que se ha generado en este componente de Hermandad Ancestral. Es la iglesia un compendio de saberes al igual que de maestros en ciencias naturales y literarias, desde luego tienen un gran cúmulo de conocimientos, que pueden emplear en su expresión hacia la debida aportación cultural, de su experiencia sobre el mundo y desde la historia.
 
 No debemos confundir lo que se puede hacer, con lo que no se debe hacer, como ya se mencionó, una autoridad no debe usar su ventaja de conocimientos para dividir y fragmentar el núcleo social, ni intentar suprimir otras corrientes de pensamiento entre los individuos o colectivos humanos. Esto mismo se aplica a cada  individuo.  No  por  tener  una  fuerza  de  influencia  acerca  de  sus conocimientos, puede generar ideas de odio entre la sociedad donde actúa.
 
@@ -62,8 +46,4 @@ Agradecemos a todas las doctrinas que permanecen en el respeto de la diferencia 
 
 Un pensamiento antes de salir de esta reflexión, y es que un viento nos une a todos, desde que nacemos, hasta que dejamos nuestro espíritu volar a través de nuestro último aliento de vida. Es la muerte la que parece una amenaza, pero no es así, a menos que se adelante por conflictos entre seres vivos. Quizá tenemos conciencia de que es la más segura posibilidad, solo para entender que nuestro tiempo es limitado y que más vale no perder el tiempo de manera inútil.
 
-Justamente por eso debemos ser capaces de mantener una conexión adecuada, en  armonía  con  los  individuos  que  hacen  parte  de  esta  vida,  siendo  lo suficientemente  audaces  para  desarrollar  sistemas  que  generen  mejores
-
-248
-
-herramientas de conocimiento y que sirvan para establecer mayores niveles de calidad de vida, sin perder nuestra esencia natural, dejando un mejor legado histórico que reciban las futuras generaciones humanas y de cualquier ser vivo.
+Justamente por eso debemos ser capaces de mantener una conexión adecuada, en  armonía  con  los  individuos  que  hacen  parte  de  esta  vida,  siendo  lo suficientemente  audaces  para  desarrollar  sistemas  que  generen  mejores herramientas de conocimiento y que sirvan para establecer mayores niveles de calidad de vida, sin perder nuestra esencia natural, dejando un mejor legado histórico que reciban las futuras generaciones humanas y de cualquier ser vivo.

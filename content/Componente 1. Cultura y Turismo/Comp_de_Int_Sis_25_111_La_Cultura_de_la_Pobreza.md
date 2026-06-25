@@ -2,10 +2,6 @@
 
 <!-- Páginas: 133–136 -->
 
-133
-
-1.11 La Cultura de la Pobreza
-
 Ser pobre es algo normal. La mayoría lo somos y vivimos sabroso con lo que tenemos y podemos disfrutar. Nos acostumbramos a ser personas de clanes y pandillas o simplemente familiares. No tenemos que escondernos de los medios porque no somos famosos y podemos sufrir en silencio tranquilamente sin ser publicados en los medios. También podemos tener algún medio de ganarnos la vida, en alguna labor que nos pague al menos lo mínimo para poder disfrutar un día de tragos con los amigos o tener un banquete de fin de semana con la familia. Luego podemos estar seguros que nuestra vida no le interesa ni le importa a nadie, más allá de nuestro pequeño círculo de amistad y familiar, como debe ser.
 
 Estamos haciendo lo máximo posible por vivir la vida sin inmiscuirnos en asuntos  complicados  o  que  requieran  carreras  universitarias  de  alto  valor. Además, también tenemos mujeres y podemos tener una familia con hijos que nos enorgullecen porque salen igualitos a nosotros y así podemos estar seguros de que van a repetir nuestros pasos y hasta nuestros errores. Podemos disfrutar de lo que nos ponen en la televisión para ver y podemos escuchar la música que nos ponen en los sitios de diversión común, donde otras personas como nosotros también se divierten.
@@ -14,11 +10,7 @@ A veces hay gente de mayor categoría que viene a divertirse como nosotros, porq
 
 No tiene nada de malo querer ser pobre desde el nacimiento hasta la muerte, excepto cuando se quiere, lamentablemente, ayudar a otros. Se pone la palabra ‘lamentable’ porque somos conscientes que desde la pobreza es muy difícil poder ayudar a los demás, cuando ni siquiera podemos ayudarnos a nosotros mismos. Y esta sensación de frustración recorre la mente y los nervios como un azote a las pretensiones de mejorar la calidad de vida personal y la de nuestros allegados. Tras una reflexión pausada y de aceptación conformista se llega a la conclusión de que no hay mucho que se pueda hacer, si no hay dinero suficiente.
 
-A partir de este pensamiento se genera un afán de cambio de posibilidades, que caen en la ambición de llevar una vida de diferente manera, en estados categóricos, dependiendo de la información que se haya podido filtrar al cerebro del individuo en cuestión. Dentro de las posibilidades de la mente en su baja
-
-134
-
-determinación y conocimiento, se despliega una gama de opciones. Se puede ser criminal y robar, entrar en una organización delictiva que cumple las veces de trabajo informal. Se puede también ser juicioso y elegir un buen camino, estudiar y conseguir un buen empleo, mantenerse hasta una edad pensional.
+A partir de este pensamiento se genera un afán de cambio de posibilidades, que caen en la ambición de llevar una vida de diferente manera, en estados categóricos, dependiendo de la información que se haya podido filtrar al cerebro del individuo en cuestión. Dentro de las posibilidades de la mente en su baja determinación y conocimiento, se despliega una gama de opciones. Se puede ser criminal y robar, entrar en una organización delictiva que cumple las veces de trabajo informal. Se puede también ser juicioso y elegir un buen camino, estudiar y conseguir un buen empleo, mantenerse hasta una edad pensional.
 
 También se puede abandonar toda ambición personal y vivir en la calle con los hábitos por el suelo y el potencial de la mente cayendo cada vez más bajo, aunque el cuerpo todavía resista tribulaciones y se mantenga vital. También la carrera criminal tiene divisiones y estatus: hay ladrones de carteras o cadenas y hay quienes roban bancos, hay quienes secuestran o extorsionan y hay quienes son hábiles en corrupción política administrativa. De cualquier forma, quien no es un buen administrador de su dinero y no sabe crear empresas, termina perdiendo todo o planeando su siguiente golpe para mantener su calidad de vida.
 
@@ -28,11 +20,7 @@ Las cifras y estadísticas en los marcos conceptuales de información actual pue
 
 La forma en que las personas administran sus ingresos determina el curso de su propia clase, según el conocimiento que pueden experimentar para crecer. Personas que pagan los estudios de sus hijos y han mantenido a sus familias dependiendo de pequeños puestos de ventas en el comercio callejero, son algunos ejemplos de administración de los ingresos bien invertidos y como respuesta a sus necesidades o pese a ellas.
 
-No está demás presentar en este reflexivo a la pobreza como una enfermedad, desde el punto de vista del estado, debido a las problemáticas sociales que genera a gran escala. Hay que tener conciencia de que la cultura de la pobreza es un
-
-135
-
-movimiento social. Una colectividad en masa que posee su propio lenguaje, su propia historia, sus costumbres, canciones, arte en general y trabajos. Defienden su estado actual de manera contundente y están dispuestos a dar la vida (o dañar la de los demás), antes que pertenecer a cualquier otra casta social o subir de nivel.
+No está demás presentar en este reflexivo a la pobreza como una enfermedad, desde el punto de vista del estado, debido a las problemáticas sociales que genera a gran escala. Hay que tener conciencia de que la cultura de la pobreza es un movimiento social. Una colectividad en masa que posee su propio lenguaje, su propia historia, sus costumbres, canciones, arte en general y trabajos. Defienden su estado actual de manera contundente y están dispuestos a dar la vida (o dañar la de los demás), antes que pertenecer a cualquier otra casta social o subir de nivel.
 
 Casi  todo  colectivo  en  contra  del  estado  de  derecho,  en  contra  de  los empresarios y en contra de los ricos, pretende ver hacia abajo, con dignidad, pero a la defensiva, y hacia arriba con indignación y enojo, muchas veces brutal. La culpa se arroja hacia arriba pero casi siempre cae sobre todos nosotros. Los impuestos que siempre quieren quitar algo a los ricos, terminan pagándolos la clase media y los pobres trabajadores.
 
@@ -42,11 +30,7 @@ Muy  pocas  personas  realmente  se  identifican  a  sí  mismos  con  grandes e
 
 El problema de la clase media en cuestiones de mentalidad, es que pretenden amparar el pensamiento de los pobres por la compasión (conmiseración excesiva) que les genera la sensibilidad de dónde vienen. El problema de algunas personas provenientes de familias bien acomodadas financieramente o clases medias altas, es que se identifican culturalmente con influenciadores de las clases bajas que tienen problemas familiares y/o un largo historial de vicios, ponen su mirada hacia  abajo  en  vez  de  aspirar  a  mayores  niveles  de  grandeza,  porque  su sensibilidad les arrastra detrás del pesar y la debilidad de los demás.
 
-La emocionalidad dirigida hacia abajo en la escala de sensibilidad pone la mente de las personas en la identificación con el dolor y la apatía a nivel social. La cultura no puede abandonarse al simple impulso de la compasión y el pesar, porque las características del ser humano se apagan y renuncian a su potencial cuando traspasan al nivel de la desmotivación. Una persona que deja de trabajar
-
-136
-
-en sí mismo para mejorar su vida, se convierte a largo plazo en una carga para sí mismo y para la sociedad.
+La emocionalidad dirigida hacia abajo en la escala de sensibilidad pone la mente de las personas en la identificación con el dolor y la apatía a nivel social. La cultura no puede abandonarse al simple impulso de la compasión y el pesar, porque las características del ser humano se apagan y renuncian a su potencial cuando traspasan al nivel de la desmotivación. Una persona que deja de trabajar en sí mismo para mejorar su vida, se convierte a largo plazo en una carga para sí mismo y para la sociedad.
 
 La brecha entre ricos y pobres no se cierra con las ayudas del estado, ni quitando a los ricos para darle a los más necesitados. La brecha se cierra con una conducta  formada  en  la  autodisciplina  y  la  dedicación  permanente.  La matemática aplicada a los números, financieramente hablando, solo puede tener efectos favorables cuando el individuo ha sido capaz de auto generarse como un ser libre de quejas y reclamos, puede moverse dentro de sus facultades cerebrales y espirituales de manera natural en entornos sociales.
 

@@ -2,10 +2,6 @@
 
 <!-- Páginas: 31–34 -->
 
-31
-
-La Cultura como Intercambio de Conocimientos
-
 3. ¿Cómo la cultura es el primer eslabón de la cadena que aporta libertad?
 
 El uso de estos componentes es un compromiso y quien se compromete consigo mismo  a  realizarlos,  establece  un  enlace  de  responsabilidad,  que  lejos  de imponerse como un castigo, crea una salida hacia su propia libertad, la cual se adquiere a medida que trabaja en desarrollar y despertar el propio potencial latente de su espiritualidad.
@@ -15,8 +11,6 @@ La educación académica del siglo XXI ha servido para moldear los valores funda
 Es a causa de este pragmatismo del lenguaje, que se da valor a verbalizar cualquier interpretación de la conciencia como una formulación de argumentos, por  ende  se  ha  transmitido  a  los  individuos  (que  piensan  demasiado filosóficamente), atacando desde la psicología moderna, que la parte espiritual del hombre es tan solo un invento de las religiones. Al desligarse al ser humano de su característica principal, que va muchísimo más allá de su cerebro pensante, se llega a una distorsión de las capacidades humanas.
 
 Al materializarse físicamente, en relación al conocimiento atómico que nos ofrece el avance de la ciencia, no se destruye realmente el espíritu del ser humano; de igual modo, elevarse de la condición meramente biológica, de la cual emana nuestro instinto de supervivencia, como práctica de desligarse de la animalidad, el ser humano se convierte en un robot pensante, que tiene un montón de respuestas para todo, pero que no sabe cómo mejorar su entorno desde su interior. En tal caso los extremos son complementos en la tétrada, animal, mente y espíritu. El vehículo del medio debe reconciliarlos para que funcionen como unidad.
-
-32
 
 Para hacer un adelanto y entrar en contexto, la cultura subsiste naturalmente a través de la educación, solo a ella le corresponde formar a los ciudadanos con la ayuda de padre y madre, los miembros de la familia y el entorno inmediato. Aunque esto es correcto y nuestro desarrollo ha avanzado así a los niveles superiores de la tecnología, no podemos dejar atrás y pasar por alto las bases de nuestra civilización.
 
@@ -30,8 +24,6 @@ La educación académica es solo un aspecto de la formación óptima de un ser h
 
 Como se puede verificar en la actualidad, pese a todos los esfuerzos del individuo, en su preparación académica y al conseguir por fin su titulación profesional, doctorado y maestría, en un porcentaje bastante alto y contrario a lo que se esperaría, los estudiantes están desactualizados del contexto financiero, tecnológico y de mercado internacional; al incursionar al mundo laboral, carecen de experiencia, lo cual es una completa incongruencia y también genera una amplia desilusión.
 
-33
-
 La anterior declaración no es del todo desesperanzadora, hay cosas que vale la pena aprenderlas por sí mismos, antes que aprenderlas en aulas de clase.
 
 El estructuralismo, tal como lo formuló Jean Piaget, es innegable en cuanto a la formación de patrones de percepción, en la mente de los individuos en los primeros años de la infancia. En este contexto, es admirable pero entendible, la figura de un prodigio como Mozart, que escribía sinfonías desde los seis años de edad. Es el equivalente a aprender, entender y hablar la lengua de los parientes o del entorno inmediato a temprana edad. Podemos observar en este apunte, como no se requiere la escuela para aprender a hablar la lengua materna y tampoco se requiere la escuela para aprender a caminar desde temprana edad. Pudiéramos aventurarnos a decir, con un tono de humor satírico, que, si la escuela interviniera en  tales  asuntos,  seguramente  los  individuos  hablarían  o  caminarían  con dificultades.
@@ -44,11 +36,7 @@ Si hablamos aquí de una cultura global, significa que estamos reuniendo en conj
 
 En este conjunto caben todas las civilizaciones de la tierra desde sus inicios, y reúne todo el conocimiento humano. Esta no es una clasificación o etiqueta, que ponga en un recipiente a todas las denominaciones del pensamiento, sino que las contempla como eslabones, unidades de discernimiento complementarias que se fortalecen  individualmente,  a  medida  que  encuentran  retroalimentación  al interactuar con las demás. Es decir, que no se mezclan necesariamente como un jugo de prácticas al azar, sino que cada cual aporta un valor o conjunto de valores, que no se pueden destruir, ni sustituir por otros, ya que desintegrarlos o separarlos crearía una especie de vacío en el conocimiento, lo cual debilita la percepción del contexto global.
 
-Del resultado de esta conjunción, desprende la conclusión lógica de que un solo  individuo  no  alcanza  a  soportar  o  albergar  tan  vasta  acumulación  de información  o  conocimientos  exactos.  Incluso  en  la  transmisión  del
-
-34
-
-conocimiento,  de  generación  a  generación,  se  pierde  contenido  y  detalles fundamentales, lo que trasforma el conocimiento en nuevas corrientes, a veces para el bien y el desarrollo de otras ramas del pensamiento, otras veces para mal, pues  se  obtiene  un  resultado  desde  la  deficiencia  y  desde  la  carencia  de conocimientos, que se pierden o dejan de usarse.
+Del resultado de esta conjunción, desprende la conclusión lógica de que un solo  individuo  no  alcanza  a  soportar  o  albergar  tan  vasta  acumulación  de información  o  conocimientos  exactos.  Incluso  en  la  transmisión  del conocimiento,  de  generación  a  generación,  se  pierde  contenido  y  detalles fundamentales, lo que trasforma el conocimiento en nuevas corrientes, a veces para el bien y el desarrollo de otras ramas del pensamiento, otras veces para mal, pues  se  obtiene  un  resultado  desde  la  deficiencia  y  desde  la  carencia  de conocimientos, que se pierden o dejan de usarse.
 
 Aunque cada generación reúne cierta cantidad de información, ahora, gracias al avance tecnológico, se puede almacenar cantidades enormes de información en datos codificados, y podemos tener acceso a esa información a través de la red. Por lo tanto, puede tornarse como una nueva fuente de educación, que se generó a través  de  la cultura  del intercambio  de conocimientos, cuya difusión se desarrolla a partir de la informática y gracias a la programación, tras años de práctica,  fallas  y  errores,  más  las  respectivas  conclusiones,  se  logró  un consecuente aprendizaje que desarrolló la web y más adelante la inteligencia artificial.
 

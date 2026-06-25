@@ -2,12 +2,6 @@
 
 <!-- Páginas: 42–50 -->
 
-42
-
-Los Componentes de Integración Sistémica en el
-
-Orden Adecuado
-
 6. ¿Por qué usar en un orden determinado dichos componentes y no de otra forma?
 
 Los componentes, usados como punto de partida en estas reflexiones, poseen un orden de articulación excepcionalmente natural. Encajan y calan entre sí entre sí de manera perfecta, tal como cada piedra que fue usada en las construcciones de las pirámides de Egipto, no son invenciones innecesarias o artificiales y se producen de manera natural, dado el alto grado de desarrollo psicosocial de la civilización actual.
@@ -17,8 +11,6 @@ Los componentes y su orden son:
 1. Cultura y Turismo. 2. Protección Ambiental. 3. Inclusión Social. 4. Hermandad Ancestral. 5. Emprendimientos Sociales. 6. Agro Industria. 7. Hostal Gastronomía. 8. Territorio Ancestral. La articulación, y el orden de estos componentes, como hemos mencionado, se produce de manera natural. Desconocer estos componentes y desarrollarlos de manera insuficiente, omitirlos o contrariarlos dentro de la postulación y estudio de un proyecto, puede resultar en pérdidas desde el inicio, falta de impacto para beneficio de la comunidad donde se implementa, como  también conflictos internos en áreas de recursos humanos o entre la población.
 
 En el peor escenario, puede resultar siendo un peligro que se convierta en deficiencia o calamidad para la comunidad donde se implementa un proyecto, o que los usuarios terminen siendo víctimas del mal manejo de los recursos, o resultar en problemas de infraestructura, como  en el caso del puente que misteriosamente colapsó en el Departamento del Cauca en Colombia, en los primeros meses de 2023.
-
-43
 
 Los componentes citados, articulados de manera correcta, crean un mapa, cuya hoja de ruta, sirve para no perderse en el camino y como respaldo a las decisiones que se barajan en la lluvia de ideas, en los organigramas, previo a cualquier postulación,  planteamiento,  ejecución  y  operación  de  los  proyectos,  como también durante su debida observación y mantenimiento. Incluso puede ofrecer una oportunidad para rescatar y renovar proyectos que se encuentran del todo inactivos o moribundos.
 
@@ -32,8 +24,6 @@ La protección ambiental es un compromiso continuo, cuya responsabilidad depende
 
 Así se conforma naturalmente la inclusión social, generada desde la vida misma, sin artificios legales ni planteamientos ideológicos. Es el producto de reconocer el bienestar común y los deberes de cada individuo para poder mantener los derechos, en estados saludables. Esta convivencia que se da a partir del trabajo conjunto entre personas de distintas formaciones, se convierte en hermandad a corto, mediano y largo plazo.
 
-44
-
 Se afianzan relaciones de contribución por las responsabilidades bien logradas. y el compromiso que cada quien elige, como trabajo para mantener vivas las tradiciones culturales, la armonía en los espacios naturales, el cuidado al medio ambiente, el servicio a los turistas, las relaciones comerciales y familiares, todo esto fortalece el espíritu de trabajo comunitario de manera interpersonal.
 
 Como pueden notar, estas capacidades del ser humano, que formulamos aquí como componentes, son reacciones naturales que se dan a propósito de la organización, como pueblos que agilizan su desarrollo y en la implementación de medidas que establecen un estado de convivencia y relación armónica con el entorno y el ambiente natural.
@@ -46,11 +36,7 @@ Los siguientes componentes son una derivación de estos, la agronomía, la indus
 
 El componente Agro Industrial se ha desarrollado en el mundo a gran velocidad en los últimos dos siglos, gracias a la operación de maquinaria y los avances tecnológicos. A veces pareciera que todo el mundo comercial y los mercados giran en torno a este componente, de manera que una visión cerrada sobre  su  expansión  a  nivel  global,  perdiendo  de  vista  todas  las  anteriores determinaciones, puede generar vacíos y problemas complejos en el desarrollo de estos mismos componentes.
 
-De hecho, al pasar al siguiente componente, Hostal Gastronomía, parece ubicarse teniendo en cuenta las implicaciones del mercado en el componente Agro Industrial, no desde la cultura de los territorios y los primeros componentes
-
-45
-
-citados, por eso podemos entender las problemáticas que se desprenden de esta desarticulación desmedida.
+De hecho, al pasar al siguiente componente, Hostal Gastronomía, parece ubicarse teniendo en cuenta las implicaciones del mercado en el componente Agro Industrial, no desde la cultura de los territorios y los primeros componentes citados, por eso podemos entender las problemáticas que se desprenden de esta desarticulación desmedida.
 
 En el movimiento sano de la evolución natural de los componentes, del estado de convivencia plena entre pueblos y el establecimiento de alianzas comerciales, lo subsecuente es un fortalecimiento del intercambio de productos de gran calidad y el desarrollo de una economía saludable, que genera condiciones de trabajo para la población. A su vez el turismo llena los lugares de expansión espiritual y hospeda a los usuarios en torno a una oferta rica en diversidad gastronómica de alta calidad, lo que mejora las condiciones de los territorios y los llena de una vida exuberante y proactiva.
 
@@ -66,8 +52,6 @@ Toda esta información requerida se usa para dar un aval del proyecto en sus pri
 
 El uso de estos componentes, funciona para hacer seguimiento de cualquier proyecto, acompaña en la trayectoria a los proyectos desde su formulación hasta su  operación,  sirviendo  de  enfoque  en  la  toma  de  decisiones,  durante  el seguimiento de cada fase dentro del proyecto, a corto, mediano y largo plazo.
 
-46
-
 Veamos rápidamente algunos simples ejemplos de proyectos que han sufrido imprevistos y problemas, una vez concluida su ejecución.
 
 La  construcción  del  puente  Pumarejo,  parece  haber  usado  algunas características de los componentes aquí mencionados, quizá de manera aleatoria y sobre la marcha, si bien es una construcción impecable en la planeación como ingeniería y arquitectura, también una obra maestra en su funcionalidad y diseño que cala perfectamente en el paisaje y utiliza muy bien los recursos para su implementación; es desde luego un bien común, que causa admiración y del cual pueden  sentirse  orgullosos  quienes  pueden  hacer  uso  de  este  corredor,  al desplazarse  del  departamento  Magdalena,  por  la  ciudad  de  Santa  Marta  a Barranquilla y viceversa.
@@ -78,11 +62,7 @@ El trabajo comunitario en las fases iniciales del proyecto, debe proveer a las p
 
 Los componentes usados de manera consciente pueden mejorar la respuesta de la población, para que las personas puedan sacar el mayor provecho a las oportunidades, esto contribuye a mejorar el desempeño de los proyectos durante su operación.
 
-Este mismo examen desde los componentes sobre la represa Hidroituango, responde a las dificultades que han tenido en su momento, para poner en operación su proyecto. Resolver problemas sobre la marcha en lo concerniente al diálogo y acuerdos con la población aledaña, no derivan de los aspectos de la improvisación, porque cada decisión debe estar respaldada por una planeación exhaustiva, en todo caso la evacuación de las zonas de peligro debió prevenirse con anticipación. Aunque el debate en sí, se da sobre la fecha de operación, que pudo prolongarse antes de definirse y expresarse públicamente. Es decir, que los
-
-47
-
-puntos débiles dentro de la planeación de este mega proyecto, se debieron a simple errores de cálculo en la planeación, por acelerar la fecha de entrega, lo cual no es nada sorprendente teniendo en cuenta la magnitud de semejante proyecto. En cuanto a la población que debió ser evacuada, el dialogo permanente y la pedagogía insistente, fue lo que ayudó a controlar las tensiones entre la población.
+Este mismo examen desde los componentes sobre la represa Hidroituango, responde a las dificultades que han tenido en su momento, para poner en operación su proyecto. Resolver problemas sobre la marcha en lo concerniente al diálogo y acuerdos con la población aledaña, no derivan de los aspectos de la improvisación, porque cada decisión debe estar respaldada por una planeación exhaustiva, en todo caso la evacuación de las zonas de peligro debió prevenirse con anticipación. Aunque el debate en sí, se da sobre la fecha de operación, que pudo prolongarse antes de definirse y expresarse públicamente. Es decir, que los puntos débiles dentro de la planeación de este mega proyecto, se debieron a simple errores de cálculo en la planeación, por acelerar la fecha de entrega, lo cual no es nada sorprendente teniendo en cuenta la magnitud de semejante proyecto. En cuanto a la población que debió ser evacuada, el dialogo permanente y la pedagogía insistente, fue lo que ayudó a controlar las tensiones entre la población.
 
 El último ejemplo es sobre los parques gimnasio para adultos mayores y personas con discapacidad, son ejemplos muy importantes en el contexto de inclusión social, también aportan estética y embellecen los espacios públicos. En cuanto al impacto en la población, un porcentaje importante de estos, parecen estar abandonados y carecen de seguimiento o programas de actividad lúdica, como trabajo conjunto con la comunidad.
 
@@ -92,21 +72,13 @@ Los buenos ejemplos superan en cantidad a los que carecen de atención. Las canc
 
 Dentro del contexto de la implementación de proyectos de infraestructura, existen los llamados “elefantes blancos”, que responden a los bajos niveles de mecanismos de control y medidas de seguimiento insuficientes. Para solucionar la falta de elementos básicos que cumplan la función de dar seguimiento y guiar la trayectoria de los proyectos, se ofrece esta declaración de los componentes, en el uso adecuado, ordenado y permanente de ellos.
 
-Para entender mejor el uso de los componentes, revisemos por separado, iniciativas que trabajan en un solo campo, desatendiendo el uso de los demás
-
-48
-
-aspectos que resumen los componentes básicos, los cuales brindan una mejor comprensión  del  campo  en  que  se  trabaja,  para  poder  ver  las  ventajas  y desventajas que estamos pasando por alto.
+Para entender mejor el uso de los componentes, revisemos por separado, iniciativas que trabajan en un solo campo, desatendiendo el uso de los demás aspectos que resumen los componentes básicos, los cuales brindan una mejor comprensión  del  campo  en  que  se  trabaja,  para  poder  ver  las  ventajas  y desventajas que estamos pasando por alto.
 
 Inicialmente, se ha expuesto el componente Cultura y Turismo como el primer eslabón. Condensa la educación óptima de cada individuo y la cultura de manera holista. Como principio y base, es consciente de todos los componentes, los unifica  y  asegura  una  relación  coordinada  y  efectiva,  que  se  usa  en  el planteamiento, para tomar decisiones que sirvan al desarrollo de proyectos, en beneficio de la población dentro de los territorios y que contribuya a generar una oferta y demanda de servicios turísticos, que atraiga visitantes e inversionistas. Es decir, que el primer componente es la conciencia cultural de todos los eslabones de compromiso en la toma de decisiones, del cual como ya se expuso, nacen naturalmente los demás componentes.
 
 Qué pasa entonces si omitimos la cultura relacionada a la oferta de turismo y nos interesa implementar un proyecto que respalda iniciativas de protección ambiental.  Aplicarse  a  defender  una  causa  justa  como  lo  es  la  protección ambiental, sin haber tomado la opinión de los sectores de la población, usar un discurso activista con la intención de generar indignación entre una multitud, puede tener consecuencias negativas. Defender o pretender proteger, los espacios ambientales y al mismo tiempo destruir las ciudades, no es protección ambiental (ser ambientalista extremo y vivir en la ciudad es una contradicción, una ironía, si se pone en perspectiva).
 
-El  fanatismo  ambientalista  se  genera  al  ingresar  en  el  componente  de protección ambiental, sin tener una base cultural bien desarrollada, para lo que implica pensar en el beneficio de la totalidad de la población humana. En este contexto, aplicado a un impulso puntual, desde las iniciativas de un gobierno de turno, intenta promover las energías renovables y una de sus implementaciones busca crear estufas 'eco eficientes' para las regiones de escasos recursos (año 2024). Se contribuye a desarrollar estas estufas que usan leña, construidas artísticamente con ladrillo y cemento de manera que produzca un aspecto de horno. Hasta donde se puede apreciar es un buen detalle contemplativo. En la práctica realmente no se establece una conexión directa con el cuidado del medio ambiente y la protección al planeta, como quieren sugerir las mentes de quienes impulsan estos proyectos. Ya que, al desarrollar la industria ladrillera y de cemento, no se puede afirmar que realmente estos aportes sean eco eficientes, aunque fueran en todo caso necesarios. Además, habría sido necesario tener en cuenta que exponerse de manera  prolongada  y  diariamente  al  humo  de  leña,  puede  ocasionar
-
-49
-
-enfermedades  respiratorias,  sobre  todo  en  personas  mayores.  Al  usar  estos componentes se debe poner extrema atención y cuidado de no explotarlos de manera separada, ni de manera desarticulada.
+El  fanatismo  ambientalista  se  genera  al  ingresar  en  el  componente  de protección ambiental, sin tener una base cultural bien desarrollada, para lo que implica pensar en el beneficio de la totalidad de la población humana. En este contexto, aplicado a un impulso puntual, desde las iniciativas de un gobierno de turno, intenta promover las energías renovables y una de sus implementaciones busca crear estufas 'eco eficientes' para las regiones de escasos recursos (año 2024). Se contribuye a desarrollar estas estufas que usan leña, construidas artísticamente con ladrillo y cemento de manera que produzca un aspecto de horno. Hasta donde se puede apreciar es un buen detalle contemplativo. En la práctica realmente no se establece una conexión directa con el cuidado del medio ambiente y la protección al planeta, como quieren sugerir las mentes de quienes impulsan estos proyectos. Ya que, al desarrollar la industria ladrillera y de cemento, no se puede afirmar que realmente estos aportes sean eco eficientes, aunque fueran en todo caso necesarios. Además, habría sido necesario tener en cuenta que exponerse de manera  prolongada  y  diariamente  al  humo  de  leña,  puede  ocasionar enfermedades  respiratorias,  sobre  todo  en  personas  mayores.  Al  usar  estos componentes se debe poner extrema atención y cuidado de no explotarlos de manera separada, ni de manera desarticulada.
 
 La inclusión social trabajada de forma fragmentada, genera problemas de orden social. Se fanatiza a la población y cada quien defiende los intereses de su propio colectivo minorista, es decir, divide la población. Los ejemplos están en el orden del día de cada marcha que termina en turbas, represión y violencia para restablecer el orden. Este es uno de los temas más delicados que requiere gran profundidad y que cala en el campo de las actividades políticas, de manera que aquí no vamos a exponer todas sus variables para no extendernos demasiado y podamos seguir adelante; sin embargo, en el desarrollo oficial del texto de cada componente profundizaremos otro tanto. Cada estudiante debe mantener la relación entre los componentes, frente al entorno político, social y económico, en cada país o región donde se encuentre. Por lo pronto podemos adelantar que defender los derechos de las personas no debe ser un impulso desmedido que reaccione desde la revictimización.
 
@@ -116,11 +88,7 @@ En el campo de los emprendimientos sociales, estos tampoco serían posibles, ni 
 
 El componente de los emprendimientos sociales se fortalece y funciona correctamente en la medida que las personas crean fuertes relaciones públicas y se mantiene en acuerdos libres, legales y coherentes, para mantener alianzas que gozan de amistad y transparencia.
 
-Los sectores agro industriales se afectan en la cadena de abastecimiento cuando la población bloquea los accesos o corredores y limita la distribución. Lo cual es ya una desarticulación bastante recurrente como para ver las consecuencias de manera directa. Las decisiones de un colectivo causan perdidas en diferentes niveles de la economía, los bloqueos han hecho perder cosechas completas y causa un aumento de productos que pasan rápidamente de estar disponibles y en
-
-50
-
-abundancia, o de estar a bajos precios, a estar completamente desabastecidos y cuyos precios se elevan haciendo imposible adquirirlos.
+Los sectores agro industriales se afectan en la cadena de abastecimiento cuando la población bloquea los accesos o corredores y limita la distribución. Lo cual es ya una desarticulación bastante recurrente como para ver las consecuencias de manera directa. Las decisiones de un colectivo causan perdidas en diferentes niveles de la economía, los bloqueos han hecho perder cosechas completas y causa un aumento de productos que pasan rápidamente de estar disponibles y en abundancia, o de estar a bajos precios, a estar completamente desabastecidos y cuyos precios se elevan haciendo imposible adquirirlos.
 
 La hotelería y oferta gastronómica aumenta precios, proporcional a la subida de costos de insumos y para poder sostener los gastos de operación, a veces golpea el bolsillo de los consumidores, de manera que las relaciones sociales, que sostienen la cultura de convivencia, se van cerrando en torno a un estatus adquisitivo. Este movimiento económico entre todos los sectores productivos y de servicios, funciona como una cadena y está expuesto a los efectos bola de nieve.
 

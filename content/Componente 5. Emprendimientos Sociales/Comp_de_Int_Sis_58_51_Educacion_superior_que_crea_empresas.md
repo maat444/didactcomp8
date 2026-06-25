@@ -2,10 +2,6 @@
 
 <!-- Páginas: 287–291 -->
 
-287
-
-5.1 Educación superior que crea empresas
-
 Habiendo superado los escenarios de las anteriores reflexiones, se abre una puerta a la realización oficial del emprendimiento. Primero hay que reconocer el factor de conectividad a la red de información, gracias a los avances tecnológicos y también  el  desarrollo  de  la  economía  circular,  cuyo  cambio  de  paradigma económico se ha venido dando a lo largo de los últimos veinte años. Cabe recordar que gracias a la pandemia se aceleró una nueva forma de economía cuyos puestos de trabajo se realizan a distancia.
 
 En el comportamiento de la economía mundial a lo largo de los últimos veinte años se ha producido un salto que ha transformado la forma de ver el mundo y de hacer negocios, tanto en las transacciones de compra venta directa como a través del comercio electrónico, los avances y el desarrollos informático siguen siendo una herramienta fundamental para establecerse en el nuevo mundo, desde una plataforma que nos beneficia a todos. En Colombia y en varios países de América Latina, la abnegación de muchos sectores sociales los ha hecho permanecer en el oscurantismo en cuanto a los avances tecnológicos. Es su decisión tener negocios que vivan del día a día, sin pensar mucho en la planeación estratégica para el futuro, son tercamente responsables del atraso al que se ven sometidos.
@@ -13,8 +9,6 @@ En el comportamiento de la economía mundial a lo largo de los últimos veinte a
 Aunque pueda ser cierto que en algunos sectores de la sociedad, la colectividad marcha al ritmo del más lento, esta conjetura llega a convertirse en una realidad que explica por qué esos sectores, en temas de desarrollo económico, se ven rezagados. Por más que toda la tecnología esté disponible y al alcance de los individuos, es triste ver negocios que se conforman con poco, siguen registrando cuentas en cuaderno, tecnología del siglo pasado, cuando hay herramientas disponibles en todas las plataformas digitales gratuitas.
 
 En el trascurso del aislamiento preventivo por la pandemia 2019, se pudo determinar la necesidad y la importancia casi obligatoria de entrar en el mundo del ecommerce. Aunque esto ya se había venido planteando desde hace años, la desconfianza acerca de las plataformas digitales, ponía a las personas naturales con pequeños negocios en una posición que se negaba a usarlas. Puede parecer risible, pero hace apenas unas décadas, las personas se negaban a cambiar de teléfono fijo a celular. Es probable que algunas personas no sepan lo que es un teléfono fijo. Pero es muchísimo más probable que nadie quiera volver atrás en el tiempo para depender de la comunicación a través del teléfono fijo, después de haber comprobado que es mucho más eficiente el uso del celular.
-
-288
 
 Ahora la tecnología no solo es una necesidad, sino un mecanismo de desarrollo para  los  negocios,  los  cuales  pueden  digitalizar  su  entorno  laboral.  Esta transformación tecnológica ha dotado al mundo en todas partes de iniciativas por parte de los individuos que crean nuevos puestos de trabajo, ya que pueden investigar en su propio campo sus propias oportunidades de crecimiento, con innovación, con creatividad, con planificación y también gracias a que pueden expandir su propio alcance en el intercambio de información.
 
@@ -26,11 +20,7 @@ Este principio es suficiente motivador que proporciona energía para la acción.
 
 Para llegar a un nivel de establecimiento cooperativo entre sectores sociales que promueven la paz y la convivencia, en el intercambio cultural y comercial de manera  sustentable,  es  indispensable  una  cooperación  y  principio  de  la hermandad  entre  distintos  colectivos,  responsables  de  generar  empleos  y oportunidades de crecimiento empresarial. En las primeras etapas e iniciativas del emprendimiento se apunta a la creación de empresas y dando el seguimiento correspondiente a la manera de ejecutarlas.
 
-La operación del principio de hermandad ancestral, que da a luz o hace posible los emprendimientos sociales, requiere del trabajo conjunto entre todas las unidades  comerciales  que  promueven  una  visión  que  incorpora  tanto  los lineamientos de la protección ambiental y también el crecimiento económico, lo
-
-289
-
-cual es el referente para establecer acuerdos y/o alianzas que garanticen la integración entre sectores económicos, generar beneficios.
+La operación del principio de hermandad ancestral, que da a luz o hace posible los emprendimientos sociales, requiere del trabajo conjunto entre todas las unidades  comerciales  que  promueven  una  visión  que  incorpora  tanto  los lineamientos de la protección ambiental y también el crecimiento económico, lo cual es el referente para establecer acuerdos y/o alianzas que garanticen la integración entre sectores económicos, generar beneficios.
 
 Trabajar sin interés en dividir la población de manera interna o externa, contribuye a reparar las brechas ideológicas y de fragmentación social. Al replicar mecanismos que permitan coincidir en la visión estratégica, a fin de que el tejido social se mantenga como una unidad de soluciones y no de bloqueo, sirve al propósito de que los individuos realicen su propio aporte desde sus capacidades desarrolladas, convirtiéndose ellos mismos en la solución adecuada que necesita el  mundo,  reflejado  en  un  sano  intercambio  comercial,  compitiendo  con productos, servicios y experiencias de alto valor que aporten al desarrollo del potencial humano.
 
@@ -38,11 +28,7 @@ Como ya hemos visto, cuando se hace la protesta, se ralentiza en gran medida tod
 
 Hay sectores que están empezando a cambiar las políticas internas de sus empresas, para pasar al desarrollo actual que se enfatiza en operar sin afectar el medio ambiente. Aunque falte bastante compromiso, sobre todo en empresas emergentes y según vallas ajustándose las leyes al respecto en los estados, se ha empezado a vislumbrar la relativamente nueva economía azul como un camino a seguir, la cual se está haciendo cada vez más rentable, gracias a la articulación de los sectores que generan oportunidades de empleos, y que al mismo tiempo crean un  entorno  de  desarrollo  que  protege  al  planeta.  Ya  que  contribuye  a  la estabilidad de las fluctuaciones climáticas y cualesquier otras calamidades que se presentan en cara al futuro.
 
-No es solamente la política interna de un estado la que hace posible llegar a los estándares que se requieren para lograr mayores niveles de desarrollo económico, sino que se necesita la participación articulada de todos los individuos en una población  determinada. El nacimiento  de un  proyecto  social que ayude al mejoramiento de los recursos disponibles se forja en la mente de cualquier persona, sin importar si pertenece o no a la clase política o algún colectivo social,
-
-290
-
-o si es una persona natural que no pertenece a ninguna afiliación o partido. No es en absoluto necesario que sostenga banderas ecologistas para aportar buenas prácticas de protección ambiental. No se requiere de haber participado en intensivos  seminarios  religiosos  para  forjarse  como  persona  de  moral transparente.
+No es solamente la política interna de un estado la que hace posible llegar a los estándares que se requieren para lograr mayores niveles de desarrollo económico, sino que se necesita la participación articulada de todos los individuos en una población  determinada. El nacimiento  de un  proyecto  social que ayude al mejoramiento de los recursos disponibles se forja en la mente de cualquier persona, sin importar si pertenece o no a la clase política o algún colectivo social, o si es una persona natural que no pertenece a ninguna afiliación o partido. No es en absoluto necesario que sostenga banderas ecologistas para aportar buenas prácticas de protección ambiental. No se requiere de haber participado en intensivos  seminarios  religiosos  para  forjarse  como  persona  de  moral transparente.
 
 Es suficiente que la iniciativa le nazca desde el corazón al aspirante para que se desborde en ayudar a la gente. Aquel que siente su responsabilidad en compartir la idea que lleva en su mente, para que en su realización mejore el bien común. Esta iniciativa se debe establecer como un plan que quede en las manos que correspondan, para poner en marcha el estudio, la ejecución y la operación de dicho proyecto si merece estar bien encaminado, si merece la participación activa de la comunidad que representa.
 
@@ -52,8 +38,4 @@ Por medio del ensayo-error y aprendizaje continuo, encontrarán la mejor manera 
 
 Es por esto que se escribe este texto, no con el fin de que los estudiantes se sientan más presionados de lo que ya están en sus propias carreras, ni de que le sumen puntos contradictorios a sus propias listas de problemas, sino que se sientan capacitados para participar en la toma de decisiones desde una postura de liderazgo empresarial, donde contribuyan a la generación de empleos. Al término de su carrera académica puedan demostrar una gran experiencia y una gran capacidad en gestión de proyectos.
 
-Hasta  aquí  dejamos  este  reflexivo  como  presentación  al  Componente Emprendimientos Sociales. A partir de aquí se forja la mente de los individuos para que estén capacitados de manera adecuada en el conocimiento del desarrollo económico. Para lograr involucrar a cada individuo en el contexto de la misión personal y global, por el derecho a la participación en las circunstancias actuales,
-
-291
-
-desde la acción y desde el deber, aprovechando las oportunidades que nos da la tecnología y el acceso a la red de información.
+Hasta  aquí  dejamos  este  reflexivo  como  presentación  al  Componente Emprendimientos Sociales. A partir de aquí se forja la mente de los individuos para que estén capacitados de manera adecuada en el conocimiento del desarrollo económico. Para lograr involucrar a cada individuo en el contexto de la misión personal y global, por el derecho a la participación en las circunstancias actuales, desde la acción y desde el deber, aprovechando las oportunidades que nos da la tecnología y el acceso a la red de información.

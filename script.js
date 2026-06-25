@@ -163,6 +163,8 @@ const componentesData = [
 //  REFERENCIAS DOM
 // ================================================================
 const circleMap = document.getElementById('circleMap');
+const circleMapWrapper = document.getElementById('circleMapWrapper');
+const lightBeam = document.querySelector('.light-beam');
 const svgEl = document.getElementById('svgConnectors');
 const centerTitle = document.getElementById('centerTitle');
 const modalElement = document.getElementById('componentModal');
@@ -183,6 +185,50 @@ let modalInstance = new bootstrap.Modal(modalElement);
 let contentModalInstance = new bootstrap.Modal(contentModalElement);
 const allButtons = [];
 const allLines = [];
+
+// AbortError benigno: play() interrumpido por pause() (TTS del navegador, extensiones, etc.)
+window.addEventListener('unhandledrejection', (event) => {
+    const reason = event.reason;
+    if (reason?.name === 'AbortError') {
+        const msg = String(reason.message || '');
+        if (msg.includes('play()') || msg.includes('play request')) {
+            event.preventDefault();
+        }
+    }
+});
+
+function pausarMediaEn(contenedor) {
+    if (!contenedor) return;
+    contenedor.querySelectorAll('audio, video').forEach((media) => {
+        media.pause();
+    });
+}
+
+function enlazarMediaSegura(contenedor) {
+    if (!contenedor) return;
+    contenedor.querySelectorAll('audio, video').forEach((media) => {
+        media.removeAttribute('autoplay');
+        media.autoplay = false;
+        const playOriginal = media.play.bind(media);
+        media.play = function () {
+            const intento = playOriginal();
+            if (intento && typeof intento.catch === 'function') {
+                intento.catch((err) => {
+                    if (err.name !== 'AbortError') {
+                        console.warn('Reproducción de media:', err);
+                    }
+                });
+            }
+            return intento;
+        };
+    });
+}
+
+function establecerContenidoModal(html) {
+    pausarMediaEn(contentText);
+    contentText.innerHTML = html;
+    enlazarMediaSegura(contentText);
+}
 
 // ================================================================
 //  GENERAR BOTONES Y LÍNEAS CONECTORAS
@@ -270,48 +316,65 @@ setTimeout(() => {
 // ================================================================
 //  LÓGICA DEL MODAL
 // ================================================================
-// Función para cargar y abrir el modal de contenido
-async function openContentModal(sub, comp) {
-    // Mostrar estado de carga
-    contentText.innerHTML = `
-        <div class="loading-state">
-            <i class="fas fa-spinner fa-spin"></i>
-            <p>Cargando contenido...</p>
-        </div>
-    `;
+let subtemaFetchController = null;
 
-    // Aplicar color del componente al modal
+function prepararContentModal(sub, comp) {
     contentModalContent.style.setProperty('--modal-accent', comp.color);
     contentModalAccentBar.style.background = comp.color;
     contentModalHeaderIcon.style.background = comp.color;
     contentModalHeaderIcon.innerHTML = `<i class="fas ${sub.icono}"></i>`;
     contentModalTitle.textContent = sub.nombre;
+}
 
-    // Codificar la ruta para manejar espacios y caracteres especiales
+function abrirContentModalCuandoCorresponda(callback) {
+    if (modalElement.classList.contains('show')) {
+        modalElement.addEventListener('hidden.bs.modal', callback, { once: true });
+        modalInstance.hide();
+    } else {
+        callback();
+    }
+}
+
+// Función para cargar y abrir el modal de contenido
+async function openContentModal(sub, comp) {
+    if (subtemaFetchController) {
+        subtemaFetchController.abort();
+    }
+    subtemaFetchController = new AbortController();
+    const { signal } = subtemaFetchController;
+
+    prepararContentModal(sub, comp);
+    establecerContenidoModal(`
+        <div class="loading-state">
+            <i class="fas fa-spinner fa-spin"></i>
+            <p>Cargando contenido...</p>
+        </div>
+    `);
+
+    abrirContentModalCuandoCorresponda(() => {
+        contentModalInstance.show();
+    });
+
     const encodedFilePath = encodeURI(sub.file);
-    // Imprimir la ruta en consola para depuración
-    console.log('Intentando cargar:', sub.file);
-    console.log('Ruta codificada:', encodedFilePath);
 
     try {
-        // Fetch del archivo Markdown
-        const response = await fetch(encodedFilePath);
+        const response = await fetch(encodedFilePath, { signal });
         if (!response.ok) {
             throw new Error(`Error al cargar el archivo (${response.status} ${response.statusText})`);
         }
         const markdownText = await response.text();
-        console.log('Contenido cargado exitosamente');
-        // Parsear Markdown a HTML con marked
+        if (signal.aborted) return;
+
         const htmlContent = marked.parse(markdownText);
-        // Insertar contenido con animación
-        contentText.innerHTML = htmlContent;
-        // Scroll to top
+        establecerContenidoModal(htmlContent);
+
         const contentModalBody = document.getElementById('contentModalBody');
-        contentModalBody.scrollTop = 0;
+        if (contentModalBody) contentModalBody.scrollTop = 0;
     } catch (error) {
-        // Manejo de errores
+        if (error.name === 'AbortError') return;
+
         console.error('Error loading subtema:', error);
-        contentText.innerHTML = `
+        establecerContenidoModal(`
             <div class="error-state">
                 <i class="fas fa-exclamation-triangle"></i>
                 <p>Error al cargar el contenido: ${error.message}</p>
@@ -319,12 +382,8 @@ async function openContentModal(sub, comp) {
                 <code>${sub.file}</code>
                 <p style="font-size: 0.9rem; color: #999;">(Consola del navegador tiene detalles técnicos)</p>
             </div>
-        `;
+        `);
     }
-
-    // Cerrar el modal de componentes y abrir el de contenido
-    modalInstance.hide();
-    contentModalInstance.show();
 }
 
 let activeComponentId = null;
@@ -403,29 +462,53 @@ contentModalElement.addEventListener('shown.bs.modal', () => {
     }
 });
 contentModalElement.addEventListener('hidden.bs.modal', actualizarPausaAnimaciones);
-contentModalElement.addEventListener('hide.bs.modal', devolverFocoRueda);
+contentModalElement.addEventListener('hide.bs.modal', () => {
+    pausarMediaEn(contentText);
+    window.speechSynthesis?.cancel();
+    devolverFocoRueda();
+});
 
 // ================================================================
-//  EFECTO PARALLAX CON EL MOUSE
+//  EFECTO PARALLAX CON EL MOUSE (solo dispositivos con puntero fino)
 // ================================================================
+const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+const hasFinePointer = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
 let mouseX = 0, mouseY = 0;
 let currentX = 0, currentY = 0;
 
-document.addEventListener('mousemove', (e) => {
-    mouseX = (e.clientX / window.innerWidth - 0.5) * 12;
-    mouseY = (e.clientY / window.innerHeight - 0.5) * 12;
-});
+if (hasFinePointer) {
+    document.addEventListener('mousemove', (e) => {
+        mouseX = (e.clientX / window.innerWidth - 0.5) * 12;
+        mouseY = (e.clientY / window.innerHeight - 0.5) * 12;
+    });
+}
 
 function updateParallax() {
-    // Solo actualizar si las animaciones no están en pausa
-    if (!isAnimationPaused) {
+    if (hasFinePointer && !isAnimationPaused && !prefersReducedMotion) {
         currentX += (mouseX - currentX) * 0.06;
         currentY += (mouseY - currentY) * 0.06;
-        circleMap.style.transform = `translate(${currentX}px, ${currentY}px)`;
+        circleMapWrapper.style.transform = `translate3d(${currentX}px, ${currentY}px, 0)`;
     }
     requestAnimationFrame(updateParallax);
 }
 updateParallax();
+
+// Reiniciar animación del haz al volver a primer plano (Safari/iOS pausa en background)
+function reiniciarAnimacionHaz() {
+    if (!lightBeam) return;
+    lightBeam.style.animation = 'none';
+    void lightBeam.offsetWidth;
+    lightBeam.style.animation = '';
+}
+
+document.addEventListener('visibilitychange', () => {
+    if (document.visibilityState === 'visible') {
+        reiniciarAnimacionHaz();
+    }
+});
+window.addEventListener('pageshow', (e) => {
+    if (e.persisted) reiniciarAnimacionHaz();
+});
 
 // ================================================================
 //  FONDO DE PARTÍCULAS (CANVAS)

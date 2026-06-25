@@ -2,8 +2,6 @@
 
 <!-- Páginas: 22–25 -->
 
-22
-
 Tabla de respuestas.
 
 Desarrollo del Plan Teleférico Territorio Panche
@@ -14,11 +12,7 @@ No es necesario “crear una necesidad” o establecer la oferta y demanda, para
 
 Continuando con el primer punto, crear valor tampoco es una respuesta suficiente. La respuesta más directa y corta es devolver valor. Veamos en todo caso porqué crear valor no es una respuesta adecuada; y es porque el verdadero valor de algo jamás se pierde realmente, ni ha sido posible ocultarlo o negarlo por tanto tiempo. El valor del agua (simple ejemplo), no es posible negarlo. En cuanto a la productividad de la tierra, en alguna coordenada específica, se puede ocultar el hecho de que sea fértil, pero no se puede ocultar de la tierra el hecho que sea infértil, pues si no produce nada, ni da buena cosecha, el resultado no se puede ocultar, saltaría a la vista.
 
-El valor del ser humano se puede ocultar por un tiempo, pero, las cualidades espirituales al final son liberadas en la solidaridad o las capacidades de trabajo en equipo, en la participación en proyectos que aportan desarrollo y construcción de objetivos complejos como puede reflejarse en las pirámides de Egipto, Guatemala o México. Este tipo de valor que nace del espíritu, está y seguirá estando, en el
-
-23
-
-corazón y en la mente de quienes permanecen en la fe de todos y cada uno, hacia lo más sagrado de sí mismos y hacia los demás, en el respeto mutuo y en la sana convivencia productiva.
+El valor del ser humano se puede ocultar por un tiempo, pero, las cualidades espirituales al final son liberadas en la solidaridad o las capacidades de trabajo en equipo, en la participación en proyectos que aportan desarrollo y construcción de objetivos complejos como puede reflejarse en las pirámides de Egipto, Guatemala o México. Este tipo de valor que nace del espíritu, está y seguirá estando, en el corazón y en la mente de quienes permanecen en la fe de todos y cada uno, hacia lo más sagrado de sí mismos y hacia los demás, en el respeto mutuo y en la sana convivencia productiva.
 
 Devolver el valor a algo que jamás ha perdido tal valor, significa que tendremos que transparentar nuestra actitud referente al verdadero valor de las cosas. Dedicarnos con atención, el tiempo que sea necesario, para limpiar las impurezas y dejar de falsificar las ideas alrededor del auténtico valor; que ha sido descuidado por explotación desleal, auto engaño y de la manera más peligrosa y violenta, por la ignorancia.
 
@@ -32,8 +26,6 @@ El primer destello de valor incuestionable yace oculto en el territorio en la fo
 
 El precio tan alto de lograr nuestra civilización actual, a base de enterrar a capa y espada el legado de pueblos pretéritos, que disputaron y dieron oposición a la colonización, llamada por esos pueblos, invasión. Si vemos las cosas desde esta perspectiva, hoy por hoy, nuestra conciencia, sí o sí, debería sentir lo mismo que los actuales miembros de la iglesia, al pensar en las atrocidades cometidas por inquisidores en su tiempo.
 
-24
-
 Tanto  católicos,  como  protestantes,  al  reconocer  el  abuso  por  sus conocimientos, poder y autoridad, se pueden permitir un atisbo mínimo de desdén a ese cruel proceder y dado el caso que pudieran sentir pena o vergüenza, sería más legítimo, que pretender recurrir a una postura ideológica y fanática que se justifique para purgar al mundo por el concepto de pecado, llevando otra vez a los individuos a la hoguera y dejándolos arder hasta su muerte.
 
 Dentro de esta misma perspectiva, los alemanes, para continuar con el mismo ejemplo, actualmente no se sentirían orgullosos de las atrocidades perpetradas por los nazis contra el pueblo judío.
@@ -46,8 +38,6 @@ El punto claro es reconocer nuestras raíces mestizas (aun cuando no se hubieran
 
 Si reconocemos una extinción completa a una población nativa ancestral dentro de un territorio, y somos conscientes de que no podemos “repararlos”, por lo menos, culturalmente sí podemos salvaguardar la memoria de ellos como antepasados, que lograron mantener armonía con la naturaleza dentro de los términos de su propia cosmogonía, ya que es un legado que trasciende nuestras generaciones.
 
-25
-
 Entonces tenemos la respuesta a la pregunta: ¿Para qué implementar un proyecto y llamarlo Territorio Panche? Y la respuesta sin dilación es: porque panches eran quienes habitaron el territorio, antes, durante y posterior a la colonización, y como resultado a su oposición, recibieron la casi completa extinción.
 
 Y como ya se escribió aquí, si no podemos repararlos, por lo menos podemos lograr que la memoria del mundo los recuerde o los redescubra. Jean-Francois Champollion, redescubrió Egipto y posteriormente, gracias a la egiptología se les devolvió la grandeza a los faraones; así también nosotros podemos ubicar en la memoria global la resistencia y el valor del pueblo Panche, entre el legado de conocimientos de la humanidad que les corresponde, no porque hubieran dejado a la posteridad construcciones semejantes a las pirámides, sino porque estaban en relación de armonía con la naturaleza y dejaron un entorno de abundancia y fertilidad paradisíaca.
@@ -56,4 +46,4 @@ Nuestro territorio es el asentamiento de los Dioses Panche. Y si en la població
 
 ¡QUE VIVA EL TERRITORIO PANCHE! Añadido a esto, no sobra aclarar de manera relevante que ningún costo de implementación  será  suficiente  para  saldar  una  conciencia  que  busca transparencia y revivir el verdadero valor de un pueblo milenario. Sin embargo esta deuda es cultural, no en especie. No significa que se va devolver el pasado o el territorio a las culturas sobrevivientes. De hecho hay que usar este compendio para que las culturas no piensen ni por un segundo en tomar medidas de desorden social y ataque a la civilización, se tiene que encontrar el equilibrio.
 
-Tarea: Ver significado de la palabra UBUNTÚ
+Tarea: Ver significado de la palabra UBUNTÚ.

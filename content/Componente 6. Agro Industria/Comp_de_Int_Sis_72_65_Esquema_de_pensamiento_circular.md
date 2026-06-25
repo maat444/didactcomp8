@@ -2,21 +2,13 @@
 
 <!-- Páginas: 369–371 -->
 
-369
-
-6.5 Esquema de pensamiento circular
-
 Qué es el cuerpo humano, el cuerpo planetario, cualquier cuerpo o sistema viviente, trabajando solo en una parte, sino un lisiado. Lamentablemente para el ejemplo, muchas personas creen que pueden producir bienestar trabajando así sus pensamientos.  Cuando  en  realidad  la  forma  de  entender  y  desarrollar  la inteligencia y la creatividad es un movimiento de errores e intentos de superarlos. Para  poder  funcionar  bien  en  el  entorno  y  haber  llegado  tan  lejos  en  la comprensión de los componentes, es una virtud haber traído a la mente todos nuestros desagrados en contra del sistema y del anti sistema, para congregarlos y subsanar las debilidades y al mismo tiempo recalcar las fortalezas.
 
 Para no extender demasiado el dogma de las ideologías sobre el uso sabio de la economía, se requiere dominar las emociones desbordadas y reconciliar puntos de vista aparentemente contradictorios. Esto se refiere al hecho de trabajar en conjunto las iniciativas, tanto de las llamadas ideologías de izquierda como las de derecha, pues en última instancia son simplemente ideologías humanas, en el vasto océano de la comprensión del conocimiento infinito. Haciendo uso del examen básico de los componentes, se puede extraer lo bueno y desechar lo malo de cada ideología, a fin de poner un filtro a las impurezas que contaminan el sano funcionamiento y la armonía de los ecosistemas naturales y humanos.
 
 Se pensará, muy habitualmente, que no es posible reconciliarnos y limar nuestras actitudes, adeptas a una ideología de oposición o a favor de cualquier movimiento, en el trascurso de una dirigencia nacional. Esto es una cuestión de legítima delicadeza y que requiere todo nuestro potencial de discernimiento. A veces no se trata solo de actitud, pues la actitud puede ser simplemente una tendencia temporal. En cambio, permitirse hacer trabajo conjunto con el enemigo se traduce en una tregua mientras se toman medidas frente a un enemigo común, lo cual no es fácil, ni se da rápidamente. De hecho, sin haber un motivo para hacer al enemigo parte de un trabajo conjunto, no se obtiene realmente garantías de una tregua. Es decir que, sin algo más grande que garantice la realización de soluciones a las problemáticas actuales, la guerra continúa su despliegue.
 
-Podemos hasta cierto punto, obtener una vinculación desde varios frentes de acción, que permitan obtener ventajas para todos. El proceso de reconocimiento para cuidar el planeta, en lo que respecta a una conflagración inesperada como la pandemia 2019 o en un asunto de emergencia como son las inundaciones o los terremotos, requerimos de todos en la mayor medida posible, colaborar y dejar de
-
-370
-
-lado las diferencias de pensamiento momentáneamente. Máxime cuando hay víctimas de por medio, es cuando necesitamos estar más unidos.
+Podemos hasta cierto punto, obtener una vinculación desde varios frentes de acción, que permitan obtener ventajas para todos. El proceso de reconocimiento para cuidar el planeta, en lo que respecta a una conflagración inesperada como la pandemia 2019 o en un asunto de emergencia como son las inundaciones o los terremotos, requerimos de todos en la mayor medida posible, colaborar y dejar de lado las diferencias de pensamiento momentáneamente. Máxime cuando hay víctimas de por medio, es cuando necesitamos estar más unidos.
 
 Ahora es cuando más podemos fortalecer la ayuda mutua, ya que el mundo entró  en  la  etapa  de  conocimiento  global.  De  hecho,  la  llamada  ayuda humanitaria, se mueve más rápidamente ahora gracias a los avances tecnológicos y a la velocidad de la información. La actitud de mantener en secreto los conocimientos productivos y esconderlos de la gente solo por pensar que no los merecen o que no están capacitados para entenderlos, es contraproducente. Esto último se refiere a quienes batallan ideológicamente en las redes por tener la última palabra y demostrar cuánto saben sobre las situaciones, pero no educan adecuadamente a la población, ni ofrecen verdadera información que sirva para acabar con los problemas.
 
@@ -24,11 +16,7 @@ En  este  punto  el  desarrollo  logrado  ha  traído  muchísimas  garantías  
 
 El desarrollo nos ha hecho un bien y esto es algo que podemos tanto verificar como vivir experiencialmente En el extremo de la vida en desarrollo, se acopia una humanidad que se adapta al extremo de los ambientes naturales y que resiste sin modificar su entorno. Aunque mantienen una calidez familiar y la felicidad surge en forma simple, su calidad de vida siempre es muy austero que a veces raya en la miseria. En otro apartado hemos desarrollado de manera más consciente la cultura alrededor de la pobreza, por lo tanto, no es necesario profundizarlo aquí. En todo caso, debemos admitir que, aunque no es del todo correcto afirmar que el pobre es pobre porque quiere, tampoco podemos negar que las condiciones de vida de cada individuo, corresponden más a las decisiones que a las necesidades. También se tomará en cuenta que la información adecuada para una toma de decisiones acertada, hace la diferencia.
 
-En estas exposiciones la palabra pobre o vulnerable no tienen ningún sentido o significado objetivo, ya que el ser humano es fundamentalmente parte del gran ecosistema planetario. En un grado o en un nivel de cultura bastante alto, lo suficiente como para ser consciente de la urgencia de adoptar medidas que sirvan
-
-371
-
-para ayudar a la población en el planeta, el ser humano forja un espíritu inquebrantable que se permite ayudar a solucionar los problemas en lugar de ser una víctima más.
+En estas exposiciones la palabra pobre o vulnerable no tienen ningún sentido o significado objetivo, ya que el ser humano es fundamentalmente parte del gran ecosistema planetario. En un grado o en un nivel de cultura bastante alto, lo suficiente como para ser consciente de la urgencia de adoptar medidas que sirvan para ayudar a la población en el planeta, el ser humano forja un espíritu inquebrantable que se permite ayudar a solucionar los problemas en lugar de ser una víctima más.
 
 El ser humano continuamente se enfrenta a retos cada vez más grandes. En este punto debemos considerar la misión de manera objetiva y garantizar un mundo libre para la posteridad. Así la persona no sepa leer ni escribir, así sepa o no programar, así sepa o no hablar en cualquier idioma, así sea sordo o ciego, así sea gordo o flaco, así sea alto o bajo, así tenga cualquier color de piel o carezca de pigmentación cutánea, se vienen siempre grandes retos para los cuales estar unidos como habitantes del planeta nos permite prepararnos para enfrentar las hostilidades que se presenten.
 

@@ -2,10 +2,6 @@
 
 <!-- Páginas: 335–348 -->
 
-335
-
-5.9 La voz de los jóvenes
-
 Gracias al movimiento de la motivación personal, hoy en día, le damos todo el poder a los jóvenes haciéndoles creer que son los herederos del futuro para empoderarlos y que con la simple característica de ser jóvenes ya sientan que están preparados para tomar las riendas del mundo actual y del porvenir.
 
 Debemos  mejorar  la  propuesta  conductual  y  centrar  sus  razones objetivamente,  ya  que  al  decirles  que  son  el  mañana  en  realidad  están malentendiendo lo que deben hacer. Pues siendo aun tan chicos, como ya se ha dicho, ponen la mayor parte de su enfoque en reclamar derechos que en ver cuáles son sus responsabilidades. Dicho enfoque debe estar concentrado en prepararse todos los días para recibir el mundo que se les viene encima cargado de todo tipo de problemáticas.
@@ -18,8 +14,6 @@ Los jóvenes rebeldes son más propensos a ser incitados e instrumentalizados po
 
 Las acciones pertinentes que requieren ser aplicadas a las problemáticas, están muy lejos del campo del desorden social, el caos mediático de información o la división ideológica entre la población. Tampoco ayuda ni benefician mucho las marchas supermasivas que promueven el desprestigio de los entes de control y de las figuras que han servido al país, sobre todo en cuestiones de mantener la seguridad nacional bajo control.
 
-336
-
 La gran herramienta llamada redes sociales, una de las ventajas que tienen los jóvenes actualmente en comparación al mundo antiguo, se ha convertido en un mecanismo de gestionar citas para verse en masa, salir a bloquear las vías y debilitar la producción o distribución comercial, en ves de ser hacer de ellas un canal para el crecimiento empresarial y el desarrollo de proyectos. Eso quiere decir que en manos de la rebeldía juvenil, se toma una herramienta actual y esta es usada para promover los mismos desordenes del pasado. La masa crítica está siendo ralentizada por las tendencias a perpetuar su conducta de autodestrucción. En vez de crear empresas, quieren destruir las que existen. En vez de crear riqueza, quieren acabar con quienes la generan. En vez de combatir su propia pobreza, la romantizan y se escudan en ella. Así reafirman su merecimiento a ser tratados como víctimas descuidando el cultivo y crecimiento de su verdadero potencial.
 
 Culpar de todo al gobierno (sea el actual, el de hace décadas, el de hace centurias), no sirve de nada para mejorar la imagen y la productividad de un país. Mirarse muy poco o nada a sí mismo, como la causa que empeora o mejora las situaciones, cuyo efecto colateral trasforma la economía local y nacional, deja un daño que cuesta tiempo y dinero en reparar.
@@ -29,8 +23,6 @@ El uso legítimo del derecho a la protesta hasta cierto punto puede servir como 
 Cabe destacar que existe una fuerza que atrapa a los jóvenes rebeldes como marionetas  al  servicio  de  organismos  internacionales  que  sacan  provecho ideológico  de  la  inestabilidad  de  los  países  en  desarrollo.  Estos  individuos “influenciables”, a veces financiados por ONG’s internacionales, nunca buscan convivir en armonía con el estado de derecho de ningún país. Bajo cualquier pretexto amenazan con quemar las ciudades, acabar con la libertad de comercio y libre mercado, paralizar toda la producción, saquear almacenes y abolir la propiedad privada.
 
 Los jóvenes no serán el futuro porque se paren a detener balas de la fuerza pública  provocada  en  disturbios  violentos  o  por  creer  que  participar  en agitaciones de tendencias temporales los hace libres. Explotados en su estallido emocional, víctimas de sí mismos por sometimiento a agendas que desconocen o que practican bajo una capucha.
-
-337
 
 Las riendas del mundo y del futuro siguen y seguirán estando siempre en los adultos, de hecho y por derecho, quienes son responsables, por ser padres y madres de familia, quienes ‘pagan las cuentas en la sociedad’. Desde una óptica visionaria, el futuro real del mundo les pertenece a las generaciones venideras y son los niños que aún no han nacido, ni están por nacer.
 
@@ -44,8 +36,6 @@ Reclamar derechos cuando estos no están equiparados a sus responsabilidades es 
 
 Algunas personas pretenden defender y exaltar a la mujer por encima del hombre (una especie de matriarcado ‘new age’) en teoría, pero en la práctica ni siquiera se identifican con un género. Es decir que, se están desligando de la importancia de la figura paterna y materna por pertenecer a una tendencia temporal ideológica. Pensando que hacen más, hacen menos a la naturaleza humana; le restan potencial.
 
-338
-
 Para mezclar esta reflexión con un toque de humor sarcástico, hay mujeres que se hacen pasar por hombres. Pero en una pelea, si un hombre de verdad las agrede saldrán a reclamar sus derechos o harán marchas para denunciar la violencia contra al mujer. En el lado opuesto si un hombre se hace pasar por mujer y en una pelea este golpea a una mujer ya saldrán los colectivos feministas a agitar sus panfletos en denuncia de violencia contra la mujer. Pretenden cambiar los roles pero en las consecuencias se victimizan, lo cual es una gran incoherencia.
 
 Avanzando en esta reflexión sobre las absurdas ideologías que reclutan a los jóvenes, por parte de algunos colectivos que ocupan las protestas y que terminan en desmanes, (se hace esta referencia por el simple acto de mantener memoria sobre hechos inauditos que desconciertan por su contradicción), en Bogotá, en el último año del gobierno Duque, las marchas fueron tomando signos de violencia que se concentraron contra la iglesia de la séptima con avenida Jiménez. Un colectivo feminista quería expresar su rechazo por el patriarcado que la iglesia mantiene en su cosmogonía eclesiástica.
@@ -56,8 +46,6 @@ Una clase de odio irracional es el que intenta quemar las puertas de una iglesia
 
 Otra descabellada actuación, fue la arremetida de un grupo de jóvenes, que se ensañaron contra mujeres de la policía nacional que estaban custodiando edificios del estado. Los individuos que atacaron estas patrulleras, no sentían nada de empatía por los valores que presumen defender. Abandonaron el respeto a la mujer y a la libertad de pensar diferente, lo único que desbordaba en ellos era la brutalidad y falta de dominio personal.
 
-339
-
 Estas menciones para nada honoríficas, se hacen de manera general sin demasiados detalles, solo para introducción del tema que nos ocupa, en cuanto a la promulgación del joven como actor del cambio social en la actualidad. Supuesto dueño y heredero del futuro. Lo cual los expone en su máxima capacidad de ignorancia y desigualdad en cuanto al ser humano mismo en su potencial. Como pueden afirmar que son el futuro, pero al mismo tiempo están negando la sabiduría de toda la generación que les está dando de comer, solo han demostrado su incapacidad para heredar realmente la responsabilidad de ocuparse de los problemas reales y que sean capaces de proyectar soluciones. Simplemente no están preparados.
 
 Un tipo de rebeldía juvenil contra la familia, proviene de una programación mental (dogma-paradigma) que se repliega en sus propios traumas de la infancia y adolescencia (aquí algunos psicólogos blandengues les secundan sus arrebatos a los jóvenes y se hacen cómplices). Los individuos ‘empoderados’ con cápsulas psicológicas  piensan  que  no  necesitan  escuchar  a  sus  viejos,  respetarlos  y admirarlos. Toda autoridad por encima les arrebata el orgullo y los expulsa hacia una impulsividad que reacciona con rebeldía.
@@ -67,8 +55,6 @@ Hay que notar en los jóvenes la actitud con la que tratan a individuos de mayor
 Ignorando el contexto histórico de cada persona y el pensamiento de cada viejo, de sus intereses, de su propia experiencia y perspectiva, las iniciativas de desprestigio enfocan una rabia creciente, apelando a una postura ideológica de que los viejos no entienden los nuevos cambios, lo cual es completamente desatinado, ya que precisamente los viejos son las personas que conocen mejor los verdaderos valores del ser humano y comprenden muy claramente en qué aspectos morales los jóvenes están equivocándose, precisamente porque lo han vivido.
 
 El estado juvenil es temporal. Actualmente el “pasajero” juvenil comprende los valores comparándolos a su adicción a las redes sociales y acceso a la tecnología. Es decir, siente que comprende el mundo mejor que los adultos por tener las fuentes de información a un clic de alcance y haber viajado por las culturas del mundo desde la pantalla de su equipo de cómputo o interfaz de usuario.
-
-340
 
 Un valor muy sencillo de estas edades avanzadas y de la vejez, es justamente su edad. La cual puede ser difícil de alcanzar para estas nuevas generaciones que experimentan con la locura en su juventud, con un sinfín de sustancias nocivas. Esta equivocación juvenil de contradecir los valores de los viejos, es copiada por la mayoría de personas que carecen de personalidad individual y caen de manera constante en las tendencias de otros.
 
@@ -82,11 +68,7 @@ Ahora, como evidencia natural, podemos verificar que los niños sí están conec
 
 Ningún  joven  o  adulto,  tiene  derecho  de  censurar  a  los  pequeños  en crecimiento, haciendo lo que sea que haga como figura de mayor edad, para convencerlos de que lo que está haciendo como persona mayor es lo correcto o no, porque psicológicamente el niño sabe cuándo alguien miente y siente cuando algo no está bien.
 
-Se puede discutir esto último en las salas de cirugía de los especuladores psicológicos. En edades posteriores al desarrollo de la sexualidad, el individuo cae más fácilmente en los placeres inmediatos y deja de ser un maestro para dar paso
-
-341
-
-al animal que todos llevamos en el cuerpo y en el cerebro. Antes de esa caída el ser humano en su infancia es más espíritu que cuerpo, a pesar de que sus reacciones corporales le están exigiendo siempre sobrevivir.
+Se puede discutir esto último en las salas de cirugía de los especuladores psicológicos. En edades posteriores al desarrollo de la sexualidad, el individuo cae más fácilmente en los placeres inmediatos y deja de ser un maestro para dar paso al animal que todos llevamos en el cuerpo y en el cerebro. Antes de esa caída el ser humano en su infancia es más espíritu que cuerpo, a pesar de que sus reacciones corporales le están exigiendo siempre sobrevivir.
 
 El desvío de la juventud comienza cuando el individuo cree que sabe más que los demás. Luego se da cuenta que sólo logra empeorar su vida. Si se rodea de individuos que le alienten en su desvío, llegará más lejos en su largo camino de equivocación, hasta que siendo adulto y cada vez más viejo, empiece a dar algunos pasos y avances que le permitan mirar atrás, hasta reconocer su inadecuada elección (de amigos y pensamientos), si es que no se empecina en defender sus traumas de infancia y juventud, llevando hasta la tumba lo que falsamente asume como carácter, puede disponer de un tiempo para rectificarse.
 
@@ -94,11 +76,7 @@ Esto no es un intento de hacer que el ser humano se arrepienta de algo que no ti
 
 Aunque tengamos cuidado en no generalizar, podemos ver los alcances de la juventud y su débil crecimiento emocional o su gran autoengaño intelectual. De nuevo, no deberían los jóvenes usar la información simplemente para realizar protestas y sentir que poseen la excusa perfecta basada en sus quejas, para ralentizar su propio desarrollo interno y desperdiciar su potencial espiritual.
 
-Mal entender las herramientas que tienen a disposición, para promover desmanes y desorden social, desde todas las perspectivas afectando la totalidad y cuyo provecho solo alcanza a unos pocos individuos o a partidos políticos que se benefician de esto, es un problema que se resuelve desde la comprensión misma de cada persona y especialmente de los estudiantes que no quieren ni desean ser usados como fichas sin valor en un juego de estrategias de guerras e intrigas políticas. Históricamente siempre han existido colectivos de protestas, pero ahora existe la red de conocimientos para llevar información con un clic a cualquier
-
-342
-
-rincón del mundo con una conexión a internet. Lo cual nos pone en la situación de tomar elecciones personales que van desde participar externamente en los movimientos en masa para fortalecer las élites o cultivarnos internamente para fortalecernos a nosotros mismos.
+Mal entender las herramientas que tienen a disposición, para promover desmanes y desorden social, desde todas las perspectivas afectando la totalidad y cuyo provecho solo alcanza a unos pocos individuos o a partidos políticos que se benefician de esto, es un problema que se resuelve desde la comprensión misma de cada persona y especialmente de los estudiantes que no quieren ni desean ser usados como fichas sin valor en un juego de estrategias de guerras e intrigas políticas. Históricamente siempre han existido colectivos de protestas, pero ahora existe la red de conocimientos para llevar información con un clic a cualquier rincón del mundo con una conexión a internet. Lo cual nos pone en la situación de tomar elecciones personales que van desde participar externamente en los movimientos en masa para fortalecer las élites o cultivarnos internamente para fortalecernos a nosotros mismos.
 
 Mientras la masa influenciable marcha como redil y sirve de cortina para un show mediático, los individuos que trabajan internamente en desarrollarse han creado internet. Mientras unos marchan en las calles sufriendo como víctimas, en algún  garaje  encerrado  hay  alguien  que  ha  creado  drones.  Mientras  otros marchan, alguien ha creado negocios que dan oportunidades en todo el mundo a las personas naturales gracias a la red informática, y todo esto no lo han hecho los que apoyan y promueven las marchas, sino los que trabajan, sea desde casa, en garajes o incluso en las calles, sin perder un solo segundo de tiempo de su vida.
 
@@ -107,8 +85,6 @@ Mientras marchan algunos, muchos otros promueven emprendimientos y adquieren  po
 Este tipo de individuos cuyo espíritu juvenil es inmortal e incorruptible, todavía usaron este estado horrible de su país para propulsar sus metas y lograr realizarlas en el tiempo que sea posible, a veces les ha tomado décadas de dedicación bajo un plan riguroso de trabajo constante, sin descansos, sin reclamos, pero sobre todo sin excusas. Ya que culpar a los demás es fácil, pero lograr cambios significativos en el mundo es un compromiso y una gran responsabilidad que no admite señalamientos a nadie excepto a sí mismos cuando hay fallas, con la capacidad de corregir los propios errores y conseguir superarlos sobre la marcha.
 
 Elon  Musk,  en  medio  de  burlas  de  empresarios  de  su  época,  continuó trabajando para hacer funcional un vehículo alimentado con electricidad, contra todo pronóstico lo logró a pesar de las dificultades todavía existentes en el tránsito de las energías fósiles hacia las renovables. Los colectivos universitarios no comprenden del todo los alcances de una determinación como esta, ya que están limitados a puntajes y exámenes. El ingeniero (Elon Musk se autodetermina más como un ingeniero que como un empresario), ha manifestado públicamente que no se requiere un título universitario, pero definitivamente se requiere un gran compromiso y suficientes conocimientos para adquirir experiencia, fallar y seguir intentando  hasta  tener  éxito.  Tras  décadas  de  trabajo  consistente  logró demostrarlo y hoy es uno de los principales magnates de la industria espacial.
-
-343
 
 Un individuo como Jack Ma, en cuya infancia sobrevivió a la pobreza, ha sido capaz de generar un negocio global, dominando con persistencia las herramientas de tecnología actuales y adaptándose a las oportunidades que ofrece el mundo en el  ‘Ecommerce’,  ha  logrado  contribuir  al  PIB  de  su  país  y  mejorar  las oportunidades de empleo y de acceso al comercio, aún más de lo que podemos comprender nosotros aquí en occidente.
 
@@ -122,11 +98,7 @@ La lista puede ser tan larga como quieran (mujeres empresarias, artesanos que re
 
 Muchas personas se han agregado a los manifestantes en las protestas por todo el  mundo  (se  dejan  convencer  de  que  eso  es  hacer  historia),  ninguno  ha demostrado que esa vía desarrolle o genere oportunidades de empleo, o que fortalezca la economía del país donde se reclama. Lo que sí se demuestra, es la subida de los precios en productos porque la cadena de abastecimiento sufre pérdidas y algunas cosechas se pierden por la duración de los bloqueos. Las pérdidas afectan a los productores, pero también a los consumidores.
 
-La estabilidad económica comienza desde el trabajo en el interior de cada individuo que se pone una meta y la cumple por el bienestar de todos. Con el compromiso y la responsabilidad siempre dispuestos, trabajando sin paros, ni
-
-344
-
-quejas. Ya es suficiente circo el que han hecho los jóvenes que se salpican de sangre por defender en las protestas a las élites que les instigan a aprovechar el desorden para difundir inconformismo que se propaga por medio del ataque a las instituciones y fragmenta el núcleo social.
+La estabilidad económica comienza desde el trabajo en el interior de cada individuo que se pone una meta y la cumple por el bienestar de todos. Con el compromiso y la responsabilidad siempre dispuestos, trabajando sin paros, ni quejas. Ya es suficiente circo el que han hecho los jóvenes que se salpican de sangre por defender en las protestas a las élites que les instigan a aprovechar el desorden para difundir inconformismo que se propaga por medio del ataque a las instituciones y fragmenta el núcleo social.
 
 Los promotores de las protestas no garantizan el bienestar personal de los jóvenes. Pero cualquier represión por parte de las autoridades les sirve para perpetuar el desorden social y consolidar el discurso de odio que confirma y alienta la protesta violenta. Culpan a la policía y al gobierno de su país, pero no se culpan a sí mismos por someter y manipular a los jóvenes desde los colectivos de odio y las guerrillas urbanas.
 
@@ -136,11 +108,7 @@ En cualquier casa, una madre lea da la bendición a sus hijos cuando éstos van 
 
 No  están  protestando,  sino  creando  una  guerra  desigual  donde  salen perdiendo. Como los jóvenes no están preparados para aceptar sus bajas durante sus desmanes en las protestas, van con los medios a llorar y culpar a los integrantes de las autoridades nacionales. Es suficiente teatro juvenil que ha pretendido manipular la información o lo que llaman verdad.
 
-Los estudiantes y los individuos jóvenes, que quieren aportar un cambio que mejore al mundo desde sus acciones en contra de las políticas públicas de cualquier partido, están equivocados por más que se les garantice su derecho a protestar, de tomar ese derecho para hacerse víctimas, pues están actuando en contra de su potencial, se están exponiendo a ser neutralizados, perdiéndose la oportunidad de aportar algo realmente significativo al mundo. El derecho a protestar es como dotar a un niño del derecho a llorar, pues efectivamente puede llorar todo lo que quiera, pero si decide dejar de llorar y hacerse “grandesito”,
-
-345
-
-tendrá que controlarse y manejar sus emociones, a fin de que pueda desarrollar las capacidades conscientes de su mente superior.
+Los estudiantes y los individuos jóvenes, que quieren aportar un cambio que mejore al mundo desde sus acciones en contra de las políticas públicas de cualquier partido, están equivocados por más que se les garantice su derecho a protestar, de tomar ese derecho para hacerse víctimas, pues están actuando en contra de su potencial, se están exponiendo a ser neutralizados, perdiéndose la oportunidad de aportar algo realmente significativo al mundo. El derecho a protestar es como dotar a un niño del derecho a llorar, pues efectivamente puede llorar todo lo que quiera, pero si decide dejar de llorar y hacerse “grandesito”, tendrá que controlarse y manejar sus emociones, a fin de que pueda desarrollar las capacidades conscientes de su mente superior.
 
 Entonces, si de verdad los jóvenes quieren ser tomados seriamente, en cuanto a su participación en la toma de decisiones en la sociedad, serán capaces de entender,  que  deben  (antes  de  reclamar  derechos),  comprometerse  con  la responsabilidad  de  la  misión  de  desarrollar  sus  propias  capacidades  en  el autodominio para ser quienes aportan soluciones y crean oportunidades como la generación de empleos y otras características de los emprendimientos sociales.
 
@@ -150,11 +118,7 @@ El digno representante de la educación superior, no depende solamente de una co
 
 Siendo  representantes  de  la  educación  superior  se  cuidarán  de  estar justificando  sus  malas  conductas  por  la  influencia  de  tratados  o  acuerdos enmascarados de protección ambiental, que les permite sentirse inspirados para participar en protestas que derivan en desordenes y turbas agresivas. Ya que al actuar así, se mantienen en una postura de permisiva comodidad, cuyas quejas son auto saboteo, porque su actitud no es coherente para lograr soluciones a las problemáticas sociales y ambientales.
 
-El proceder correcto desprende a su vez del sentido común. Si por cada empresa que destruye los medios y ecosistemas naturales, ustedes los estudiantes crean diez, cien o mil emprendimientos de empresas que contrarresten las emanaciones tóxicas, van a neutralizar y balancear el panorama, en contraste a las empresas contaminantes que se portan mal. Si ustedes compiten en el mercado con mejores prácticas en todos los sentidos, entregan un mejor producto, brindan
-
-346
-
-una mejor experiencia para el usuario, solo podrán tener las puertas abiertas para alcanzar la cima, no por monopolio sino por resultados.
+El proceder correcto desprende a su vez del sentido común. Si por cada empresa que destruye los medios y ecosistemas naturales, ustedes los estudiantes crean diez, cien o mil emprendimientos de empresas que contrarresten las emanaciones tóxicas, van a neutralizar y balancear el panorama, en contraste a las empresas contaminantes que se portan mal. Si ustedes compiten en el mercado con mejores prácticas en todos los sentidos, entregan un mejor producto, brindan una mejor experiencia para el usuario, solo podrán tener las puertas abiertas para alcanzar la cima, no por monopolio sino por resultados.
 
 Si en vez de llenar las calles de palabrería y lentitud; si en vez de crear un montón de canales en las redes sociales para desintegrar el núcleo social, crean redes de apoyo a sus nuevos proyectos y emprendimientos sociales dentro de un marco  legal  nacional  e  internacional,  tendrán  la  oportunidad  de  crecer económicamente, mejor y más rápido. En un momento dado, por persistencia y empeño pueden llegar a ser quienes dominan el mercado en su sector.
 
@@ -164,14 +128,8 @@ Si en Colombia en 2025 egresaron de las universidades alrededor de doscientos mi
 
 Lo anterior no es una crítica, es el camino a seguir. Es el flujo natural de los componentes. Ya  saben que el norte de los componentes es la protección ambiental y que en este orden natural nadie se queda atrás. Trabajen con inclusión social de la verdadera, sin ideologías radicales y tengan en cuenta que deben  mantener  activa  la  participación  de  diferentes  sectores  para  que  la economía  se  fortalezca.  Mantengan  conscientemente  un  panorama  de  los componentes estudiados articulándolos entre sí de la manera correcta por el bienestar de la sociedad, por la hermandad de los pueblos y los territorios. Lo cual disparará hacia mejores niveles la educación; trabajando desde la cultura aplicada, de forma permanente, sin discusión, ni argumentos fabricados para sacar excusas, el desarrollo sigue su propio curso de evolución.
 
-Llegamos a un punto donde se hace evidente que un país se convierte en potencia, por las iniciativas organizadas de su gente enfocadas en lograr el
-
-347
-
-desarrollo a mediano y largo plazo; los candidatos políticos o el dirigente, en ultima instancia solo pueden ralentizar el desarrollo o dejarlo avanzar. Por otra parte tampoco son los banqueros quienes detienen a las personas para que puedan sacar el mayor provecho a sus inversiones. Y también por otra parte, nosotros los individuos, jóvenes, adultos y viejos, somos los que debemos construir un país sin intimidarnos por las leyes de impuestos. Teniendo en cuenta estas tres cosas, el miedo o el rechazo al emprendimiento disminuye.
+Llegamos a un punto donde se hace evidente que un país se convierte en potencia, por las iniciativas organizadas de su gente enfocadas en lograr el desarrollo a mediano y largo plazo; los candidatos políticos o el dirigente, en ultima instancia solo pueden ralentizar el desarrollo o dejarlo avanzar. Por otra parte tampoco son los banqueros quienes detienen a las personas para que puedan sacar el mayor provecho a sus inversiones. Y también por otra parte, nosotros los individuos, jóvenes, adultos y viejos, somos los que debemos construir un país sin intimidarnos por las leyes de impuestos. Teniendo en cuenta estas tres cosas, el miedo o el rechazo al emprendimiento disminuye.
 
 Si la corrupción sigue o no, permeando su existencia entre los dirigentes; si las organizaciones armadas siguen delinquiendo, todo lo podemos arreglar nosotros. Si trabajamos juntos en el crecimiento y desarrollo personal, como de manera conjunta, podemos lograr un mejor presente que se transmita al mañana. Siendo un estado resiliente que cultiva la unidad nacional con las capacidades puestas al servicio de la mente humana y desde su potencial para construir bienestar.
 
 Cada día se libra una batalla de supervivencia, la cual logramos ganar más fácil cuando  estamos  unidos  como  individuos  y  con  el  apoyo  de  la  familia. Concluyendo, para los que han escuchado a la banda británica Pink Floid, en el final de su canción Hey You. Una frase contundente que resume este apartado y no podría terminar mejor o decirlo de otra forma: juntos permanecemos, si peleamos caeremos. No sin mencionar que uno de los miembros de la banda se ha mezclado con políticos de talante extremista para manipular a los jóvenes adeptos a su música. Sin embargo, esa frase es otra forma de decir lo que ya hemos mencionado a cerca del arte de la guerra que luego se le atribuye a como lo expresaron los romanos en la famosa frase ‘divide y vencerás’, pero que en realidad significa que si te dejas dividir estarás vencido.
-
-348

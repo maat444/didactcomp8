@@ -2,10 +2,6 @@
 
 <!-- Páginas: 129–132 -->
 
-129
-
-1.10 Medicina Holista y Alimentación Preventiva
-
 Las opiniones divididas en cuanto a los servicios de prestación de salud son muy variadas y a veces polarizadas. El sistema de los sistemas que controla más sistemas no es una redundancia. En la aplicación del sistema de salud se mueve toda la cadena comercial, legal, administrativa, etc. Cada sistema inferior responde a las regulaciones de un macro sistema, aprobado por los sistemas de justicia o por resolución.
 
 Hasta que se ha incorporado un decreto, aprobado por votación o validación, se puede entonces hacer uso de un sistema legal, que puede contener lagunas o precipicios. La medicina moderna sufre de los ataques públicos y quejas de las personas, tanto en su calidad de servicio, inexactitud en los tratamientos, como en la falta de inmediatez en la atención al usuario. Nosotros no podemos enfocarnos demasiado en las dificultades que tenga cualquier sistema de salud oficial, porque ciertamente atender a la población y tener disponibilidad de servicio inmediato y con todas las garantías de las especializaciones, es algo muy complicado de sostener en todas partes y al mismo tiempo. Este reflexivo no responde a un esquema político o sesgo ideológico.
@@ -14,11 +10,7 @@ Si en algo hemos podido avanzar al acercarnos a las primeras reflexiones del pri
 
 Habría que definir qué es negativo o destructivo, pero precisamente esto sería perderse en detalles fragmentarios y perder de vista la totalidad. Por eso este texto no pretende ser un manual de ideologías de adopción política, sino un mirador hacia una panorámica, desde donde se puede comprender la situación actual de las problemáticas inmediatas, viéndolas desde afuera, donde se pueden prever los movimientos y no desde dentro, donde se reacciona emocionalmente.
 
-Aunque haya evidencia de que el sistema de salud mundial (uno de los sistemas mejor organizados) tenga sus brechas, no puede asegurarse que cualquier otro sistema pueda cubrir estas brechas con una garantía de cien por cien con resultados favorables a cualquier paciente o a todos los pacientes en general. En
-
-130
-
-casos extremos la medicina y el personal encargado de suministrarla, pueden a veces lograr que ocurran verdaderos milagros, para mantener las condiciones de vida que puedan lograr un balance positivo para la recuperación de un individuo. Pero en todo caso, cuando la persona ya perdió toda posibilidad de mantener la vitalidad, contra la fatalidad irremediable no hay nada que hacer a través de los sistemas de medicina.
+Aunque haya evidencia de que el sistema de salud mundial (uno de los sistemas mejor organizados) tenga sus brechas, no puede asegurarse que cualquier otro sistema pueda cubrir estas brechas con una garantía de cien por cien con resultados favorables a cualquier paciente o a todos los pacientes en general. En casos extremos la medicina y el personal encargado de suministrarla, pueden a veces lograr que ocurran verdaderos milagros, para mantener las condiciones de vida que puedan lograr un balance positivo para la recuperación de un individuo. Pero en todo caso, cuando la persona ya perdió toda posibilidad de mantener la vitalidad, contra la fatalidad irremediable no hay nada que hacer a través de los sistemas de medicina.
 
 Si se quisiera articular las diferentes ramas de la medicina y la medicina de diferentes culturas, aún sería necesario hacerlo desde las bases y directrices de la medicina moderna, tal como sugiere Wong Kiew Kit, autor de El Gran Libro De La Medicina China, para que, a través del método científico moderno, se verifique la técnica y la eficacia de cada arte medicinal milenario, si es que puede comprobarse o si es que puede regularse.
 
@@ -26,11 +18,7 @@ Aunque el sistema global actual de la medicina tenga sus deficiencias, no podemo
 
 En el esquema de diagnosticar a un paciente, la medicina tradicional china, comparte varios elementos técnicos con la medicina moderna y se acerca con admirable rigurosidad al método científico moderno, se puede admitir que la medicina china sea la más adecuada forma de examinar cualquier otra rama de la medicina de cualquier cultura del mundo, para dar un informe más preciso sobre la  funcionalidad y la  eficacia de cualquier técnica aislada de las reguladas legalmente en el sistema de salud.
 
-Queda como tarea para desarrollar la cultura, responder detalladamente a la pregunta de por qué las comunidades antiguas conocieron las plantas que servían para  curar,  como  también  la  tarea  de  conocer  a  fondo  el  trabajo  de  las farmacéuticas que sintetizan los compuestos químicos de esas mismas plantas para que a posteriori se queden con los derechos de patentes. Sin pretender que esto último  sea  una  excusa  para  los  representantes  políticos  de  promover fragmentación social y odio  de clases, como tampoco que los corporativos farmacéuticos planeen su distribución sin contar con la aprobación general y a
-
-131
-
-expensas del desconocimiento general de la población. No sobra añadir a esto que las problemáticas de acceso a medicamentos, en cuanto a las farmacéuticas, no tiene que ver con el sistema de salud en sí, sino que tiene que ver con el intercambio comercial, es un aspecto económico.
+Queda como tarea para desarrollar la cultura, responder detalladamente a la pregunta de por qué las comunidades antiguas conocieron las plantas que servían para  curar,  como  también  la  tarea  de  conocer  a  fondo  el  trabajo  de  las farmacéuticas que sintetizan los compuestos químicos de esas mismas plantas para que a posteriori se queden con los derechos de patentes. Sin pretender que esto último  sea  una  excusa  para  los  representantes  políticos  de  promover fragmentación social y odio  de clases, como tampoco que los corporativos farmacéuticos planeen su distribución sin contar con la aprobación general y a expensas del desconocimiento general de la población. No sobra añadir a esto que las problemáticas de acceso a medicamentos, en cuanto a las farmacéuticas, no tiene que ver con el sistema de salud en sí, sino que tiene que ver con el intercambio comercial, es un aspecto económico.
 
 Hemos podido constatar tras el movimiento farmacéutico durante la pandemia mundial del covid-19, que la libertad de las personas se pone bajo amenaza a sanciones, simplemente por capricho y decreto de los gobernantes, para cumplir la oferta y demanda de estrategias de las multinacionales farmacéuticas y según las directrices de la OMS.
 
@@ -39,8 +27,6 @@ Como parte de esta observación, pudimos también apreciar que los resultados ne
 El enfoque de cada sistema de salud no se refiere a la calidad de prestación de servicios o a su regulación tributaria o si es privada o pública. Se refiere a la aportación de valores que desprenden del individuo. Pese a la cesura burlesca que se pueda dar en entornos de medicina clínica occidental moderna, respecto a otros sistemas  de  medicina  de  otras  culturas,  en  la  medicina  china  antigua,  sus diagnósticos y tratamientos derivan de un profundo conocimiento sobre los sistemas meridionales del cuerpo humano, animal, vegetal y planetario. Insiste en tratar al paciente para que sea capaz de restablecer los canales de energía y que esta fluya de manera natural. Por eso en algunas corrientes de pensamiento como el Taichí Chuan, suelen incorporar ejercicios de Chikung (qigong), para cultivar y equilibrar la energía vital que fluye a través del cuerpo.
 
 La medicina espiritual de la India promueve un alto grado de conexión con esferas de conciencia cada vez más altas que las del plano físico terrenal y se armoniza con el prana, que es la energía vital del ser humano que está fluyendo desde el interior hacia el universo y viceversa. El Chamanismo mantiene una conexión con los espíritus elementales de las plantas y la naturaleza y aporta su condición de estar en comunión con la naturaleza en el planeta y con los ancestros en el espacio universal.
-
-132
 
 La primera parte de este reflexivo está enfocada en las diferentes disciplinas de la  medicina  y  el  rigor  de  las  investigaciones  conjuntamente  con  lo  que correspondería a la legalidad y regulación oficial, enfatizando que se pueden articular de una manera ordenada sin perder los valores de una a otra en la práctica y dependiendo las necesidades del usuario.
 

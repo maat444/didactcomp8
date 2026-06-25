@@ -2,10 +2,6 @@
 
 <!-- Páginas: 429–431 -->
 
-429
-
-7.6 Expediciones turísticas
-
 Cada salida de la rutina deja un efecto impreso en la memoria emocional del individuo, como también deja una impresión al ecosistema natural. Cada huella, cada residuo y cada paso del ser humano, tiene su impresión en el planeta. A su vez cada lugar que visita el ser humano le deja impregnada una sensación milenaria en su propio espíritu, aunque conscientemente no se dé cuenta a simple vista, con el paso del tiempo se revela su magnitud e importancia.
 
 Cada viaje es una oportunidad para aprender y conectar con la naturaleza. Al explorar nuevos lugares, la visión espiritual se expande y retorna a su fuente. Es fundamental que los turistas sean conscientes del impacto que tienen en el medio ambiente y que adquieran conocimientos sobre los ecosistemas que visitan para poder apreciar su valor y contribuir a su conservación.
@@ -15,8 +11,6 @@ El papel del guía turístico puede aumentar su valor con tiempo y dedicación, 
 Los guías turísticos desempeñan un papel crucial en la educación ambiental. Al compartir sus conocimientos sobre la flora, la fauna y los ecosistemas locales, pueden inspirar a los turistas a valorar y proteger la naturaleza. Es importante que los  guías  estén  capacitados  para  transmitir  información  de  manera  clara  y accesible, y que fomenten una actitud de respeto hacia el medio ambiente no solo por medio de las palabras sino a través de la experiencia.
 
 La capacitación de los guías turísticos se imparte desde su propia infancia, en los entornos nativos. Debilitar o disminuir el conocimiento de su propio entorno, haría que las poblaciones nativas sean vulnerables y al mismo tiempo ellos se degradarían, descuidando su espacio natural. Por lo tanto, el conocimiento del territorio empieza por cada individuo que ve en su entorno una extensión de su propio hogar. Dado que la certificación reglamentaria está enmarcada dentro de una oferta limitada, la medida de adquisición de conocimientos debe estar disponible desde el entorno primario y familiar, por el intercambio cultural y por la conservación de la identidad y la biodiversidad.
-
-430
 
 La educación ambiental también debe comenzar desde la infancia. Al enseñar a los niños a valorar el espacio de su crecimiento, estamos fomentando una generación de ciudadanos más conscientes y comprometidos con la conservación. Las comunidades locales tienen un conocimiento profundo de su entorno y pueden desempeñarse de manera fluida en la educación ambiental, transmitiendo sus saberes a las generaciones emergentes y en el papel de guías turísticos.
 
@@ -28,11 +22,7 @@ El trabajo conjunto de la comunidad y las iniciativas puestas en operación para
 
 Desde los entornos de turismo responsable se puede ayudar a promover en los individuos, una pasión personal que incremente la actividad científica del país y también que fomente el desarrollo tecnológico para ponerlo al servicio de las corrientes de exploración al entorno inspirando nuevas olas de creación de energías renovables, robótica, proyectos de infraestructura, etc.
 
-El  turismo  responsable  es  una  herramienta  poderosa  para  el  desarrollo económico  y  social  de  las  comunidades  locales.  Al  promover  el  turismo respetuoso con el medio ambiente, podemos generar empleo, mejorar la calidad de vida de las poblaciones locales y proteger los recursos naturales. Es importante
-
-431
-
-que el desarrollo del turismo se realice de manera planificada y participativa, involucrando a todas las partes interesadas, pero también a las partes necesarias.
+El  turismo  responsable  es  una  herramienta  poderosa  para  el  desarrollo económico  y  social  de  las  comunidades  locales.  Al  promover  el  turismo respetuoso con el medio ambiente, podemos generar empleo, mejorar la calidad de vida de las poblaciones locales y proteger los recursos naturales. Es importante que el desarrollo del turismo se realice de manera planificada y participativa, involucrando a todas las partes interesadas, pero también a las partes necesarias.
 
 La  implementación  más  práctica  del  turismo  está  determinada  por  los asentamientos históricos, sean naturales o construidos por seres humanos. En el reconocimiento de las raíces ancestrales y culturales de los territorios está la clave para su adaptación al mundo globalizado actualmente que demanda un turismo de gran calidad. Esta perspectiva permite fomentar la convergencia en los atributos de los componentes fortaleciéndolos y confirmando su funcionalidad. La cultura, la educación, la historia, la protección ambiental, la inclusión social permanente, las alianzas de paz en la hermandad, son valores del espíritu humano, que están profundamente abrazadas a las raíces ancestrales, las cuales dan luz a nuestra biodiversidad.
 

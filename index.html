@@ -22,7 +22,11 @@
 
     <!-- Contenido principal -->
     <div class="main-wrapper">
-        <div class="circle-map" id="circleMap">
+        <div class="circle-map-wrapper" id="circleMapWrapper">
+            <div class="circle-map" id="circleMap">
+
+            <!-- Haz de luz rotante (elemento dedicado para compatibilidad móvil) -->
+            <div class="light-beam" aria-hidden="true"></div>
 
             <!-- SVG: Órbita y líneas conectoras -->
             <svg class="connectors-svg" viewBox="0 0 100 100" preserveAspectRatio="none" id="svgConnectors">
@@ -44,6 +48,7 @@
             </div>
 
             <!-- Botones generados por JS -->
+            </div>
         </div>
     </div>
 

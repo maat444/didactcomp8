@@ -2,10 +2,6 @@
 
 <!-- Páginas: 57–59 -->
 
-57
-
-En relación al Turismo Responsable
-
 9. ¿Cómo  podemos  expresar  de  la  mejor manera la invitación a los turistas del mundo, para obtener los resultados esperados?
 
 La  atención  y  el  trato  al  turista  es  tan  importante  como  el  cuidado  y  el mantenimiento del entorno colectivo y el medio ambiente. Tal como se conoce o se pretende conocer los prospectos o perfiles de nuevos clientes en determinado sector, a fin de brindar un mejor servicio personalizado o una mejor experiencia, también conviene conocer a mayor profundidad, las culturas de todos los países cuyos visitantes vienen a nuestros territorios.
@@ -20,11 +16,7 @@ La mejor forma de forjar relaciones bilaterales con otras naciones se da por la 
 
 Es indispensable ocuparnos de nuestra identidad interna (el ser humano es un microcosmos a escala del universo infinito), trabajando en los aspectos que podemos  corregir,  dentro  de  la  convivencia  con  nuestras  raíces  históricas, pasando la página del choque cultural que a día de hoy sigue librando batallas ideológicas,  para  poder  surgir  actualmente  como  una  civilización  con  la conciencia limpia.
 
-Así podemos ofrecer un producto, servicio o experiencia, de cultura nacional, que  trabaja  en  convivencia  con  su  propia  biodiversidad  cultural.  Dicha
-
-58
-
-convivencia sí puede expresarse como posible cuna de la paz del mundo, al menos inicialmente  como  teoría,  libre  de  especulaciones  partidistas.  Quizá  pueda tomarse a la ligera y suene pretensioso hablar de lograr la unidad nacional, consolidada en todos los sectores articulados para promover la paz y el libre intercambio de conocimientos.
+Así podemos ofrecer un producto, servicio o experiencia, de cultura nacional, que  trabaja  en  convivencia  con  su  propia  biodiversidad  cultural.  Dicha convivencia sí puede expresarse como posible cuna de la paz del mundo, al menos inicialmente  como  teoría,  libre  de  especulaciones  partidistas.  Quizá  pueda tomarse a la ligera y suene pretensioso hablar de lograr la unidad nacional, consolidada en todos los sectores articulados para promover la paz y el libre intercambio de conocimientos.
 
 Fortalecer  nuestros  hábitos  y  capacidades  en  un  ámbito  de  relación empresarial, con la educación en torno a una cultura holista, permite una reconstrucción  social  con  el  norte  de  los  componentes  que  promueve  la protección ambiental.
 
@@ -38,8 +30,4 @@ Vemos hasta el momento una propuesta de turismo que aporta de manera directa o i
 
 El propósito inicial de esto, es crear una conciencia de transparencia, romper la frágil cáscara de falsa seguridad, que parte a veces del desconocimiento y a veces desde la ignorancia, pero sobre todo que parte desde el conformismo social y  la  fragmentación  partidista  que  se  radicaliza  en  algún  polo  ideológico, perdiendo de vista la totalidad, el antes y el después, como perdiendo de vista nuestro lugar en el planeta, lo cual es visto como debilidad y con desagrado desde una perspectiva externa.
 
-Es cierto que unidos podemos lograr fortificar nuestras capacidades, con la guía de estos componentes, usar las herramientas para abrir los candados que bloquean nuestro potencial espiritual humano, simbólicamente levantar la cadena de
-
-59
-
-responsabilidad, para trabajar libremente, sin el peso de la ignorancia y el abandono.  Con  el  norte  en  la  mente  que  permanece  concentrada  y  sin distracciones en la misión, podemos avanzar hacia el potencial humano.
+Es cierto que unidos podemos lograr fortificar nuestras capacidades, con la guía de estos componentes, usar las herramientas para abrir los candados que bloquean nuestro potencial espiritual humano, simbólicamente levantar la cadena de responsabilidad, para trabajar libremente, sin el peso de la ignorancia y el abandono.  Con  el  norte  en  la  mente  que  permanece  concentrada  y  sin distracciones en la misión, podemos avanzar hacia el potencial humano.

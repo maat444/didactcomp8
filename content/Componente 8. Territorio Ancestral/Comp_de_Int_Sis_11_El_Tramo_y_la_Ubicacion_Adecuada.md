@@ -2,10 +2,6 @@
 
 <!-- Páginas: 55–56 -->
 
-55
-
-El Tramo y la Ubicación Adecuada
-
 8. ¿Por  qué  es  necesario  o  innecesario  el número correcto de municipios articulados, como un condensador de promoción cultural de los territorios en este proyecto?
 
 Al desarrollar estos componentes, para poner en bases sólidas los estamentos que garanticen el éxito en la implementación de un proyecto, como el que se propone desde el corazón de este texto, se establece como salvavidas a las iniciativas que buscan generar oportunidades de articulación regional, ya que en los textos de planes de desarrollo municipal, dentro del territorio en estudio, se evidencia la falta de iniciativas, acerca de la unidad nacional entre comunidades o poblaciones de un territorio, con los municipios aledaños, lo cual impide cerrar brechas en todos los niveles poblacionales y entre sectores, afectando el intercambio cultural, que pudiera generar beneficios mutuos.
@@ -14,9 +10,7 @@ Este compendio o simulación, se ha proyectado desde las carencias, falencias u 
 
 Al pensar en usar de manera eficiente los recursos dentro de una región determinada,  verifiquemos  los  aspectos  socioculturales  y  ambientales, disminuyendo al máximo la influencia negativa de otras regiones o de las ciudades altamente conflictivas, resguardando los territorios del desorden social, por la insistencia  en  la  cultura  fundamentalmente  afianzada,  y  por  garantizar  la protección a los valores en la población.
 
-Para delimitar la región, considerando las características compartidas de una tradición  o  legado  cultural,  que  pueda  ser  epicentro  de  información,  en representación de la cultura que abarca, se realiza una triangulación. Ya que cada asentamiento regional puede ser una extensión lo suficientemente inmensa para poder dar cobertura en su totalidad con un proyecto de infraestructura. Para esta triangulación que representa esta simulación sobre el Territorio Panche, se han tomado cuatro municipios en relación a una aparente línea recta, como se puede ver desde la vista aérea en el Google Earth.
-
-56
+Para delimitar la región, considerando las características compartidas de una tradición  o  legado  cultural,  que  pueda  ser  epicentro  de  información,  en representación de la cultura que abarca, se realiza una triangulación. Ya que cada asentamiento regional puede ser una extensión lo suficientemente inmensa para poder dar cobertura en su totalidad con un proyecto de infraestructura. Para esta triangulación que representa esta simulación sobre el Territorio Panche, se han tomado cuatro municipios en relación a una aparente línea recta, como se puede ver desde la vista aérea en Google Earth.
 
 Dadas algunas características importantes de la región y sus circunstancias históricas,  que  calan  perfectamente  en  el  ejemplo  de  conciliación,  por  la naturaleza y diversidad de aspectos icónicos, que permiten vislumbrar el alcance del enfrentamiento entre civilizaciones y el respectivo choque cultural durante la disputa por el control del territorio, se ha determinado esta clasificación.
 

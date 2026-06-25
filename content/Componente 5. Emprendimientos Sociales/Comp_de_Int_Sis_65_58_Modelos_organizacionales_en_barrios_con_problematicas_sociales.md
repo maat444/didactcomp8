@@ -2,12 +2,6 @@
 
 <!-- Páginas: 328–334 -->
 
-328
-
-5.8 Modelos organizacionales en barrios con
-
-problemáticas sociales
-
 Antes de pasar las páginas de los emprendimientos sociales hacia el siguiente componente, y a causa de permitirnos indagar sobre las soluciones pertinentes a las distintas problemáticas actuales, las cuales desprenden de una lista que va logrando acumularse en nuestra sociedad, incursionaremos sobre un tema de la mayor relevancia, un problema acentuado con el que casi nos toca convivir a diario, los barrios marginales en ciudades y zonas urbanas con altos índices de delincuencia común.
 
 Aquí la palabra común se usa en relación a una cobertura hostil que representa una amenaza constante para las familias, hacia la cual los individuos que habitan estas poblaciones sienten como el pan de cada día, les parece algo normal con lo que deben enfrentarse de manera continua, tomando medidas de prevención la mayoría de las veces, y otras tomando riesgos de aplicar la ley desde sus propias manos, exponiendo sus propias vidas por salvaguardar sus pertenencias, que se ven en situación de ser arrebatadas por personas peligrosas para la sociedad civil.
@@ -16,11 +10,7 @@ Por  una  parte,  este  reflexivo  enfatiza  la  importancia  que  tienen  los c
 
 Al enfocarnos en la cultura de las tradiciones para lograr una oferta turística responsable que se armonice con el territorio, no pretendemos concentrar nuestra imaginería en la naturaleza salvaje de los individuos o en quienes están en pie de guerra  y  que  crean  un  entorno  amenazante  para  los  transeúntes  o  los establecimientos comerciales, ya que, como estamos dispuestos a desarrollar una misión personal, encaminada a la protección ambiental, consolidada por la cultura  y  desde  la  educación  óptima  que  genera  puestos  de  trabajo  y emprendimiento social, es fundamental mantener una conducta ejemplar, no solo para sostener de manera productiva las iniciativas de los individuos dentro del territorio, sino como espejo del avance tecnológico y científico del mundo.
 
-Cualquier territorio es perfecto para promover iniciativas de emprendimiento social. Visto desde las alturas del desarrollo económico se convierte en prioridad la organización de los espacios residenciales para lograr un sentido coherente de
-
-329
-
-inclusión  social,  que  permita  a  los  proyectos  de  urbanidad  dar  mejores instalaciones de conjunto y vivienda a las personas que empiezan a desarrollar sus capacidades financieras, es de hecho un estímulo.
+Cualquier territorio es perfecto para promover iniciativas de emprendimiento social. Visto desde las alturas del desarrollo económico se convierte en prioridad la organización de los espacios residenciales para lograr un sentido coherente de inclusión  social,  que  permita  a  los  proyectos  de  urbanidad  dar  mejores instalaciones de conjunto y vivienda a las personas que empiezan a desarrollar sus capacidades financieras, es de hecho un estímulo.
 
 Cada individuo capaz de generar la responsabilidad de solventar un diario para su familia y para sí mismo desarrolla un ciclo de productividad financiera, que se inicia desde la pobreza pero que, pasa a la clase media a medida que adquiere dominio sobre el ingreso y sus gastos personales inmediatos.
 
@@ -34,11 +24,7 @@ El problema que se plantea aquí es el de la delincuencia que ataca a los comerc
 
 Sin embargo, los problemas de inseguridad tienden a disminuir a medida que el entorno adquiere mayor desarrollo comercial, ya que la población entiende que es mejor tener un negocio bien atendido con productos que requiere el mercado a estar exponiendo la libertad y la seguridad física o terminar tras las rejas. Esto es apenas un examen generalista, donde se requiere la acción de verdaderos promotores de desarrollo comercial y seguridad ciudadana, pero que puede verse reflejado para dar un buen ejemplo en la transformación de las comunas de Medellín en Colombia.
 
-Al  generar  infraestructura  con  los  requerimientos  de  salubridad  y/o comodidad para que los individuos puedan gozar de una mejor calidad de vida, la
-
-330
-
-población se irá sintiendo motivada a desarrollar una forma conveniente de convivencia en su entorno, ya sea por medios sociales, culturales o comerciales.
+Al  generar  infraestructura  con  los  requerimientos  de  salubridad  y/o comodidad para que los individuos puedan gozar de una mejor calidad de vida, la población se irá sintiendo motivada a desarrollar una forma conveniente de convivencia en su entorno, ya sea por medios sociales, culturales o comerciales.
 
 Un problema que acompaña comúnmente a la delincuencia en los barrios ocupados por la inseguridad es el flagelo de las drogas, disponibles siempre en los espacios menos intervenidos por el estado y que se ponen al alcance de los adolescentes y/o jóvenes que están en edades escolares. Lo cual toca el epicentro de la sociedad pues ataca directamente a la juventud en la edad que de estar entrenados  financieramente  podrían  aprovechar  para  ser  estratégicamente productivos.
 
@@ -48,11 +34,7 @@ Desde otra óptica, el continuo crecimiento comercial en las vías principales n
 
 Aunque es importante tener en cuenta también, que es insuficiente cultivar la motivación personal en los individuos para alentarlos a dejar el camino de las adicciones o de la delincuencia. El trabajo de padre y madre o de la familia que acompaña al individuo desde su desarrollo en la infancia tiene la responsabilidad de despertar el potencial del ser humano, antes de que el individuo se exponga a las  problemáticas  del  entorno.  Es  complicado  enderezar  la  mente  de  los individuos cuando han formado y fortalecido sus malos hábitos. Pretender con cátedras que prefieran tomar el modelo de desarrollo colectivo trabajando desde el potencial personal interno, es una desventaja desproporcional, un enfoque sumamente iluso.
 
-Por eso se espera que desde la subcultura que ellos mismos promueven (los habitantes de un barrio), se establezca una relación entre su psicología interna con el entorno, a fin de que los profesionales en la mente humana puedan contribuir en su comprensión de acuerdo a las necesidades espirituales específicas dentro de la población y en cada individuo, aun cuando no sean resueltas todas las problemáticas en un solo proyecto, se puede avanzar paso a paso en la
-
-331
-
-consolidación de oportunidades y luego ponerlas al alcance de los grupos sociales, ya sea desde el arte, desde la música, la pintura, la radio, la contracultura contestataria como la literatura, grafitis y demás o cualquier medio que ellos elijan para desprenderse de su recarga emocional y de su intoxicación interna.
+Por eso se espera que desde la subcultura que ellos mismos promueven (los habitantes de un barrio), se establezca una relación entre su psicología interna con el entorno, a fin de que los profesionales en la mente humana puedan contribuir en su comprensión de acuerdo a las necesidades espirituales específicas dentro de la población y en cada individuo, aun cuando no sean resueltas todas las problemáticas en un solo proyecto, se puede avanzar paso a paso en la consolidación de oportunidades y luego ponerlas al alcance de los grupos sociales, ya sea desde el arte, desde la música, la pintura, la radio, la contracultura contestataria como la literatura, grafitis y demás o cualquier medio que ellos elijan para desprenderse de su recarga emocional y de su intoxicación interna.
 
 Desde luego los organismos interesados en la prevención de la delincuencia encuentran en la biodiversidad cultural un aspecto importante que no puede ser tomado a la ligera ni administrado de manera inconsciente, el problema de dejarlo crecer (el fenómeno de la delincuencia y las drogas) paulatinamente esconde la verdad sobre la sobrepoblación en las cárceles y lugares de reclusión, ya que en el barrio es donde empiezan los primeros pasos de carrera delictiva que desborda luego  en  criminalidad  a  nivel  territorial,  al  tomarse  las  cosas  desde  una perspectiva de enemistad con la sociedad en general y permitirse solamente una fragmentación muy cerrada de amistades peligrosas. El delincuente se cuida de confiar en quien pueda denunciarlo o entregarlo a las autoridades competentes.
 
@@ -62,11 +44,7 @@ Sin embargo, queda un espacio para las iniciativas que nacen desde las mentes ju
 
 Podemos ver cómo se han generado equipos de fútbol y campeonatos, que dan respuesta a los problemas de pandillas y convierte a los individuos en adeptos al deporte, en buenos términos, lo que promueve una vida más sana. Las escuelas de danza y otras disciplinas culturales y tradicionales también juegan su rol social para mejorar las condiciones de calidad de vida de los individuos y del territorio, construyen un mejor país.
 
-Así  pueden  encontrarse  mejores  formas  de  desarrollar  mecanismos  de inclusión social desde las poblaciones, donde alguna vez el peligro fue inminente pero que han logrado pasar la página oscura a mejores estados de convivencia social. Para esto no se requiere únicamente de perfiles técnicos aprobados por la universidad o del psicólogo y científico en rehabilitación social, sino desde los resultados que puede ofrecer la sociedad comprometida y aplicada a generar
-
-332
-
-cambios sociales, los cuales hablan más que las palabras y generan herramientas que a veces no se le ocurren ni siquiera a los organismos más reconocidos que pretenden  promover  la  paz  en  este  mundo.Es  decir  que,  reconociendo  las cualidades humanas puestas en los intereses de los individuos mismos y en el momento adecuado, se puede prevenir que tomen desvíos innecesarios y que culminen en una problemática mayor. Dando un poco de libertad de acción para que ellos mismos puedan desarrollar sus capacidades y generar herramientas de acción social. Dentro de este margen se hace más sustentable promover una cultura sana en las ciudades o poblaciones antes amenazadas por la violencia delictiva derivada del hurto y las drogas.
+Así  pueden  encontrarse  mejores  formas  de  desarrollar  mecanismos  de inclusión social desde las poblaciones, donde alguna vez el peligro fue inminente pero que han logrado pasar la página oscura a mejores estados de convivencia social. Para esto no se requiere únicamente de perfiles técnicos aprobados por la universidad o del psicólogo y científico en rehabilitación social, sino desde los resultados que puede ofrecer la sociedad comprometida y aplicada a generar cambios sociales, los cuales hablan más que las palabras y generan herramientas que a veces no se le ocurren ni siquiera a los organismos más reconocidos que pretenden  promover  la  paz  en  este  mundo.Es  decir  que,  reconociendo  las cualidades humanas puestas en los intereses de los individuos mismos y en el momento adecuado, se puede prevenir que tomen desvíos innecesarios y que culminen en una problemática mayor. Dando un poco de libertad de acción para que ellos mismos puedan desarrollar sus capacidades y generar herramientas de acción social. Dentro de este margen se hace más sustentable promover una cultura sana en las ciudades o poblaciones antes amenazadas por la violencia delictiva derivada del hurto y las drogas.
 
 Es importante aclarar que el individuo toma malas decisiones y se enfrasca en una identidad que no es la suya propia internamente. Se ha convertido en delincuente pero no quería ser un delincuente. Quizá lo que quería era darle una vida mejor a su familia. El problema no era la necesidad que quería saciar sino el enfoque que tomó; en vez de sacar lo mejor de su potencial interno, se desbordó hacia un camino que aprisiona su conciencia.
 
@@ -74,11 +52,7 @@ El individuo mismo sabe cómo encontrar alivio a sus penas si se le aparta de lo
 
 Así como se aplica la constante publicidad de adoptar perros y gatos de la calle, la gente debería tomarse el tiempo de comprender la mente de quienes se convierten en un peligro para sí mismos, antes que se conviertan en un peligro para la sociedad. Aunque esto solo aplica en individuos que no han pasado la linea del no retorno. Por lo menos cuanto más adentro se ha desviado un individuo mentalmente hacia un camino de autodestrucción más requerirá de un maestro de mayor nivel para poder recuperar su claridad. Es decir que no todas las personas están capacitadas para hacer que un individuo que se encuentra en malos pasos se rehabilite (cambie sus hábitos por otros), sobre todo si la persona que interviene tiene un historial de falta de dominio personal. En palabras más simples, no se puede pretender rehabilitar a un criminal usando palabritas de amor o blandiendo banderitas de paz. Se puede trabajar en la persona antes de que se convierta en un bandido irrecuperable.
 
-Dicho esto es importante que las madres aprendan a mejorar la respuesta a casi todo lo que los jóvenes rebeldes entienden como exploración al entorno o el
-
-333
-
-mundo exterior, ya que muchas veces y con el afán de hacer personas productivas en el mercado laboral, los empujan a abandonar sus hogares en un contexto de ser alguien por la fuerza, sin dotarlos previamente y en forma debida, de las herramientas fundamentales que sirven para generar una mente financiera que es capaz de llegar más allá de simplemente sobrevivir en el mundo.
+Dicho esto es importante que las madres aprendan a mejorar la respuesta a casi todo lo que los jóvenes rebeldes entienden como exploración al entorno o el mundo exterior, ya que muchas veces y con el afán de hacer personas productivas en el mercado laboral, los empujan a abandonar sus hogares en un contexto de ser alguien por la fuerza, sin dotarlos previamente y en forma debida, de las herramientas fundamentales que sirven para generar una mente financiera que es capaz de llegar más allá de simplemente sobrevivir en el mundo.
 
 Con nada más que vivir al día, a muchos les tocó tener una vida difícil, sobre todo en el campo o en los entornos rurales. Forjando un carácter de acero y cultivado en el trabajo arduo en medio de las condiciones muchas veces extremas de la naturaleza. Lamentablemente los jóvenes de ciudad no están en la capacidad de salir tan temprano al mundo exterior a forjar un carácter de acero; pensar que tienen todo a su alcance para generar una mejor calidad de vida en su propia familia, pero están enfrascados en lo que les ofrece el mundo de la vagancia y los círculos de gratificación rápida.
 
@@ -86,10 +60,6 @@ Aun universitarios caen en la trampa de tener fácil acceso a los malos placeres
 
 Fuera de las ciudades, las condiciones son mayormente responsabilidad del seno familiar. El núcleo social se ha fortalecido más en las poblaciones rurales que en las ciudadanas y esto es evidente en los llamados pueblos o municipios. Una forma de atacar a la familia y apartar a los jóvenes del seno familiar es el transcurso de las tendencias temporales que acosa a los individuos jóvenes al consumismo de su preferencia y los mantiene en una cárcel ideológica por un tiempo determinado que enfrasca sus capacidades y habilidades humanas naturales. Mantiene a los jóvenes apartados de la creatividad y la innovación (creatividad de crear su propia realidad e innovación de buscar siempre la mejor versión interna de sí mismo), herramientas con las que puede enfrentar las problemáticas del mundo desde una perspectiva más responsable para sí mismo y para el entorno, en cambio les ofrece ser parte del reparto para una actuación en la que son personajes de una tendencia fabricada en círculos que manipulan las industrias artísticas.
 
-Es el momento para los jóvenes de preguntarse y de preocuparse si sus amigos están  preparados  para  encargarse  del  desafío  social  que  se  les  presenta actualmente, donde cada individuo debe aportar lo mejor de sí mismo para la preservación de la calidad de vida de sus familiares y de sí mismos. Es decir, si su
-
-334
-
-circulo de amigos le está alentando a despertar su verdadero potencial para lograr mejores niveles de calidad de vida y si ellos mismos están entrando a un estado de fortalecimiento de ese potencial.
+Es el momento para los jóvenes de preguntarse y de preocuparse si sus amigos están  preparados  para  encargarse  del  desafío  social  que  se  les  presenta actualmente, donde cada individuo debe aportar lo mejor de sí mismo para la preservación de la calidad de vida de sus familiares y de sí mismos. Es decir, si su circulo de amigos le está alentando a despertar su verdadero potencial para lograr mejores niveles de calidad de vida y si ellos mismos están entrando a un estado de fortalecimiento de ese potencial.
 
 A medida que avanza la vida y vamos pasando de la juventud a la edad adulta, donde la responsabilidad es cada vez mayor y que requiere toda nuestra capacidad de adaptación al desarrollo natural del cuerpo humano y a las etapas que corresponden a la vejes y la posteridad, es cuando tomamos conciencia de lo que significan las palabras de que con la vara que mediste serás medido, es la conciencia de nuestro aporte al mundo, lo que dejamos para los demás cuando llegue el momento de partir.

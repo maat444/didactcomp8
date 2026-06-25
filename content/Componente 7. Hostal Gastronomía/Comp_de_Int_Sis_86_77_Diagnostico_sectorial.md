@@ -2,10 +2,6 @@
 
 <!-- Páginas: 432–435 -->
 
-432
-
-7.7 Diagnóstico sectorial
-
 Qué es lo importante o urgente en que se debe emplear la fuerza de la actividad para solucionar un problema. Es necesario clasificar muy bien el problema principal. Ya hemos visto anteriormente que a veces el diagnóstico puede estar mal y que suministrar un tratamiento indebido puede causar daños graves o también fatales.
 
 Para  considerar  que  un  componente  sea  fundamental,  en  la  toma  de decisiones, durante la planeación u operación de un proyecto, lo principal y más importante es garantizar la conservación de valores auténticos del ser humano y establecer un acuerdo de beneficios mutuos que permitan desarrollar mejorías en la calidad de vida de los individuos y el bienestar de los ecosistemas naturales.
@@ -18,11 +14,7 @@ El trabajo que se hace con cada componente, es dedicar un espacio y tiempo a la 
 
 Cada uno de los componentes que hemos definido, aporta una perspectiva única y necesaria para la planificación y gestión de proyectos. Al considerar todos estos factores, podemos asegurarnos de que nuestros proyectos sean íntegros a largo plazo y beneficiosos para todos los involucrados.
 
-El componente Hostal Gastronomía representa la convivencia social, es el referente a los servicios hoteleros que albergan sectores turísticos relacionándose en forma directa o indirecta con el sector gastronómico de una región, pero
-
-433
-
-también vincula al sector de transporte y al movimiento de viajeros y/o visitantes, es decir, se trata del movimiento de las personas entre territorios, tanto a nivel local y regional como a nivel global.
+El componente Hostal Gastronomía representa la convivencia social, es el referente a los servicios hoteleros que albergan sectores turísticos relacionándose en forma directa o indirecta con el sector gastronómico de una región, pero también vincula al sector de transporte y al movimiento de viajeros y/o visitantes, es decir, se trata del movimiento de las personas entre territorios, tanto a nivel local y regional como a nivel global.
 
 El componente Hostal Gastronomía, también se refiere a establecimientos que incluyen alojamiento y alimentación en un mismo confort, ponen un énfasis especial en la experiencia del cliente, haciendo que el usuario no tenga que desplazarse para sus alimentos básicos. Estos establecimientos pueden variar en tamaño y nivel de servicio, pero todos comparten el objetivo de ofrecer un ambiente acogedor y auténtico. Al combinar hostelería con la gastronomía, los establecimientos  pueden  contribuir  al  desarrollo  del  turismo  local  y  a  la promoción de la cultura culinaria de la región.
 
@@ -30,11 +22,7 @@ La gastronomía es fundamental en el contexto del turismo, como también lo es e
 
 La gastronomía es mucho más que un simple acto de alimentación. Es una expresión cultural que conecta a las personas con su entorno y su historia. Al integrar la gastronomía en el turismo, podemos fortalecer los vínculos entre las comunidades locales y los visitantes, promoviendo la diversidad cultural y el respeto por la biodiversidad. Es primordial adoptar una visión holística para comprender como todos los elementos de un proyecto se interrelacionan y cómo pueden contribuir a un desarrollo eficiente de la economía regional.
 
-Recorrer la ruta de los componentes sirve de base para comprender iniciativas y proyectos de otros emprendedores, quien los aplica puede leer más rápido las fortalezas y debilidades de un proyecto y saber hacer un diagnóstico para trabajar en las carencias, respecto de los componentes, y forjar un plan de acción eficiente para balancear su operación. Sirven como un diagnóstico empresarial no desde el punto de vista del análisis a un estado financiero sino desde un observación a los
-
-434
-
-valores que se transmiten en la cultura de la empresa, lo cual impacta tanto a nivel interno como externo.
+Recorrer la ruta de los componentes sirve de base para comprender iniciativas y proyectos de otros emprendedores, quien los aplica puede leer más rápido las fortalezas y debilidades de un proyecto y saber hacer un diagnóstico para trabajar en las carencias, respecto de los componentes, y forjar un plan de acción eficiente para balancear su operación. Sirven como un diagnóstico empresarial no desde el punto de vista del análisis a un estado financiero sino desde un observación a los valores que se transmiten en la cultura de la empresa, lo cual impacta tanto a nivel interno como externo.
 
 Cada uno de los ocho componentes que estamos definiendo proporciona una herramienta valiosa para la planificación y gestión de proyectos, como también para actualizar dichos proyectos al modelo económico disruptivo que cada día toma más poder en el mundo. Al aplicar estos componentes de manera integrada, podemos crear proyectos que sean responsables, eficientes y viables, en materia social, ambiental y económica. Este manual didáctico, nos ofrece un marco de referencia global para filtrar y limpiar las intenciones de los objetivos ODS, a fin de que, en la práctica y los resultados, no se desvíen de la oratoria y del papel.
 
@@ -42,11 +30,7 @@ Al sectorizar la economía en pequeños mercados llamados nichos, lo que se cons
 
 La fragmentación de la economía en nichos de mercado puede limitar las oportunidades de desarrollo y dificultar la creación de economías locales fuertes y resilientes. Es importante fomentar la colaboración entre diferentes sectores y promover  la  creación  de  redes  de  valor  que  beneficien  a  todas  las  partes involucradas. Al trabajar juntos, podemos construir comunidades más equitativas y  funcionales.  Aquí  es  donde  la  educación  financiera  toma  relevancia  y complementa al sistema educativo convencional, pues pone las herramientas del crecimiento en manos de quienes están iniciando un negocio o llevándolo a un siguiente nivel.
 
-A pesar de que el nicho tiene y seguirá teniendo todavía relevancia a causa de la exclusividad menester al poder adquisitivo, esto no debe llevar al individuo por rutas de radicalismos, apatía social o luchas contra los empresarios que usan tales estrategias. En el mundo del marqueting y las campañas políticas, se puede aplicar un dicho chino: ‘nunca puede haber demasiado engaño en la guerra’. El contexto de trabajo para la misión personal, es que la visión, permita la felicidad natural,
-
-435
-
-personal, grupal y colectiva. La armonía y la convivencia social no deberían depender de la necesidad de reclamar o de argumentar con largos y aburridos discursos de revictimización y/o deseos de venganza. El ser humano quiere darse la oportunidad de estar libre de todo el daño que hayamos creado en nuestro pasado o antiguamente. Es nuestra voluntad y es nuestro compromiso devolver al espíritu humano y a nuestra mente, la capacidad de estar tranquilos y permitirnos desarrollar nuestras auténticas capacidades, para ofrecer a la posteridad un mundo con mejores oportunidades, el cual van a heredar los hijos de nuestros hijos y/o las generaciones que vendrán.
+A pesar de que el nicho tiene y seguirá teniendo todavía relevancia a causa de la exclusividad menester al poder adquisitivo, esto no debe llevar al individuo por rutas de radicalismos, apatía social o luchas contra los empresarios que usan tales estrategias. En el mundo del marqueting y las campañas políticas, se puede aplicar un dicho chino: ‘nunca puede haber demasiado engaño en la guerra’. El contexto de trabajo para la misión personal, es que la visión, permita la felicidad natural, personal, grupal y colectiva. La armonía y la convivencia social no deberían depender de la necesidad de reclamar o de argumentar con largos y aburridos discursos de revictimización y/o deseos de venganza. El ser humano quiere darse la oportunidad de estar libre de todo el daño que hayamos creado en nuestro pasado o antiguamente. Es nuestra voluntad y es nuestro compromiso devolver al espíritu humano y a nuestra mente, la capacidad de estar tranquilos y permitirnos desarrollar nuestras auténticas capacidades, para ofrecer a la posteridad un mundo con mejores oportunidades, el cual van a heredar los hijos de nuestros hijos y/o las generaciones que vendrán.
 
 En lugar de centrarnos en la división y la confrontación, debemos buscar la unidad  y  la  cooperación.  Todos  tenemos  un  papel  que  desempeñar  en  la construcción de un futuro mejor. Al trabajar juntos, podemos superar los desafíos que enfrentamos y crear un mundo más justo para las generaciones futuras.
 

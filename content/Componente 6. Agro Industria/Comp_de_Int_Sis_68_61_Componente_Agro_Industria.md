@@ -2,10 +2,6 @@
 
 <!-- Páginas: 351–355 -->
 
-351
-
-6.1 Componente Agro Industria
-
 Dejamos sentada la base de todos los componentes, los cuales, hasta donde hemos visto, trabajan como articulaciones de una rueda que sirve para emprender el camino hacia una sustentabilidad económica circular. Trabajo que en conjunto con cada sector productivo de la sociedad, permite consolidar un entorno de oportunidades y desarrollo comprometido en la realización de un mundo que aporte bienestar a las poblaciones manteniendo y ofreciendo oportunidades para el desarrollo de las capacidades humanas y que brinde garantías a la protección ambiental.
 
 Esto debe funcionar de manera permanente para poder dar los pasos adecuados en la realización del elemento fundamental del desarrollo económico que parte desde las iniciativas individuales de cada persona que busca aportar lo mejor de sí mismo a la especie humana.
@@ -16,8 +12,6 @@ Estamos agradecidos con poder seguir viviendo y queremos contribuir en mejorar l
 
 Para permanecer fuertes en la labor humana del desarrollo social y económico, requerimos una alimentación sana y saludable, como una disposición adecuada para alargar lo mayor posible nuestra estancia en este mundo.
 
-352
-
 Así  llegamos  de  manera  natural  al  proceso  de  articulación  de  cada componente. Así como una persona que trabaja desde temprano se alegra cuando llega la hora de su almuerzo para recargar fuerzas, así los componentes que se construyen uno a uno dinámicamente, desarrollan su sinergía al integrarse en los eslabones de mayor nivel de compromiso humano, ya que han pasado por un largo proceso de intercambio de energías, en este componente deben reponerse para continuar la exigente labor.
 
 Desde la visión del mundo y el conocimiento adquirido, la cultura social de adaptación al medio ambiente ha sido guía, para cultivar el sentido de protección a  los  ecosistemas  naturales  dentro  de  los  cuales  tenemos  nuestro  hogar. Aceptando honestamente los compromisos sociales y manteniendo relaciones constructivas que se dedican a la preservación como misión y norte de las exigencias  personales  y/o  colectivas,  nos  encontramos  de  nuevo  en  el establecimiento de alianzas para la contribución al desarrollo social económico, en el nivel industrial de la producción de alimentos o agronomía de gran escala y sus actividades derivadas que emergen como primera necesidad en el intercambio comercial.
@@ -26,11 +20,7 @@ Con una fuerza colectiva que trabaja de manera conjunta en equipos de responsabi
 
 Como seres humanos disponemos de facultades para organizarnos de manera civilizada y sobre todo en la manera de adquirir alimentos y distribuirlos a la población. Gracias al trabajo conjunto entre sectores la productividad de los suelos fértiles se usan de manera adecuada y a favor tanto del ser humano como de la naturaleza. La división entre lo comercial y lo básico para subsistir como especie se va cerrando en torno al bienestar de los ecosistemas, lo cual contribuye a cerrar las brechas entre la riqueza y la pobreza.
 
-La producción agrícola es la primera base de la civilización que nos separa del mundo salvaje como parte del reino animal, en los misterios de Eleusis del libro
-
-353
-
-Los Grandes Iniciados de Ed. Shuré, se menciona que uno de los regalos de Demeter a la humanidad es “los frutos para que no vivamos como las bestias”, lo cual es una referencia a que cosechar los frutos que produce la tierra nos pone en un plano más civilizado.
+La producción agrícola es la primera base de la civilización que nos separa del mundo salvaje como parte del reino animal, en los misterios de Eleusis del libro Los Grandes Iniciados de Ed. Shuré, se menciona que uno de los regalos de Demeter a la humanidad es “los frutos para que no vivamos como las bestias”, lo cual es una referencia a que cosechar los frutos que produce la tierra nos pone en un plano más civilizado.
 
 La organización eficiente de un sistema de agricultura contribuye a resolver una de las enormes problemática que se presentan cuando hay demasiadas bocas que alimentar. No solo cubre los requerimientos como parte de subsidiar, si fuera necesario, la alimentación básica de personas en situación de pobreza o cuyas carencias afectan sus ingresos para adquirir alimentos, sino que también debe planificar la circulación a tiempo de los productos e insumos agroindustriales antes de que se deterioren como parte del ciclo de consumo apto. A esto se suman las medidas de conservación y almacenamiento, lo que minimiza las pérdidas y fallas en la cadena de distribución.
 
@@ -40,11 +30,7 @@ El manejo estratégico de la producción, las cosechas y el almacenamiento del p
 
 Cada apartado es una herramienta de reflexión, el tema que ocupa cada reflexivo puede ser tan amplio que apenas podamos observarlo superficialmente, aunque el estudiante puede recurrir a la literatura disponible de economistas o revisar las técnicas empleadas por agrónomos con experiencia que puedan tener una visión objetiva sobre la distribución de sus productos, también pueden obtener el punto de vista directamente de quienes labran la tierra y recogen las cosechas.
 
-El papel fundamental y vital del campo y del campesino (sin connotaciones políticas), al respecto de las ciudades, toma mayor prioridad y como parte de este
-
-354
-
-contexto,  la  alimentación  empieza  en  la  fuente,  o  sea  en  la  labor  de  los campesinos, quienes están privilegiados por tener una alimentación de primera mano o directo del campo a la mesa, sin pasar por los canales de distribución.
+El papel fundamental y vital del campo y del campesino (sin connotaciones políticas), al respecto de las ciudades, toma mayor prioridad y como parte de este contexto,  la  alimentación  empieza  en  la  fuente,  o  sea  en  la  labor  de  los campesinos, quienes están privilegiados por tener una alimentación de primera mano o directo del campo a la mesa, sin pasar por los canales de distribución.
 
 El párrafo anterior es una fabricación de las sociedades modernas, tendríamos que recorrer la historia hasta la pre-historia para tener una mediana idea de cómo es que el conocimiento sobre el uso del suelo para conseguir alimento llegó a las personas en sentido general y de manera organizada como un sistema, hoy solemos atribuir al campesino la labor principal de recolección de alimentos pero detrás de esto todavía hay muchos procesos para que pueda ocurrir.
 
@@ -55,8 +41,6 @@ La cultura del territorio desprende de los antepasados que antaño dedicaron su 
 Las culturas antiguas fueron sabias para desarrollar su civilización a partir de sus territorios de manera eficiente y lograron mantenerse en armonía con los elementos naturales. trabajaron de manera permanente en la conservación de su conocimiento  como  en  las  actividades  sociales,  sus  ceremonias  y  su  culto ancestral, para alimentar equilibradamente su cuerpo, su mente y su espíritu universal.
 
 Todo conocimiento ha sido heredado de antaño y se mantiene vivo gracias a la tradición que pasa de viejos a jóvenes y consecuentemente a los niños, tal como la lengua materna pasa de padres a hijos. No existe explotación infantil cuando se está desarrollando una cultura milenaria que mantiene una correlación con la tradición ancestral, por el contrario, existe una conservación de riqueza cultural en enseñar a los niños el trabajo de las comunidades al rededor de las cosechas, que luego, cuando es joven o adulto tiene la responsabilidad de mantener viva.
-
-355
 
 En cuanto a la distribución de la bendición de la tierra, antes de recibir algo de ella, se pone un pagamento de súplica y agradecimiento para concienciarnos de que la cosecha es parte de un presente que nos regala la tierra, y no ocurre desde la explotación por generar oferta y demanda consumista, sino que esta bendición garantiza que la población será beneficiada por una alimentación que le fortalecerá en cuerpo y alma para mantener viva la llama de la existencia.
 

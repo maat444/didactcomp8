@@ -2,21 +2,13 @@
 
 <!-- Páginas: 249–257 -->
 
-249
-
-4.5 Adoctrinamiento estructural
-
 Algunos  colectivos emplean una doctrina  de influencia  sobre mentes poco preparadas, seduciéndolas hacia intereses partidistas, ejerciendo presión sobre las necesidades de los individuos y atacando en forma directa desde los rasgos físicos hasta las capacidades financieras o el poder adquisitivo de los individuos. Para esto implementan un mecanismo de argumentación descarado y disuasivo que apela a las características de la mentalidad humana en el proceso de conocerse a sí misma, es decir que atacan el ego en los individuos que desconocen su verdadero potencial. Desde un punto de vista malintencionado, los organismos que trabajan para el mal, ejercen presión social desde una ideología que considera que los pobres deberían estar siempre en contra del estado de derecho, deberían sentirse inferiores y humillados o explotados por los empresarios y deberían estar a favor de organismos al margen de la ley.
 
 El respeto es una característica de libertad personal, la elección de vida de cada individuo dentro del entorno que considere apto para desarrollar sus capacidades personales es un derecho fundamental. En círculos de doctrinas ocultas se ve tranquilamente un individuo que ha elegido pertenecer a una corriente de libertad de género o de ideología libre sin hacer escándalos o promulgaciones en contra, pero no en todos los niveles de conocimiento se puede expresar esta forma de libertad y respeto por parte de quienes mantienen una postura natural considerada desde el punto de vista de la psicología social como conservadora hacia quienes pretenden imponer su libertad públicamente.
 
 Más allá de la interpretación personal de cada individuo, se puede observar de manera  generalista  como  la  influencia  ejerce  un  papel  de  replicación  de identidades y personalidades que lejos de ser naturales pueden ser construidas de manera ficticia. Para nuestro interés dentro de la misión en el esquema visionario de los componentes debemos hacer un examen de esta realidad, que toca fondo en el desorden social, llevando a las familias y a veces a las instituciones a un entorno de división social.
 
-La forma en que algunos de estos colectivos difunden sus ideas de manera descarada a fin de sumar adeptos a sus culturas masivas, con el objetivo de contaminar nuevas generaciones, ha llevado a una depravación de la moral que ataca el corazón de las familias. Dentro del panorama actual, en cuanto a la influencia y niveles de exploración de la mente hacia sí misma, se encuentra el mecanismo de ataque contra la psique de los individuos a muy temprana edad,
-
-250
-
-que siembra sospechosamente una duda de su naturaleza humana en contra de los principios fundamentales de la familia y la generación de esta o principio de supervivencia, conservación y reproducción, dentro de los cánones del hogar.
+La forma en que algunos de estos colectivos difunden sus ideas de manera descarada a fin de sumar adeptos a sus culturas masivas, con el objetivo de contaminar nuevas generaciones, ha llevado a una depravación de la moral que ataca el corazón de las familias. Dentro del panorama actual, en cuanto a la influencia y niveles de exploración de la mente hacia sí misma, se encuentra el mecanismo de ataque contra la psique de los individuos a muy temprana edad, que siembra sospechosamente una duda de su naturaleza humana en contra de los principios fundamentales de la familia y la generación de esta o principio de supervivencia, conservación y reproducción, dentro de los cánones del hogar.
 
 Sin olvidar la idea que han expuesto sobre la aplicación de este ataque a la mente humana para prevenirla de un problema de sobre población mundial, lo cual ha sido desmentido por diferentes expertos en demografía (las tasas de natalidad en cada país están disminuyendo), veamos de cerca de que se trata este ataque y como lo perciben las mentes de los jóvenes, ávidos de encontrar respuestas a sus intereses personales de exploración al mundo físico.
 
@@ -26,11 +18,7 @@ Pese al restablecimiento del desarrollo natural, a veces puede ser demasiado tar
 
 Si no funcionara el argumento biológico apelarán a las emociones humanas, justamente para poner la trampa a quienes son débiles en el desarrollo de su propia imagen personal o que desconocen su cosmos interno, confunden con la personalidad, la cual es cambiante a lo largo de los años.
 
-Luego introducirán su propuesta de ideología género, poniendo al individuo en contra de su propio nacimiento, en este punto su ataque se concentra en el campo de las ideas, haciendo creer  al individuo que su mente piensa por sí misma las ideas que le están cultivando en su cabeza, dudando de todo lo que se le ha
-
-251
-
-transmitido en su infancia, si es correcto o incorrecto lo que conforma su identidad personal, siendo apenas un niño o un adolescente.
+Luego introducirán su propuesta de ideología género, poniendo al individuo en contra de su propio nacimiento, en este punto su ataque se concentra en el campo de las ideas, haciendo creer  al individuo que su mente piensa por sí misma las ideas que le están cultivando en su cabeza, dudando de todo lo que se le ha transmitido en su infancia, si es correcto o incorrecto lo que conforma su identidad personal, siendo apenas un niño o un adolescente.
 
 Tres ataques al individuo con una sola bala, es lo que reciben los pobres estudiantes e individuos en un punto donde son dóciles y fáciles de influenciar. El cromosoma, las emociones de baja intensidad y la mente que se desprende de su identidad personal. Luego atacarán los símbolos religiosos, despojando a los individuos incluso de sus herencias tradicionales y de origen ancestral. Instauran una nueva creencia que lleva al colmo su ideología, izan sus dioses andróginos como si fueran gurús del simbolismo mágico, intérpretes a su propia justificación, hablarán  de  Babilonia,  hablarán  de  Sodoma  y  Gomorra,  hablarán  de  la prostitución sagrada de Ishtar, y a cuanta vulgarización puedan  recurrir para excusar sus desviaciones del cuerpo natural.
 
@@ -42,8 +30,6 @@ La  ciencia  genética  apenas  está  andando  sus  primeros  pasos  y  en  est
 
 Así como la iglesia de la era medieval usaba cualquier información científica, para generar caos en cuanto a la existencia de Dios, lo hará cualquier otro colectivo  (el  ejemplo  de  comportamiento  de  la  iglesia  permea  otras organizaciones) en cuanto a sus objetivos y sus intereses personales, pero en la práctica, aumentan sus posibilidades de adoctrinamiento mientras promueven una desinformación que causa malestares generacionales.
 
-252
-
 La siguiente manera de obtener reclutas voluntarios para sus colectivos, es apelar a la fuente de las emociones humanas, que casi de manera generalista, desprenden de la actividad humana, de encontrar un amor en armonía con sus pensamientos. Habiendo recibido el rechazo primordial, la interpretación del complejo de Edipo, se relaciona a la mente cuya estructura psicológica empieza a tambalear, para encontrar un yo que se cree perdido y al fin lo encuentra en los placeres sensuales.
 
 La identificación de las emociones con el roce de la piel y que segrega sustancias químicas, es lo que la mayoría de la gente cree que es amor. Una forma de adoctrinar a los individuos que usan poco sus propias capacidades de adquirir conocimiento interno, es hacerles pensar que el amor es únicamente a nivel físico y una reacción química donde se intercambian fluidos corporales y se llega al clímax del coito.
@@ -54,8 +40,6 @@ Desde luego a los niños que aún no han conocido la ilusión corporal, se les e
 
 Luego, han sometido la mente de los niños para que acepten la lambisconería lasciva del mismo género como algo natural (como ocurre en festivales pro libertad  sexual),  cuando  al  niño  se  le  ha  inducido  a  pensar  desde  un adoctrinamiento sexual que los desvíos son lo  natural y que su verdadera naturaleza debe reprimirse, los niños lo aceptan y de manera lógica empiezan a desearlo,  pero  las  consecuencias  de  la  represión  a  naturaleza  aflorarán  en episodios de estallidos emocionales que desestabilizarán su mente a largo plazo. Cuando empiezan a desarrollarse sus genes en las distintas etapas cercanas a su aparato reproductor, pueden someterse ciegamente a deseos temporales que solo buscan drenar los químicos del cuerpo, pero cuando llegan a etapas más maduras podrán reconocer que solo han sido presos de una mentalidad que se identifica con personalidades de alguien más.
 
-253
-
 En los canales de psicología freudiana que aplica el complejo de Edipo a la mente de los hijos que experimentan algún tipo de atracción hacia alguno de sus progenitores se parte de una interpretación puramente sexista, que expresa las reacciones del individuo en su infancia como una conducta impulsada por una corriente libidinosa, por eso es frecuente que los colectivos pro libertad sexual en sus argumentos se escuden con estudios atribuidos a Freud. Sin embargo esto no es  sino  una  propaganda  desde  sus  intereses  en  descomponer  la  verdadera naturaleza del ser humano y no un estudio profundo que tenga de lado la luz de la ciencia.
 
 El estructuralismo de Jean Piaget ve otras vertientes de pensamiento en la infancia, que desarrolla la mente humana a niveles cuánticos, en cuanto a la obtención de conocimiento y su respectiva capacidad de interpretación del entorno, es muy diferente a interpretar que los niños solo están reaccionando a impulsos sexuales. Así pues, se deriva la influencia del mundo externo en su camino de búsqueda de respuestas a sus interrogantes internos y su adaptación a las respuestas percibidas en la exploración por parte del niño hacia el entorno y la naturaleza.
@@ -64,11 +48,7 @@ Las emociones entonces, se generan dentro de un contexto de interpretación y de
 
 Un individuo cae más fácil en emanaciones externas de lo que consigue administrar su propio campus interno, sobre todo por desconocimiento de sí mismo y falta de conciencia de su propio potencial, es común que acepte las ilusiones que el mundo le presenta como verdades que disponerse a crear sus propias definiciones de la realidad. Cuando el individuo tiene suficiente confianza en su capacidad racional está dispuesto a dudar de las interpretaciones que le han hecho aceptar desde niño. El siguiente paso es su capacidad de crear su propia definición de la realidad, de acuerdo a las emanaciones que percibe de la influencia externa pero esta vez validando lo que filtra a través de su cada vez más sólido conocimiento y dada la acumulación de experiencias.
 
-La mente humana, es un receptor abierto a señales de diferentes espectros ondulatorios. Ondas que provienen del mundo exterior en forma de ideas y pensamientos le atacan, sin que las pueda eliminar. Solamente puede atraparlas,
-
-254
-
-verlas  pasar, interpretarlas o  sintonizar la  siguiente ola de ondas mentales psíquicas, estableciendo una canalización visual y más permanente con aquellas vibraciones con las cuales se identifica o le llaman más la atención.
+La mente humana, es un receptor abierto a señales de diferentes espectros ondulatorios. Ondas que provienen del mundo exterior en forma de ideas y pensamientos le atacan, sin que las pueda eliminar. Solamente puede atraparlas, verlas  pasar, interpretarlas o  sintonizar la  siguiente ola de ondas mentales psíquicas, estableciendo una canalización visual y más permanente con aquellas vibraciones con las cuales se identifica o le llaman más la atención.
 
 En este sentido de recepción caen las mentes que se identifican o se mantienen fuera de la identidad, con sintonías que no son parte de su interior, pero esto solo puede superarse con la respectiva respuesta a esas ondas, creando un campo psíquico fuerte alrededor de las propias emanaciones conscientes, cuando el individuo es lo suficientemente hábil para crear sus propias vibraciones en correspondencia con su verdadera naturaleza que fluye desde el interior de su cosmos interno. Cabe apuntar que en el campo de las recepciones, los individuos se dejan llevar de un lado a otro, sometiéndose a los intereses de otros emanadores de energía, impidiendo que su naturaleza personal fluya hacia el cosmos externo.
 
@@ -80,11 +60,7 @@ Antes de disertar sobre el lenguaje sagrado de la simbología oculta, se ofrece 
 
 Desde luego el ser humano tiene la capacidad de hacer uso de su propio cuerpo como se le ocurra. Aunque recibir algo de conocimiento como un manual de uso adecuado  no  está  de  más.  Para  quienes  quieren  conseguir  el  verdadero conocimiento guardado en el interior y que al explorar el entorno en la búsqueda de respuestas han encontrado que todo es falso, o por lo menos, las cosas no son como parecen haberles influido a pensar y que sospechan que hay algo que les falta aprender sobre sí mismos, se ofrece una pista de aclaración.
 
-El ser humano es un animal y también es un ser de tierra. Pero también es un ser de las estrellas, también es un ser sagrado y espiritual. Veamos lo que los vedas
-
-255
-
-enseñaban acerca de la naturaleza humana y lo que guardan en su simbología oculta, que obviamente ha sido usada de manera deliberada y ambiciosa, para fomentar el extremo opuesto a lo que se planteaba en un contexto sagrado.
+El ser humano es un animal y también es un ser de tierra. Pero también es un ser de las estrellas, también es un ser sagrado y espiritual. Veamos lo que los vedas enseñaban acerca de la naturaleza humana y lo que guardan en su simbología oculta, que obviamente ha sido usada de manera deliberada y ambiciosa, para fomentar el extremo opuesto a lo que se planteaba en un contexto sagrado.
 
 Vamos a enlazar una correlación entre diferentes culturas milenarias, para dar el mensaje oculto, en los espacios sagrados donde el adepto, ha dejado en el secreto algunas respuestas. Primero voy a mencionar una referencia al culto de la cultura Muisca en Colombia (en los departamentos de Cundinamarca y Boyacá), en las montañas del altiplano cundiboyacense, para ayudar a sostener la máxima verdad que pueda ser revelada, sobre el equilibrio de conocimiento en las culturas antiguas.
 
@@ -94,8 +70,6 @@ Luego de una vastísima instrucción sobre todos los conocimientos que debe adqu
 
 Hasta aquí dejamos este relato sobre los ritos de iniciación Muiscas, ahora podemos llevar el contexto a los lugares de los textos vedas, donde se desarrolla el espacio perfecto para la interpretación de la mitología acerca del dios Shiva y su figura en el hinduismo.
 
-256
-
 Los  templos  de  Khajuraho, albergan  en  las  estatuas  todo  tipo  de demostraciones sexuales, ofrecimientos de copulación y coito, en todas las formas imaginarias y hasta imposibles para el ser humano. Aunque Borges los interpretó como templos de amor, el practicante de la meditación puede interpretarlo como un intento de ser tentado por todo tipo de seducciones de la carne física, tal como sucede a todos los seres humanos. Dentro de las enseñanzas místicas hinduistas puede aplicarse la historia de la emanación del deseo en el interior de Shiva durante su meditación, teniendo un desenlace digno de la naturaleza divina.
 
 Shiva, tal como el maestro espiritual Muisca, no estaba interesado tanto en darle  poder a  las seducciones mundanas, como  lo estaba de participar del conocimiento superior de los dioses, así que, con un rayo de su mirada, hizo desaparecer las visiones que le atormentaban por el deseo que le infringía la flecha de Kama. En sánscrito, la emanación de la lujuria se nombra Kama, así es como Shiva destruyó a Kama y se convirtió en el dios de la muerte, señor sobre los placeres mundanos de la carne, que atormentan las mentes débiles. Cabe añadir que para fines de la reproducción acepta la influencia de Kama para participar junto  a  su  consorte  Parvati,  en  el  nacimiento  de  su  hijo  Ganesha, complementando el ciclo de la fertilidad.
@@ -104,11 +78,7 @@ Este apartado es un mecanismo de reflexión para quienes puedan adquirir una cap
 
 Sea hombre o mujer, tal como la naturaleza les dictamina al nacer, luego que han perdido su capacidad de raciocinio acerca de sus facultades espirituales, intrínsecas a su naturaleza otorgada por el universo, solo pueden tomar una postura defensiva con argumentos que les impiden ver lo más sagrado de sí mismos, tal como se conformaron al nacer. El autoengaño les hace aceptar que deben defender sus desviaciones libidinosas, pero no les deja aceptar la naturaleza de sus genes biológicos.
 
-Para terminar hacemos una reflexión sobre culturas antiguas que permitían algunas veces y en otras obligaban individuos a mutilarse sus genitales (eunucos). Pero esto era más la excepción y no la regla general, es decir que llegar a este
-
-257
-
-tratamiento era una medida específica y no una práctica en toda la población. No estamos haciendo una referencia a cortar el prepucio como era lo habitual en la cultura  judía, sino  a  la  extirpación  de los  testículos como  castigo  o  como preparación para participar de órdenes sacerdotales en algunas culturas antiguas.
+Para terminar hacemos una reflexión sobre culturas antiguas que permitían algunas veces y en otras obligaban individuos a mutilarse sus genitales (eunucos). Pero esto era más la excepción y no la regla general, es decir que llegar a este tratamiento era una medida específica y no una práctica en toda la población. No estamos haciendo una referencia a cortar el prepucio como era lo habitual en la cultura  judía, sino  a  la  extirpación  de los  testículos como  castigo  o  como preparación para participar de órdenes sacerdotales en algunas culturas antiguas.
 
 También expresamos, para tener en cuenta, el debido respeto, a individuos que nacían  con  malformaciones  y  que  en  algunas  culturas  les  destruían inmediatamente. Hoy en día, tenemos demasiada libertad como individuos, de hacer un cuerpo a la medida de nuestras intenciones, no tanto a la medida de nuestro espíritu, sino por una desviación de los valores y la multiplicación de ataques comerciales publicitarios, donde organismos en contra de la naturaleza humana tienen influencia. Tengan mucho cuidado con lo que sintonizan en sus propias mentes.
 

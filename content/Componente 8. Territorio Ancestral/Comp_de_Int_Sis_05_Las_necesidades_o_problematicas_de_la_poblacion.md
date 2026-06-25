@@ -2,10 +2,6 @@
 
 <!-- Páginas: 26–30 -->
 
-26
-
-Las necesidades o problemáticas de la población
-
 2. ¿Cuáles son las “necesidades básicas” de la población dentro del territorio?
 
 Las necesidades básicas que casi siempre refieren en coro y al unísono, en la mayoría de las protestas de la población en general y en casi todos los territorios, son un listado cliché:
@@ -16,11 +12,7 @@ Abordar cada temática de los problemas actuales parece una labor inextinguible,
 
 La lista negra de discusiones sobre tales asuntos, está continuamente en aumento. Se le suman nuevos problemas que crean necesidades ideológicas, impulsadas desde colectivos que generan discordia social. Necesidades que no son de  orden  básico  y  natural,  sino  que  son  artificios  de  planes  que  buscan desestabilizar a las naciones, atacando el núcleo social que es la familia.
 
-Al plantearnos preguntas sobre estas problemáticas, buscando la base de sus concepciones, surgen de manera inmediata más preguntas y se multiplican al tratar de responderlas, haciendo que el trabajo de encontrar soluciones se replique hasta el infinito. Siendo así, no avanzaríamos nunca lo suficiente en el tiempo
-
-27
-
-limitado de nuestra vida, tendríamos que seguir legando tareas a largo plazo aumentando las posibilidades de dejarlas incompletas.
+Al plantearnos preguntas sobre estas problemáticas, buscando la base de sus concepciones, surgen de manera inmediata más preguntas y se multiplican al tratar de responderlas, haciendo que el trabajo de encontrar soluciones se replique hasta el infinito. Siendo así, no avanzaríamos nunca lo suficiente en el tiempo limitado de nuestra vida, tendríamos que seguir legando tareas a largo plazo aumentando las posibilidades de dejarlas incompletas.
 
 Al indicar que las palabras no son suficientes para abrir el camino a las posibles soluciones, se enfatiza que el conocimiento sobre las problemáticas, dependiendo de la comprensión de cada individuo, puede transmutar a situaciones de desorden social, ya que hay individuos formados de manera desproporcionada en la retórica y  son  hábiles  en  construir  falsos  elementos  ideológicos,  con  pautas  de adoctrinamiento en el engaño, apelando a la desinformación generalizada y atacando impunemente las mentes de las personas que carecen de criterio moral.
 
@@ -32,11 +24,7 @@ Para no perder de vista las soluciones que podemos aportar al bien común, no de
 
 Respondiendo entonces a la pregunta sobre cuáles son las problemáticas del territorio,  debemos  preguntar  mejor  cuales  de  nuestras  necesidades  son necesidades en realidad, básicas o verdaderas y si están enlistadas de la manera correcta, ya que cada quien prioriza sus propias necesidades, a veces, por encima de las necesidades de mayor importancia en su región o en su entorno.
 
-Aunque gran parte de las necesidades puedan ser ciertas y reales, y otras necesidades en cambio pueden ser ilusiones de una personalidad trastornada, la verdad es que hay otras necesidades básicas y verdaderas que ni siquiera hemos notado y al no prestarles atención y descuidarlas, se trasforman en patologías
-
-28
-
-crónicas de la mente subconsciente, poniendo como ejemplo la falta de control de las emociones, que se convierte en vicio del carácter y genera limitaciones de comunicación entre los individuos, crea una tensión que va desbordando en problemáticas sociales.
+Aunque gran parte de las necesidades puedan ser ciertas y reales, y otras necesidades en cambio pueden ser ilusiones de una personalidad trastornada, la verdad es que hay otras necesidades básicas y verdaderas que ni siquiera hemos notado y al no prestarles atención y descuidarlas, se trasforman en patologías crónicas de la mente subconsciente, poniendo como ejemplo la falta de control de las emociones, que se convierte en vicio del carácter y genera limitaciones de comunicación entre los individuos, crea una tensión que va desbordando en problemáticas sociales.
 
 La lista de patrones psicológicos es amplia para definir deficiencias en el control básico de las emociones personales, aquí nos enfocamos, sin embargo, en las carencias a causa de desligarse completamente de las raíces culturales, lo cual es el equivalente a tener una relación tóxica con las figuras de padre y madre, ya que trae consecuencias colectivas que pueden ser negativas a largo plazo para la sociedad.
 
@@ -44,11 +32,7 @@ Otra deficiencia importante es perder de vista el poder de nuestro potencial esp
 
 Si miramos con lupa la educación, podemos darnos cuenta que, individuos que egresan con título universitario, en gran proporción salen a buscar un empleo, en vez de ser quienes crean los puestos de trabajo. Esta simple referencia nos deja desarmados  para  etiquetar  a  los  universitarios  de  la  actualidad  como  hijos legítimos de la educación superior. Al acudir a ellos para resolver los problemas anteriormente mencionados, no deja mucho que desear, pues en una gran proporción, son parte del problema o peor aún, son un problema que crea más problemas. Es como ir por medicina y recibir veneno.
 
-Si bien es cierto que la preparación profesional y técnica especializada es completamente necesaria en determinados sectores específicos, también es cierto que se les ha cedido (más que capacitado) demasiada responsabilidad a quienes apenas están a tientas buscando adquirir experiencia. Cabe apuntar que estas son generalizaciones sobre un promedio de estas poblaciones egresadas, ya que en la práctica y en la vida real también hay individuos que destacan y que sí están creando fuentes de ingreso y abriendo nuevas ramas de mercado y generando competencia a nivel nacional y global. Es decir, que están innovando y ejecutando
-
-29
-
-su creatividad para dar oportunidades y ejemplo a otros miembros del ámbito académico, dejando en alto el nombre de la educación superior.
+Si bien es cierto que la preparación profesional y técnica especializada es completamente necesaria en determinados sectores específicos, también es cierto que se les ha cedido (más que capacitado) demasiada responsabilidad a quienes apenas están a tientas buscando adquirir experiencia. Cabe apuntar que estas son generalizaciones sobre un promedio de estas poblaciones egresadas, ya que en la práctica y en la vida real también hay individuos que destacan y que sí están creando fuentes de ingreso y abriendo nuevas ramas de mercado y generando competencia a nivel nacional y global. Es decir, que están innovando y ejecutando su creatividad para dar oportunidades y ejemplo a otros miembros del ámbito académico, dejando en alto el nombre de la educación superior.
 
 Reiteramos que esta última afirmación no es aplicable a la mayoría de los egresados sino a los más destacados de ellos, ya que de ser la regla y no la excepción, definitivamente el país estaría en mayores índices de desarrollo, gracias al aporte directo desde la educación superior. En otras palabras, no se permitiría ni siquiera pensar que son los estados o el gobierno. los culpables o responsables del desarrollo, sino las instituciones académicas. Hasta que esto sea la medida consciente a nivel cultural, el país seguirá esperando que ocurran los avances por arte de magia y desde los aspectos de elecciones democráticas.
 
@@ -60,11 +44,7 @@ Es mejor tomar las herramientas y habilidades que generan riqueza y aportan valo
 
 El verdadero  enfoque entonces  de  problemáticas  y  necesidades,  está  en función  de  fortalecer  el  núcleo  social  que  es  la  familia.  Las  instituciones académicas no pueden reemplazar el papel fundamental de la familia como núcleo y las universidades no pueden resolver la fuga de cerebros de la nación, en niveles internos del estado, salir de los territorios de cuna, o en niveles internacionales, salir de su país de origen.
 
-Se necesita a la universidad y la instrucción académica cerca a las necesidades de la población, no al revés, que la gente, la mayoría de los casos, tiene que
-
-30
-
-desplazarse  fuera  de  sus  territorios  (en  contexto,  es  como  fugarse  de  las problemáticas de su región o sector, temporal o definitivamente), abandonando su propia familia y lugares de origen, con el propósito incoherente y equivocado de convertirse en profesional con título, solo porque tiene que aspirar a mejores sueldos para apoyar desde la distancia a la familia.
+Se necesita a la universidad y la instrucción académica cerca a las necesidades de la población, no al revés, que la gente, la mayoría de los casos, tiene que desplazarse  fuera  de  sus  territorios  (en  contexto,  es  como  fugarse  de  las problemáticas de su región o sector, temporal o definitivamente), abandonando su propia familia y lugares de origen, con el propósito incoherente y equivocado de convertirse en profesional con título, solo porque tiene que aspirar a mejores sueldos para apoyar desde la distancia a la familia.
 
 Bajo el pretexto o con la premisa de enviar cualquier apoyo financiero de vez en cuando y siempre que se pueda, lo cual nunca es suficiente, por más que se ofrezca de manera legítima con todo el corazón, la distancia crea una brecha también a nivel emocional. En perspectiva dentro del contexto social, en lo que respecta a los asuntos familiares, aunque esto pueda generar polémica, lo cierto es que un padre o una madre que ve triunfar a sus hijos en una ciudad lejana o en el extranjero, es un padre o una madre abandonados. Así mismo el territorio también ha quedado desprotegido, de manera que la población también lo está. Aunque la libertad del ser humano pueda definirse por el derecho a mudarse a donde se sienta atraído, tanto a nivel nacional como en el extranjero, esta libertad no debería estar alentada únicamente por la necesidad que resulta de las carencias.
 
