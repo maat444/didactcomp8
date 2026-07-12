@@ -14,6 +14,10 @@ Para quienes tengan conocimientos en programación pueden usar el enlace en el n
 
 https://github.com/maat444/Genesus_web/blob/master/static/downloads/Gen_1.py.
 
+O, simplemente hacer su lectura en el programa alojado en la dirección:
+
+<a href="https://maat444.github.io/genesus123/" target="_blank" rel="noopener noreferrer">https://maat444.github.io/genesus123/</a>
+
 En Genesus, nuestro calculo lineal solo puede llegar razonablemente hasta la generación 33, ya que el número que resulta del cálculo en las generaciones hasta ese número, supera los ocho mil millones de humanos, el cual sobrepasa la actual población mundial. Ahora, dándole un promedio o rango de procreación entre generaciones de treinta años, nos llevaría a que el transcurso desde la generación 33 hasta nosotros pudo haberse dado alrededor de los mil años.
 
 Siguiendo esta línea de razonamiento, el número de población mundial como máximo de su existencia oscilaría alrededor de los cien años, tomando como base la probabilidad de que cualquier recién nacido, de aquí a cien años, es muy probable que ya no exista, salvo algunas excepciones, la mayoría de seres humanos en el rango de cien años, dejará de existir.
