@@ -930,6 +930,8 @@ html, body {
 .info-ticker-content {
     display: flex;
     align-items: center;
+    justify-content: center;
+    text-align: center;
     gap: 10px;
     font-size: clamp(0.85rem, 2.2vmin, 0.95rem);
     color: #e2e8f0;
@@ -942,10 +944,36 @@ html, body {
     animation-timing-function: cubic-bezier(0.25, 1, 0.5, 1);
 }
 
+.ticker-text {
+    text-align: center;
+    line-height: 1.25;
+}
+
+
 .info-ticker-content .ticker-icon {
     color: #4dd0e1; /* Cyan brillante */
     font-size: 1.1em;
     animation: iconPulse 2s infinite ease-in-out;
+}
+
+/* Enlace dentro del infoticker */
+.ticker-link {
+    color: #fbbf24; /* Ámbar/dorado — claramente un enlace */
+    font-weight: 600;
+    text-decoration: underline;
+    text-decoration-color: rgba(251, 191, 36, 0.45);
+    text-underline-offset: 3px;
+    transition: color 0.2s ease, text-decoration-color 0.2s ease,
+                text-shadow 0.2s ease;
+    cursor: pointer;
+}
+
+.ticker-link:hover,
+.ticker-link:focus {
+    color: #fde68a; /* Ámbar más claro al pasar el cursor */
+    text-decoration-color: rgba(253, 230, 138, 0.8);
+    text-shadow: 0 0 12px rgba(251, 191, 36, 0.5);
+    outline: none;
 }
 
 /* Animaciones del Ticker */
