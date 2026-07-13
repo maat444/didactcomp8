@@ -613,7 +613,7 @@ const tickerPhrases = [
     { text: "Haz clic sobre cualquier botón para elegir un tema", icon: "fa-hand-pointer" },
     { text: "Haz clic en un tema para acceder al texto", icon: "fa-book-open" },
     { text: "Recuerda que tu aporte nos ayuda a mejorar", icon: "fa-hand-holding-heart" },
-    { text: "Escríbenos: <a class=\"ticker-link\" href=\"https://maat444.github.io/compendiocircular8/\" target=\"_blank\" rel=\"noopener noreferrer\">compendiocircular8@gmail.com</a>", icon: "fa-envelope" },
+    { text: "Escríbenos al correo: <a class=\"ticker-link\" href=\"https://maat444.github.io/compendiocircular8/\" target=\"_blank\" rel=\"noopener noreferrer\">compendiocircular8@gmail.com</a>", icon: "fa-envelope" },
     { text: "¿Qué tema vas a elegir hoy?", icon: "fa-circle-question" },
     { text: "Todos los derechos reservados", icon: "fa-scale-balanced" }
 ];
