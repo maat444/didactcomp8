@@ -3,10 +3,10 @@
 // ================================================================
 const componentesData = [
     {
-        id: 0, 
-        nombre: '2. Protección Ambiental', 
+        id: 0,
+        nombre: '2. Protección Ambiental',
         icono: 'fa-leaf',
-        color: '#34c1ecff', 
+        color: '#34c1ecff',
         rgb: '52,193,236',
         subtemas: [
             { nombre: 'Ecología Sin Ecologistas Verdes', icono: 'fa-leaf', file: 'content/Componente 2. Protección Ambiental/Comp_de_Int_Sis_29_21_Ecologia_Sin_Ecologistas_Verdes.md' },
@@ -21,10 +21,10 @@ const componentesData = [
         ]
     },
     {
-        id: 1, 
-        nombre: '3. Inclusión Social', 
+        id: 1,
+        nombre: '3. Inclusión Social',
         icono: 'fa-users',
-        color: '#f0b4f0ff', 
+        color: '#f0b4f0ff',
         rgb: '240,180,240',
         subtemas: [
             { nombre: 'Misión y Compromiso', icono: 'fa-bullseye', file: 'content/Componente 3. Inclusión Social/Comp_de_Int_Sis_39_31_Mision_y_Compromiso.md' },
@@ -37,10 +37,10 @@ const componentesData = [
         ]
     },
     {
-        id: 2, 
-        nombre: '4. Hermandad Ancestral', 
+        id: 2,
+        nombre: '4. Hermandad Ancestral',
         icono: 'fa-hand-holding-heart',
-        color: '#ee9984ff', 
+        color: '#ee9984ff',
         rgb: '238,153,132',
         subtemas: [
             { nombre: 'Hermandad Ancestral', icono: 'fa-scroll', file: 'content/Componente 4. Hermandad Ancestral/Comp_de_Int_Sis_47_41_Hermandad_Ancestral.md' },
@@ -56,10 +56,10 @@ const componentesData = [
         ]
     },
     {
-        id: 3, 
-        nombre: '5. Emprendimientos Sociales', 
+        id: 3,
+        nombre: '5. Emprendimientos Sociales',
         icono: 'fa-handshake',
-        color: '#a0cbccff', 
+        color: '#a0cbccff',
         rgb: '160,203,204',
         subtemas: [
             { nombre: 'Educación Superior que Crea Empresas', icono: 'fa-building-columns', file: 'content/Componente 5. Emprendimientos Sociales/Comp_de_Int_Sis_58_51_Educacion_superior_que_crea_empresas.md' },
@@ -74,10 +74,10 @@ const componentesData = [
         ]
     },
     {
-        id: 4, 
-        nombre: '6. Agro Industria', 
+        id: 4,
+        nombre: '6. Agro Industria',
         icono: 'fa-seedling',
-        color: '#3dc77bff', 
+        color: '#3dc77bff',
         rgb: '61,199,123',
         subtemas: [
             { nombre: 'Componente Agro Industria', icono: 'fa-seedling', file: 'content/Componente 6. Agro Industria/Comp_de_Int_Sis_68_61_Componente_Agro_Industria.md' },
@@ -94,10 +94,10 @@ const componentesData = [
         ]
     },
     {
-        id: 5, 
-        nombre: '7. Hostal Gastronomía', 
+        id: 5,
+        nombre: '7. Hostal Gastronomía',
         icono: 'fa-utensils',
-        color: '#ebdf9eff', 
+        color: '#ebdf9eff',
         rgb: '235,223,158',
         subtemas: [
             { nombre: 'Amor que Fluye e Influye', icono: 'fa-heart', file: 'content/Componente 7. Hostal Gastronomía/Comp_de_Int_Sis_80_71_Amor_que_fluye_e_influye.md' },
@@ -113,10 +113,10 @@ const componentesData = [
         ]
     },
     {
-        id: 6, 
-        nombre: '8. Territorio Ancestral', 
+        id: 6,
+        nombre: '8. Territorio Ancestral',
         icono: 'fa-map-marked-alt',
-        color: '#82a3fdff', 
+        color: '#82a3fdff',
         rgb: '130,163,253',
         subtemas: [
             { nombre: 'Anticipo a la Presentación', icono: 'fa-file-lines', file: 'content/Componente 8. Territorio Ancestral/Comp_de_Int_Sis_01_Anticipo_a_la_presentacion.md' },
@@ -136,10 +136,10 @@ const componentesData = [
         ]
     },
     {
-        id: 7, 
-        nombre: '1. Cultura y Turismo', 
+        id: 7,
+        nombre: '1. Cultura y Turismo',
         icono: 'fa-umbrella-beach',
-        color: '#faf05eff', 
+        color: '#faf05eff',
         rgb: '250,240,94',
         subtemas: [
             { nombre: 'Interrelación Cultural', icono: 'fa-globe-americas', file: 'content/Componente 1. Cultura y Turismo/Comp_de_Int_Sis_15_11_Interrelacion_Cultural.md' },
@@ -423,7 +423,7 @@ let isAnimationPaused = false;
 function actualizarPausaAnimaciones() {
     const compOpen = modalElement.classList.contains('show') || document.querySelector('#componentModal.show') !== null;
     const contentOpen = contentModalElement.classList.contains('show') || document.querySelector('#contentModal.show') !== null;
-    
+
     if (compOpen || contentOpen) {
         isAnimationPaused = true;
         circleMap.classList.add('animations-paused');
@@ -583,7 +583,7 @@ window.addEventListener('pageshow', (e) => {
     function animate() {
         ctx.clearRect(0, 0, width, height);
         time++;
-        
+
         if (!isAnimationPaused) {
             // Animación normal activa
             particles.forEach(p => {
@@ -598,9 +598,53 @@ window.addEventListener('pageshow', (e) => {
             });
             drawConnections();
         }
-        
+
         requestAnimationFrame(animate);
     }
 
     animate();
 })();
+
+// ================================================================
+//  LÓGICA DEL INFOTICKER ROTATIVO SUPERIOR
+// ================================================================
+const tickerPhrases = [
+    { text: "Bienvenido a los Componentes de Integración Sistémica", icon: "fa-circle-info" },
+    { text: "Haga clic sobre cualquier botón para elegir un tema", icon: "fa-hand-pointer" },
+    { text: "Haz clic en un tema para acceder al texto", icon: "fa-book-open" },
+    { text: "Todos los derechos reservados", icon: "fa-scale-balanced" },
+    { text: "¿Qué tema vas a elegir hoy?", icon: "fa-circle-question" }
+];
+
+let currentTickerIndex = 0;
+const infoTickerContent = document.getElementById('infoTickerContent');
+
+function rotateTicker() {
+    if (!infoTickerContent) return;
+
+    // 1. Agregar clase de salida hacia arriba
+    infoTickerContent.classList.remove('slide-in-bottom');
+    infoTickerContent.classList.add('slide-out-up');
+
+    // 2. Esperar a que la animación termine, cambiar contenido y deslizar desde abajo
+    setTimeout(() => {
+        currentTickerIndex = (currentTickerIndex + 1) % tickerPhrases.length;
+        const currentData = tickerPhrases[currentTickerIndex];
+
+        // Actualizar el icono y el texto
+        infoTickerContent.innerHTML = `
+            <i class="fas ${currentData.icon} ticker-icon"></i>
+            <span class="ticker-text">${currentData.text}</span>
+        `;
+
+        // Quitar salida y poner entrada desde abajo
+        infoTickerContent.classList.remove('slide-out-up');
+        infoTickerContent.classList.add('slide-in-bottom');
+    }, 500); // 500ms coincide con la duración de slide-out-up
+}
+
+// Iniciar ciclo de rotación cada 4.5 segundos
+if (infoTickerContent) {
+    setInterval(rotateTicker, 4500);
+}
+

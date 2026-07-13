@@ -891,3 +891,102 @@ html, body {
         animation: rotateBeam 14.4s linear infinite !important;
     }
 }
+
+/* ═══════════════════════════════════════════
+   INFOTICKER SUPERIOR
+   ══════════════════════════════════════════════ */
+.info-ticker-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 48px;
+    background: rgba(10, 22, 40, 0.75);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border-bottom: 1px solid rgba(77, 208, 225, 0.25);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.4), 
+                inset 0 -1px 10px rgba(77, 208, 225, 0.05);
+    z-index: 1000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    padding: 0 16px;
+    transition: border-color 0.3s ease;
+}
+
+.info-ticker-wrapper {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    max-width: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.info-ticker-content {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: clamp(0.85rem, 2.2vmin, 0.95rem);
+    color: #e2e8f0;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    text-shadow: 0 0 10px rgba(77, 208, 225, 0.15);
+    will-change: transform, opacity;
+    animation-duration: 0.5s;
+    animation-fill-mode: forwards;
+    animation-timing-function: cubic-bezier(0.25, 1, 0.5, 1);
+}
+
+.info-ticker-content .ticker-icon {
+    color: #4dd0e1; /* Cyan brillante */
+    font-size: 1.1em;
+    animation: iconPulse 2s infinite ease-in-out;
+}
+
+/* Animaciones del Ticker */
+@keyframes slideOutUp {
+    0% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+    100% {
+        transform: translateY(-100%);
+        opacity: 0;
+    }
+}
+
+@keyframes slideInBottom {
+    0% {
+        transform: translateY(100%);
+        opacity: 0;
+    }
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+@keyframes iconPulse {
+    0%, 100% {
+        transform: scale(1);
+        filter: drop-shadow(0 0 2px rgba(77, 208, 225, 0.3));
+    }
+    50% {
+        transform: scale(1.15);
+        filter: drop-shadow(0 0 8px rgba(77, 208, 225, 0.7));
+    }
+}
+
+.slide-out-up {
+    animation-name: slideOutUp;
+}
+
+.slide-in-bottom {
+    animation-name: slideInBottom;
+}
+
