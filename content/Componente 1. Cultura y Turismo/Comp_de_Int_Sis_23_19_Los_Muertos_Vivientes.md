@@ -10,13 +10,13 @@ La siguiente exposición tampoco pretende entablar ninguna conexión con la demo
 
 Para empezar, podemos situarnos de manera natural en nuestro nacimiento, que proviene de una madre y de un padre. Este fractal se repite en todos los niveles generacionales como bien sabemos que son los abuelos, bisabuelos, tatarabuelos, que se convierten numéricamente en 2, 4, 8, 16, etc. Podemos verificar con matemáticas simples que tenemos cuatro abuelos que provienen de ocho  bisabuelos,  que  a  su  vez  proceden  de  dieciséis  tatarabuelos  y  así sucesivamente multiplicando por dos.
 
-Para quienes tengan conocimientos en programación pueden usar el enlace en el navegador para ver el programa en:
+Para profundizar en estas métricas sobre la duplicación generacional en la retrospectiva del tiempo, referente al origen de los nacimientos, se presenta el programa Genesus, al cual pueden ingresar los estudiantes por medio del enlace:
 
-https://github.com/maat444/Genesus_web/blob/master/static/downloads/Gen_1.py.
+<a href="https://genesus-web.vercel.app/" target="_blank" rel="noopener noreferrer">Genesus</a>
 
 O, simplemente hacer su lectura en el programa alojado en la dirección:
 
-<a href="https://maat444.github.io/genesus123/" target="_blank" rel="noopener noreferrer">https://maat444.github.io/genesus123/</a>
+<a href="https://maat444.github.io/genesus123/" target="_blank" rel="noopener noreferrer">genesus123</a>
 
 En Genesus, nuestro calculo lineal solo puede llegar razonablemente hasta la generación 33, ya que el número que resulta del cálculo en las generaciones hasta ese número, supera los ocho mil millones de humanos, el cual sobrepasa la actual población mundial. Ahora, dándole un promedio o rango de procreación entre generaciones de treinta años, nos llevaría a que el transcurso desde la generación 33 hasta nosotros pudo haberse dado alrededor de los mil años.
 
