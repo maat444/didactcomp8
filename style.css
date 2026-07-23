@@ -401,6 +401,86 @@ html, body {
     -webkit-backdrop-filter: blur(6px);
 }
 
+/* ═══════════════════════════════════════════ FOOTER SIMPLE Y TRANSPARENTE ══════════════════════════════════════════════ */ 
+.footer-bottom-content { 
+  position: fixed; 
+  left: 0; 
+  right: 0; 
+  bottom: 12px; 
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  z-index: 1200; 
+  pointer-events: none; /* allow clicks only on the link */ 
+} 
+
+.footer-bottom-content .creator-credit { 
+  pointer-events: auto; 
+  display: inline-flex; 
+  align-items: center; 
+  gap: 0.5rem; 
+  color: rgba(226, 232, 240, 0.9); 
+  font-size: 0.92rem; 
+  font-weight: 400; 
+  background: transparent; 
+} 
+
+.footer-creator-link { 
+  display: inline-flex; 
+  align-items: center; 
+  text-decoration: none; 
+} 
+
+/* LOGO MODIFICADO: Mantiene color original, flota y brilla la silueta */
+.footer-creator-logo { 
+  width: 28px; 
+  height: auto; 
+  display: inline-block; 
+  border-radius: 6px; 
+  /* Se eliminan los filtros opacos y se activa la animación infinita */
+  animation: flotarYBrillar 4s ease-in-out infinite;
+} 
+
+/* Se eliminan los cambios de estado al hacer hover para mantenerlo estático ante el cursor */
+.footer-creator-link:focus .footer-creator-logo, 
+.footer-creator-link:hover .footer-creator-logo { 
+  transform: none;  
+  filter: none;
+  box-shadow: none;
+} 
+
+/* Accessible focus ring for keyboard users */ 
+.footer-creator-link:focus { 
+  outline: 2px solid rgba(77, 208, 225, 0.18); 
+  outline-offset: 4px; 
+} 
+
+/* ANIMACIÓN: Controla el movimiento vertical y el brillo suave del contorno */
+@keyframes flotarYBrillar {
+  0%, 100% {
+    transform: translateY(0);
+    /* Brillo sutil inicial (puedes cambiar el color HEX #4dd0e1 por el que desees) */
+    filter: drop-shadow(0 0 4px rgba(77, 208, 225, 0.3));
+  }
+  50% {
+    transform: translateY(-4px); /* Sube 4 píxeles */
+    /* El brillo se intensifica en el punto más alto */
+    filter: drop-shadow(0 0 10px rgba(77, 208, 225, 0.6));
+  }
+}
+
+@media (max-width: 480px) { 
+  .footer-creator-logo { 
+    width: 24px; 
+  } 
+  .footer-bottom-content { 
+    bottom: 8px; 
+  } 
+  .footer-bottom-content .creator-credit { 
+    font-size: 0.82rem; 
+  } 
+}
+
 .modal-content {
     border-radius: 1.2rem;
     border: none;
