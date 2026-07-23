@@ -14,7 +14,7 @@ Para profundizar en estas métricas sobre la duplicación generacional en la ret
 
 <a href="https://genesus-web.vercel.app/" target="_blank" rel="noopener noreferrer">Genesus</a>
 
-O, simplemente hacer su lectura en el programa alojado en la dirección:
+O, simplemente hacer su lectura en el programa alojado en:
 
 <a href="https://maat444.github.io/genesus123/" target="_blank" rel="noopener noreferrer">genesus123</a>
 
